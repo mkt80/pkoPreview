@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<!--
+	Forty by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+
+{% include head.html %}
+
+<body>
+
+    {% include header.html %}
+
+    <!-- Banner -->
+    <section id="banner" class="major">
+        
+        <div class="video-background">
+            <div class="video-foreground">
+                
+                <div id="muteYouTubeVideoPlayer"></div>
+                
+            </div>
+        </div>
+
+        <div class="inner">
+           
+               
+              <header class="major alt">
+                <h1>{{ page.landing-title }}</h1>
+              </header>
+              <div class="content">
+                <p style="text-transform: uppercase;">{{ page.description }}</p>
+                
+              </div>
+            
+        </div>
+          <a href="#one" class="button scrolly home-down"><i class="fa fa-chevron-circle-down" aria-hidden="true"></i>
+</a>
+
+         <a onclick="unMute()" class="button sound"><i class="fa fa-volume-up" aria-hidden="true"></i></a>
+    </section>
+
+    <!-- Main -->
+    <div id="main">
+
+        <!-- One -->
+        {% include tiles.html %}
+
+        <!-- Two -->
+        <section id="two">
+            <div class="inner">
+                <header class="major">
+                    <h2>About Pale Kai</h2>
+                </header>
+                <p>{{ content }}</p>
+                
+            </div>
+        </section>
+
+    </div>
+
+    {% include footer.html %}
+    <script async src="https://www.youtube.com/iframe_api"></script>
+    <script>
+          var player;
+
+     function onYouTubeIframeAPIReady() {
+
+      player = new YT.Player('muteYouTubeVideoPlayer', {
+        videoId: 'zrnwIQfU3R4',// YouTube Video ID
+        width: 560,               // Player width (in px)
+        height: 316,              // Player height (in px)
+        playerVars: {
+          autoplay: 1,        // Auto-play the video on load
+          controls: 1,        // Show pause/play buttons in player
+          showinfo: 0,        // Hide the video title
+          modestbranding: 1,  // Hide the Youtube Logo
+          loop: 1,            // Run the video in a loop
+                  playlist: 'zrnwIQfU3R4', // Repeat ID so vdeo loops
+
+          fs: 0,              // Hide the full screen button
+          cc_load_policy: 0, // Hide closed captions
+          iv_load_policy: 3,  // Hide the Video Annotations
+          autohide: 0         // Hide video controls when playing
+        },
+        events: {
+          onReady: function(e) {
+            e.target.mute();
+          }
+         
+        }
+      });
+
+     }
+     
+     function unMute() {
+
+        if(player.isMuted()){
+            player.unMute();
+        }
+        else{
+            player.mute();
+        }
+        
+        return false;
+      }
+    
+
+     // Written by @labnol 
+    </script>
+</body>
+
+</html>
