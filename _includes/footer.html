@@ -1,56 +1,34 @@
 <!-- Contact -->
-<section id="contact">
+<section id="contact" {% if page.layout == "home" %} class="home" {% endif %}>
+	
 	<div class="inner">
 		<section>
-			<form action="https://formspree.io/{{ site.email }}" method="POST">
-				<div class="field half first">
-					<label for="name">Name</label>
-					<input type="text" name="name" id="name" />
-				</div>
-				<div class="field half">
-					<label for="email">Email</label>
-					<input type="text" name="_replyto" id="email" />
-				</div>
-				<div class="field">
-					<label for="message">Message</label>
-					<textarea name="message" id="message" rows="6"></textarea>
-				</div>
-				<ul class="actions">
-					<li><input type="submit" value="Send Message" class="special" /></li>
-					<li><input type="reset" value="Clear" /></li>
-				</ul>
-			</form>
+			{% if page.title == "Recruitment Registration" %}
+				<img src="/assets/images/outrigger-race-1.jpg" class="image fit">
+			{% else %}
+			<h3>Newsletter</h3>
+
+				{% include newsletter-form.html %}
+			{% endif %}
 		</section>
 		<section class="split">
+			
 			<section>
 				<div class="contact-method">
-					<span class="icon alt fa-envelope"></span>
-					<h3>Email</h3>
-					<a href="#">{{ site.email }}</a>
+					<a href="{{ site.instagram_url }}" class="icon alt fa-instagram" target="_blank"><span class="label">Instagram</span></a>
+					<div class="instagram-module">	
+						<div id="instafeed"></div>
+						<a href="http://instagram.com/palekaioutrigger" class="button small">Follow Us</a>
+					</div>
 				</div>
 			</section>
-			<section>
-				<div class="contact-method">
-					<span class="icon alt fa-phone"></span>
-					<h3>Phone</h3>
-					<span>{{ site.phone }}</span>
-				</div>
-			</section>
-			<section>
-				<div class="contact-method">
-					<span class="icon alt fa-home"></span>
-					<h3>Address</h3>
-					<span>{{ site.street_address }}<br />
-					{{ site.city }}, {{ site.state }} {{ site.zip_code }}<br />
-					{{ site.country }}</span>
-				</div>
-			</section>
+			
 		</section>
 	</div>
 </section>
 
 <!-- Footer -->
-	<footer id="footer">
+	<footer id="footer" {% if page.layout == "home" %} class="home" {% endif %}>
 		<div class="inner">
 			<ul class="icons">
 				{% if site.twitter_url %}
@@ -83,19 +61,19 @@
 				{% if site.linkedin_url %}
 				<li><a href="{{ site.linkedin_url }}" class="icon alt fa-linkedin" target="_blank"><span class="label">LinkedIn</span></a></li>
 				{% endif %}
-				{% if site.youtube %}
+				{% if site.youtube_url %}
 				<li><a href="{{ site.youtube_url }}" class="icon alt fa-youtube" target="_blank"><span class="label">YouTube</span></a></li>
 				{% endif %}
 			</ul>
 			<ul class="copyright">
+				<li><a href="/Recruitment-Registration">Recruit Registration Form</a></li>
 				<li>&copy; {{ site.title }} {{ site.subtitle }}</li>
 				<li>View the source code on <a href="" target="_blank">GitHub</a></li>
 			</ul>
 		</div>
 	</footer>
 
-</div>
-
+	
 <!-- Scripts -->
 	<script src="{{ "assets/js/jquery.min.js" | absolute_url }}"></script>
 	<script src="{{ "assets/js/jquery.scrolly.min.js" | absolute_url }}"></script>
@@ -104,3 +82,15 @@
 	<script src="{{ "assets/js/util.js" | absolute_url }}"></script>
 	<!--[if lte IE 8]><script src="{{ "assets/js/ie/respond.min.js" | absolute_url }}"></script><![endif]-->
 	<script src="{{ "assets/js/main.js" | absolute_url }}"></script>
+	<script src="{{ "assets/js/instafeed.js" | absolute_url }}"></script>
+	<script>
+	// InstaFeed
+	var userFeed = new Instafeed({
+	    get: 'user',
+	    userId: '1799013733',
+	    accessToken: '1799013733.1677ed0.3a50c2e860944ac0808708d418e3b0e0',
+	    limit: '9',
+	});
+	userFeed.run();
+	</script>
+

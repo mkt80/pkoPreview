@@ -3,7 +3,7 @@ title: Pale Kai
 subtitle: Outrigger Canoe Club
 email: palekaioutrigger@gmail.com
 description: A competitive Hawaiian style outrigger canoe racing for men and women right here on the beautiful central coast waters of California.
-baseurl: "/pko" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://weblbdesigns.com" # the base hostname & protocol for your site
 author:
 street_address: 
@@ -12,10 +12,10 @@ state:
 zip_code: 
 country: United States of America
 phone: 
-
+permalink: /:categories/:year/:title/
 # Homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
-tiles-count: 4
+tiles-count: 3
 
 # Social settings
 500px_url:
@@ -36,3 +36,7 @@ markdown: kramdown
 sass:
   style: compressed
   sass_dir: _sass
+
+gems:
+  - jekyll-redirect-from
+

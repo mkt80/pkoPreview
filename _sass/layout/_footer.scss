@@ -28,6 +28,15 @@
 			}
 		}
 
+		.icons {
+			float:right;
+		}
+
+		&.home {
+			background-color: _palette(bg-rgba);
+
+		}
+
 		@include breakpoint(xsmall) {
 			.copyright {
 				li {

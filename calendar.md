@@ -2,7 +2,7 @@
 layout: post
 title: Calendar
 description: Race, practice, and team schedule
-image: assets/images/pic11.jpg
+image: assets/images/womens-team-afterrace-1.jpg
 nav-menu: true
 ---
 ## GENERAL SCHEDULE

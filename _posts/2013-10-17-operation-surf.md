@@ -2,7 +2,6 @@
 layout: post
 title: Operation Surf 2013
 description: 
-image: assets/images/pic06.jpg
 ---
 # OPERATION SURF 2013
 

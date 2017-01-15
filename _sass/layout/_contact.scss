@@ -9,7 +9,10 @@
 	#contact {
 		border-bottom: solid 1px _palette(border);
 		overflow-x: hidden;
+		&.home {
+					background-color: _palette(bg-rgba);
 
+		}
 		> .inner {
 			@include vendor('display', 'flex');
 			padding: 0 !important;
@@ -90,4 +93,8 @@
 				}
 			}
 		}
+	}
+
+	#mce-success-response {
+		color:_palette(success);
 	}

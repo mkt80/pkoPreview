@@ -2,7 +2,6 @@
 layout: post
 title: 4TH ANNUAL ALOHA COFFEE AND CULTURE FESTIVAL
 description: 4th Annual Aloha Coffee And Culture Festival
-image: assets/images/pic06.jpg
 ---
 
 # 4TH ANNUAL ALOHA COFFEE AND CULTURE FESTIVAL

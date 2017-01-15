@@ -2,7 +2,7 @@
 layout: post
 title: Sponsorship
 description: Sponsoring Plae Kai Outrigger Canoe Club
-image: assets/images/pic11.jpg
+image: assets/images/outriggers-onwater-2.jpg
 nav-menu: true
 ---
 

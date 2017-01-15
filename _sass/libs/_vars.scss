@@ -31,6 +31,7 @@
 // Palette.
 	$palette: (
 		bg:					#130019,
+		bg-rgba:    		rgba(19, 0, 25, .9),
 		bg-alt:				#6C0093,
 		fg:					#ffffff,
 		fg-bold:			#ffffff,
@@ -43,5 +44,6 @@
 		accent3:			#DEA3ED,
 		accent4:			#FFFC82,
 		accent5:			#F9FF8C,
-		accent6:			#933E52
+		accent6:			#933E52,
+		success:			#C4EA8A
 	);
