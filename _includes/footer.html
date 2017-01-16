@@ -28,51 +28,56 @@
 </section>
 
 <!-- Footer -->
-	<footer id="footer" {% if page.layout == "home" %} class="home" {% endif %}>
-		<div class="inner">
-			<ul class="icons">
-				{% if site.twitter_url %}
-				<li><a href="{{ site.twitter_url }}" class="icon alt fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
-				{% endif %}
-				{% if site.googleplus_url %}
-				<li><a href="{{ site.googleplus_url }}" class="icon alt fa-google-plus" target="_blank"><span class="label">Google+</span></a></li>
-				{% endif %}
-				{% if site.facebook_url %}
-				<li><a href="{{ site.facebook_url }}" class="icon alt fa-facebook" target="_blank"><span class="label">Facebook</span></a></li>
-				{% endif %}
-				{% if site.instagram_url %}
-				<li><a href="{{ site.instagram_url }}" class="icon alt fa-instagram" target="_blank"><span class="label">Instagram</span></a></li>
-				{% endif %}
-				{% if site.pinterest_url %}
-				<li><a href="{{ site.pinterest_url }}" class="icon alt fa-pinterest" target="_blank"><span class="label">Pinterest</span></a></li>
-				{% endif %}
-				{% if site.500px_url %}
-				<li><a href="{{ site.500px_url }}" class="icon alt fa-500px" target="_blank"><span class="label">500px</span></a></li>
-				{% endif %}
-				{% if site.gitlab_url %}
-				<li><a href="{{ site.gitlab_url }}" class="icon alt fa-gitlab" target="_blank"><span class="label">GitLab</span></a></li>
-				{% endif %}
-				{% if site.github_url %}
-				<li><a href="{{ site.github_url }}" class="icon alt fa-github" target="_blank"><span class="label">GitHub</span></a></li>
-				{% endif %}
-				{% if site.slack_url %}
-				<li><a href="{{ site.slack_url }}" class="icon alt fa-slack" target="_blank"><span class="label">Slack</span></a></li>
-				{% endif %}
-				{% if site.linkedin_url %}
-				<li><a href="{{ site.linkedin_url }}" class="icon alt fa-linkedin" target="_blank"><span class="label">LinkedIn</span></a></li>
-				{% endif %}
-				{% if site.youtube_url %}
-				<li><a href="{{ site.youtube_url }}" class="icon alt fa-youtube" target="_blank"><span class="label">YouTube</span></a></li>
-				{% endif %}
-			</ul>
-			<ul class="copyright">
-				<li><a href="/recruitment-registration/">Recruit Registration Form</a></li>
-				<li>&copy; {{ site.title }} {{ site.subtitle }}</li>
-				<li>View the source code on <a href="https://github.com/lbarker/palekai.org" target="_blank">GitHub</a></li>
-			</ul>
-		</div>
-	</footer>
+<footer id="footer" {% if page.layout == "home" %} class="home" {% endif %}>
+	<div class="inner">
+		<p class="description">Pale Kai Outrigger is a non-profit outrigger canoe club located at Avila Beach, California near the city of San Luis Obispo, and is a member of the Southern California Outrigger Racing Association (SCORA). We offer competitive Hawaiian style outrigger canoe racing for men and women right here on the beautiful central coast waters of California.</p>
+		<ul class="icons">
+			{% if site.twitter_url %}
+			<li><a href="{{ site.twitter_url }}" class="icon alt fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
+			{% endif %}
+			{% if site.googleplus_url %}
+			<li><a href="{{ site.googleplus_url }}" class="icon alt fa-google-plus" target="_blank"><span class="label">Google+</span></a></li>
+			{% endif %}
+			{% if site.facebook_url %}
+			<li><a href="{{ site.facebook_url }}" class="icon alt fa-facebook" target="_blank"><span class="label">Facebook</span></a></li>
+			{% endif %}
+			{% if site.instagram_url %}
+			<li><a href="{{ site.instagram_url }}" class="icon alt fa-instagram" target="_blank"><span class="label">Instagram</span></a></li>
+			{% endif %}
+			{% if site.pinterest_url %}
+			<li><a href="{{ site.pinterest_url }}" class="icon alt fa-pinterest" target="_blank"><span class="label">Pinterest</span></a></li>
+			{% endif %}
+			{% if site.500px_url %}
+			<li><a href="{{ site.500px_url }}" class="icon alt fa-500px" target="_blank"><span class="label">500px</span></a></li>
+			{% endif %}
+			{% if site.gitlab_url %}
+			<li><a href="{{ site.gitlab_url }}" class="icon alt fa-gitlab" target="_blank"><span class="label">GitLab</span></a></li>
+			{% endif %}
+			{% if site.github_url %}
+			<li><a href="{{ site.github_url }}" class="icon alt fa-github" target="_blank"><span class="label">GitHub</span></a></li>
+			{% endif %}
+			{% if site.slack_url %}
+			<li><a href="{{ site.slack_url }}" class="icon alt fa-slack" target="_blank"><span class="label">Slack</span></a></li>
+			{% endif %}
+			{% if site.linkedin_url %}
+			<li><a href="{{ site.linkedin_url }}" class="icon alt fa-linkedin" target="_blank"><span class="label">LinkedIn</span></a></li>
+			{% endif %}
+			{% if site.youtube_url %}
+			<li><a href="{{ site.youtube_url }}" class="icon alt fa-youtube" target="_blank"><span class="label">YouTube</span></a></li>
+			{% endif %}
+		</ul>
+		<div class="clearfix"></div>
 
+	</div>
+</footer>
+<div id="subfooter">
+	<div class="inner">
+		<ul class="copyright">
+			<li>&copy; {{ site.year }} {{ site.title }} {{ site.subtitle }}. All rights reserved.</li>
+			<li>View the source code on <a href="https://github.com/lbarker/palekai.org" target="_blank">GitHub</a></li>
+		</ul>
+	</div>
+</footer>
 	
 <!-- Scripts -->
 	<script src="{{ "assets/js/jquery.min.js" | absolute_url }}"></script>

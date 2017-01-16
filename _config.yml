@@ -16,6 +16,8 @@ permalink: /:categories/:year/:title/
 # Homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
 tiles-count: 3
+tiles-count-news: 6
+
 
 # Social settings
 500px_url:

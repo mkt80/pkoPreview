@@ -31,13 +31,14 @@
 // Palette.
 	$palette: (
 		bg:					#130019,
-		bg-rgba:    		rgba(19, 0, 25, .9),
+		bg-rgba:    		rgba(19, 0, 25, .85),
 		bg-alt:				#6C0093,
 		fg:					#ffffff,
 		fg-bold:			#ffffff,
 		fg-light:			rgba(244,244,255,0.2),
+		fg-lighter:			rgba(244,244,255,.4),		
 		border:				rgba(212,212,255,0.1),
-		border-bg:			rgba(212,212,255,0.035),
+		border-bg:			rgba(212,212,255,0.15),
 		highlight:			#FFFF6D,
 		accent1:			#FFFF00,
 		accent2:			#2E003D,

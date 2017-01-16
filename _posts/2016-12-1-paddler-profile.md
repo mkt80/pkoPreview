@@ -13,7 +13,8 @@ Before we start the season I want to take a minute to get to know everyone and g
 If you have any questions please don't hesitate to reach out. Other than that have a great holiday and get ready to train hard and have a lot of fun next season!! 
 
 Cheers!
-
 --
 Head Coach
 Jean
+
+<a href="/asstes/docs/2017-paddler-profile.pdf" class="button">2017 Paddler Profile</a>
