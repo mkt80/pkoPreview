@@ -2,7 +2,7 @@
 layout: post
 title: Membership Waivers and Dues
 description: Yearly dues, waivers, and literature.
-image: assets/images/team-1.jpg
+image: /assets/images/team-1.jpg
 
 ---
 

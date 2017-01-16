@@ -2,7 +2,7 @@
 layout: post
 title: Join Us
 description: Information about our 2017 recruitment program and joining Pale Kai Outrigger
-image: assets/images/outriggers-onwater-1.jpg
+image: /assets/images/outriggers-onwater-1.jpg
 feature: true
 ---
 <!--
