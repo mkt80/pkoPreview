@@ -15,7 +15,7 @@ image: assets/images/team-1.jpg
     	{% include waivers.html %}
 	</div>
 	<div class="6u 12u$(small)">
-		<h3>2017 SCORA Novice Race Schedule</h3>
+		<h3>2017 SCORA Iron Race Schedule</h3>
 		<div class="table-wrapper">
 			<table class="alt">
 			<thead>

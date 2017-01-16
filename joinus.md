@@ -30,7 +30,7 @@ feature: true
 		<p>If you're interested in joining Pale Kai as a inexperienced paddler for 2017, then come to our New Recruitment Demo Days at Coleman Park in Morro Bay during febuarary. These recruitment demo days are by sign up only! Novice recruitment for 2017 will close during the second week of March. So sign up now!
 		</p>
 		<br/>
-		<a href="/Recruitment-Registration" class="button big">Reserve Your Spot</a>
+		<a href="/recruitment-registration/" class="button big">Reserve Your Spot</a>
 	</div>
 	<div class="6u 12u$(small)">
 	<p>
@@ -70,52 +70,7 @@ feature: true
 	</div>
 	<div class="6u 12u$(small)">
 		<h3>2017 SCORA Novice Race Schedule</h3>
-		<div class="table-wrapper">
-			<table class="alt">
-			<thead>
-			<tr>
-			<th>Race Date</th>
-			<th>Race</th>
-			<th>Location</th>
-			<th>Host</th>
-
-			</tr>
-			</thead>
-			<tbody>
-
-			<tr>
-			<td>May 13</td>
-			<td>Crystal Pie</td>
-			<td>San Diego, CA</td>
-			<td>Hanohano OCC</td>
-			</tr>
-			<tr>
-			<td>May 20</td>
-			<td>Rig Run</td>
-			<td>Santa Barbara, CA</td>
-			<td>Ka Nai’a OCC</td>
-			</tr>
-			<tr>
-			<td>June 3</td>
-			<td>Kahanamoku Klassic</td>
-			<td>Marina del Rey, CA</td>
-			<td>Marina del Rey OCC</td>
-			</tr>
-			<tr>
-			<td>June 10</td>
-			<td>Ventura Outrigger Challenge</td>
-			<td>Ventura, CA</td>
-			<td>Hokuloa OCC</td>
-			</tr>
-			<tr>
-			<td>June 24	Iron Outrigger</td>
-			<td>Championships</td>
-			<td>San Diego, CA</td>
-			<td>Kai Elua OCC</td>
-			</tr>
-			</tbody>
-			</table>
-		</div>
+		{% include race-schedule.html %}
 		<img src="/assets/images/outrigger-race-1.jpg" class="image fit">
 	</div>
 </div>

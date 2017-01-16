@@ -32,6 +32,10 @@
 
 #one {
 	.inner {
-		max-width:800px;
+		max-width:960px;
 	}
+}
+
+.inner.max-width {
+		max-width:960px!important;
 }
