@@ -147,6 +147,9 @@
 				background:transparent;
 
 			}
+			@include breakpoint(xsmall) {
+				display:none;
+			}
 		}
 		&.home-down {
 			border:none;
