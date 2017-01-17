@@ -64,6 +64,7 @@
 		font-weight: _font(weight-bold);
 		line-height: 1.65;
 		margin: 0 0 (_size(element-margin) * 0.5) 0;
+		font-family: _font(family-header);
 
 		a {
 			color: inherit;

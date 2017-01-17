@@ -13,8 +13,8 @@ If you have an issue you would like added to this agenda for the boards consider
 As a reminder, this is a board-only meeting. We will advise you all on the schedule for all-member meetings, asap.
 
 Sincerely,
-
 The PKO Board
+
 ------------------------------
 
 ### PKO BOARD MEETING AGENDA FOR 1/17/17
