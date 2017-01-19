@@ -27,7 +27,7 @@ feature: true
 <h2>New Recruitment Demo Days</h2>
 <div class="row">
 	<div class="6u 12u$(small)">
-		<p>If you're interested in joining Pale Kai as a an inexperienced paddler for 2017, then come to our New Recruitment Demo Days at Coleman Park in Morro Bay during February. These recruitment demo days are by sign up only! Novice recruitment for 2017 will close during the second week of March. So sign up now!
+		<p>If you're interested in joining Pale Kai as an inexperienced paddler for 2017, then come to our New Recruitment Demo Days at Coleman Park in Morro Bay during February. These recruitment demo days are by sign up only! Novice recruitment for 2017 will close during the second week of March. So sign up now!
 		</p>
 		<br/>
 		<p>

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Membership Waivers and Dues
+title: Membership Dues and Waivers
 description: Yearly dues, waivers, and literature.
 image: assets/images/team-1.jpg
 
@@ -10,7 +10,7 @@ image: assets/images/team-1.jpg
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h2>Membership Dues</h2>
-		<p>Every member of Pale Kai pays yearly dues in the amount of $350. This money goes towards the cost of maintaining our outriggers and club site, race fees, and insurance. Once paid, you will be considered a current 2017 Pale Kai member, with paddeling opportunites throughout the year.</p>
+		<p>Every member of Pale Kai pays yearly dues in the amount of $350. This money goes towards the cost of maintaining our outriggers, club site, and race fees. Once paid, you will be considered a current 2017 Pale Kai member, with paddling opportunites throughout the year.</p>
 		
 	</div>
 	<div class="6u$ 12u$(small)">
