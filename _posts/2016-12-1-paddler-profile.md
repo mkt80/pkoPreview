@@ -17,4 +17,4 @@ Cheers!
 Head Coach
 Jean
 
-<a href="/asstes/docs/2017-paddler-profile.pdf" class="button">2017 Paddler Profile</a>
+<a href="/assets/docs/2017-paddler-profile.pdf" class="button">2017 Paddler Profile</a>
