@@ -102,6 +102,8 @@ Want to give it a try? Then sign up for our 2017 Recruitment Program below.
 	<a href="/membership/" class="button small">Waivers and Required Literature</a>
 </center>
 <p>&nbsp;</p>
+
+
 <h4>Next Level: The World Stage</h4>
 
 <p>Outrigger canoe racing takes place all over the world! The Olamau Race sees the best outrigger canoe teams compete off the coast of Hawaii’s Big Island. Ocean knowledge, skill, and perseverance aren’t always enough to succeed, but they can keep you above water. Watch the short below about a Californian team competing in The Olamau Race.</p>
