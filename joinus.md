@@ -101,7 +101,7 @@ Want to give it a try? Then sign up for our 2017 Recruitment Program below.
 	<a href="/membership/" class="button small">Membership Dues</a>
 	<a href="/membership/" class="button small">Waivers and Required Literature</a>
 </center>
-<p>&nsbp;</p>
+<p>&nbsp;</p>
 <p>Still thinking about it? Then watch the short film below.</p>
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/u-lGBRTvQzU" frameborder="0" allowfullscreen></iframe>
 
