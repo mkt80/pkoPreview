@@ -83,8 +83,8 @@ Those Novice who develop proficiency may also be invited to compete in the 9-Man
 <p>
 <p>The video link below provides a good illustration of the crew rotations that occur at 15-20 minute intervals in the open water, with a canoe moving at race speed and a chase boat to perform the exchange of paddlers in and out of the open ocean.  It is a challenging, but exciting experience, and for many paddlers it is the culmination of the sport. 
 </p>
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/u-lGBRTvQzU" frameborder="0" allowfullscreen></iframe>
 
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/4R1pwH9XoRs" frameborder="0" allowfullscreen></iframe>
 <P>&nbsp;</p>
 <h4>September-January:  Winter Paddling</h4>
 <p>Winter practices will be subject to daylight and weather restrictions and continue at Avila Beach, until the time changes. A few boats will  then be re-located to Morro Bay for more protected paddling.  
@@ -101,7 +101,9 @@ Want to give it a try? Then sign up for our 2017 Recruitment Program below.
 	<a href="/membership/" class="button small">Membership Dues</a>
 	<a href="/membership/" class="button small">Waivers and Required Literature</a>
 </center>
-
+<p>&nsbp;</p>
+<p>Still thinking about it? Then watch the short film below.</p>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/u-lGBRTvQzU" frameborder="0" allowfullscreen></iframe>
 
 
 
