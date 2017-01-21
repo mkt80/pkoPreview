@@ -83,7 +83,7 @@ Those Novice who develop proficiency may also be invited to compete in the 9-Man
 <p>
 <p>The video link below provides a good illustration of the crew rotations that occur at 15-20 minute intervals in the open water, with a canoe moving at race speed and a chase boat to perform the exchange of paddlers in and out of the open ocean.  It is a challenging, but exciting experience, and for many paddlers it is the culmination of the sport. 
 </p>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/u-lGBRTvQzU" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/u-lGBRTvQzU" frameborder="0" allowfullscreen></iframe>
 
 <P>&nbsp;</p>
 <h4>September-January:  Winter Paddling</h4>
