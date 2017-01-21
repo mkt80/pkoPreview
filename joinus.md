@@ -85,7 +85,7 @@ Those Novice who develop proficiency may also be invited to compete in the 9-Man
 </p>
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/4R1pwH9XoRs" frameborder="0" allowfullscreen></iframe>
-<P>&nbsp;</p>
+<p>&nbsp;</p>
 <h4>September-January:  Winter Paddling</h4>
 <p>Winter practices will be subject to daylight and weather restrictions and continue at Avila Beach, until the time changes. A few boats will  then be re-located to Morro Bay for more protected paddling.  
 </p>
@@ -102,7 +102,9 @@ Want to give it a try? Then sign up for our 2017 Recruitment Program below.
 	<a href="/membership/" class="button small">Waivers and Required Literature</a>
 </center>
 <p>&nbsp;</p>
-<p>Still thinking about it? Then watch the short film below.</p>
+<h4>Next Level: The World Stage</h4>
+
+<p>Outrigger canoe racing takes place all over the world! The Olamau Race sees the best outrigger canoe teams compete off the coast of Hawaii’s Big Island. Ocean knowledge, skill, and perseverance aren’t always enough to succeed, but they can keep you above water. Watch the short below about a Californian team competing in The Olamau Race.</p>
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/u-lGBRTvQzU" frameborder="0" allowfullscreen></iframe>
 
 
