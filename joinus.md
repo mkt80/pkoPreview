@@ -85,9 +85,7 @@ feature: true
 		<p>
 		In a 9-Man race, the paddlers are rotated in and out of the crew at about 15-20 minute intervals. The canoe is followed by a chase boat carrying three paddlers. At regular intervals, these paddlers will jump off of the chase boat and swim in line with the approaching canoe. As the canoe bears down on the same, three paddlers will jump out of the canoe to the right and the three replacement paddlers will climb in on the left. Over long distance races, this rotation of paddlers helps to maintain energy levels and keep the canoe moving at a swift pace. Hauling yourself into a moving canoe, however, takes skill and a certain level of fitness. If you want to compete in 9-man, better start getting yourself into shape as early as possible.
 		</p>
-		<!--
-		<iframe width="100%" height="315" src="https://www.youtube.com/embed/Pvut0J9Oq4M?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-		-->
+		
 		<p>
 		By the time your novice season is over, you will have gained some new skills, increased your fitness levels and made a number of new friends.
 		</p>
