@@ -12,7 +12,7 @@ image: assets/images/team-1.jpg
 		<h2>Membership Dues</h2>
 		<p>Every member of Pale Kai pays yearly dues in the amount of $350. This money goes towards the cost of maintaining our outriggers, club site, and race fees. Once paid, you will be considered a current 2017 Pale Kai member, with paddling opportunites throughout the year.</p>
 
-		<h3>March 1st Deadline for Dues + Free Jersey</p>
+		<h3>March 1st Deadline for Dues + Free Jersey</h3>
 		<p>Submit your 2017 PKO dues to the treasure by March 1st and you will receive a free race jersey. If full payment cannot be made, arrangements need to be made with treasurer for a payment plan.</p> 
 		
 	</div>
