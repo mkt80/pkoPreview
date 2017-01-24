@@ -12,18 +12,11 @@
 <!-- Menu -->
 <nav id="menu">
 	<ul class="links">
-        {% for page in site.pages %}
-		    {% if page.layout == "home" %}
-		        <li><a href="{{ page.url | absolute_url }} ">{{ page.title }}</a></li>
-	    	{% endif %}
-		{% endfor %}
-		{% for page in site.pages %}
-			{% if page.title == "Join Us" or page.title == "Recruitment Registration" or page.title == "Elements" or page.layout == null %}
-
-		    {% elsif page.layout != "home" %}
-		        <li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
-		    {% endif %}
-		{% endfor %}
+        <li><a href="/race-schedule/">2017 Race Schedule</a></li>
+		<li><a href="/membership/">Membership Dues and Waivers</a></li>
+		<li><a href="/blog/">PKO Announcements</a></li>
+		<li><a href="/sponsorhip/">Sponsorship</a></li>
+		<li><a href="/contact/">Contact</a></li>
 	</ul>
 	<ul class="actions vertical">
 		<li><a href="/joinus" class="button special fit">Join Us</a></li>

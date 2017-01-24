@@ -3,7 +3,6 @@ layout: post
 title: Operation Surf 2013
 description: 
 ---
-# OPERATION SURF 2013
 
 Check out all the Operation Surf 2013 photos here:
 

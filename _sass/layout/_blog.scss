@@ -1,0 +1,22 @@
+.blog-article-container {
+	width:100%;
+	display:block;
+	.image.blog {
+		width:28%;
+		float:right;
+		img {
+			width:100%;
+		}
+	}
+	
+
+	.content {
+		width:70%;
+		float:left;
+
+	}
+}
+
+.clear {
+	clear:both;
+}

@@ -9,25 +9,22 @@
 {% include head.html %}
 
 <body>
-    <div id="main" class="home">
-	    {% include header.html %}
-	<section id="one" class="tiles">
 
-	    {% for post in site.posts limit:site.tiles-count-news %}
-		{% if site.tiles-source == 'posts' %}
-        <article>
-                <span class="image">
-                        <img src="/{{ post.image }}" alt="" />
-                </span>
-                <header class="major">
-                        <h3><a href="{{ post.url  | relative_url }}" class="link">{{ post.title }}</a></h3>
-                        <p>{{ post.description }}</p>
-                </header>
-        </article>
-		{% endif %}
-		{% endfor %}
-	    </section>
+    {% include header.html %} 
+    
+    
+<!-- Main -->
+<div id="main" class="alt">
+
+<!-- One -->
+<section id="one">
+	<div class="inner">
+		{{ content }}
 	</div>
+</section>
+
+</div>
+
     {% include footer.html %}
 
 </body>

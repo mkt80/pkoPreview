@@ -59,4 +59,10 @@
 				margin: (_size(element-margin) * 0.75) 0;
 			}
 		}
+
+		&.blog {
+			width:20%;
+			float:left;
+			padding-right:2em;
+		}
 	}
