@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wine and Cheese fundraising event 
+title: Wine and Chocolate fundraising event 
 description: at Vincent Vineyards on February 25th, 2017
 categories: events
 image: assets/images/events/event-wine-cheese.png
