@@ -13,6 +13,8 @@ There are 3 new recruit demo days of 2017,  scheduled as follows, in Morro Bay (
 SUNDAY, February 5th at 8:00 and 10:00 a.m.
 SUNDAY, February 12th at 08:00 a nd 10:00 a.m.
 SUNDAY, February 19th at 08:00 and 10:00 a.m.
+
+<a href="http://bit.ly/2jLNNyC" class="button big fit">Vets - Sign Up Here</a>
  
 We need volunteer veterans (you!) to make this happen: 
  
