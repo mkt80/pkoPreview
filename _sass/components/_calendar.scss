@@ -1,0 +1,11 @@
+.mv-event-container {
+	background:_palette(bg-alt)!important;
+	border-top: 1px solid _palette(accent1);
+	border-bottom: 1px solid _palette(accent1);
+}
+.mv-dayname {
+	color: $white;
+	font-weight:bold;
+	font-family: _font(family-header);
+	font-size:12px;
+}

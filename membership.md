@@ -10,10 +10,13 @@ image: assets/images/team-1.jpg
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h2>Membership Dues</h2>
-		<p>Every member of Pale Kai pays yearly dues in the amount of $350. This money goes towards the cost of maintaining our outriggers, club site, and race fees. Once paid, you will be considered a current 2017 Pale Kai member, with paddling opportunites throughout the year.</p>
-
-		<h3>March 1st Deadline for Dues + Free Jersey</h3>
-		<p>Submit your 2017 PKO dues to the treasure by March 1st and you will receive a free race jersey. If full payment cannot be made, arrangements need to be made with treasurer for a payment plan.</p> 
+		<p>Dues will run from March 1 - Feb 28. $350 to be paid in full by March 1 (preferred) or at latest by the first scheduled practice. No $$, no practice (insurance liability).</p>
+		<p>Contact Nancy Needham, treasurer, if you need to request a payment plan (nanpaddler@gmail.com or (805) 235-2249 text is ok).</p>
+		<p>Dues includes entry in Iron season races (no guarantee for a seat in a canoe) and 1 race jersey (short or long sleeve).  No online payments at this time so bring a check to first practice or send a check to:</p>
+		<p>
+		Nancy Needham<br/>
+		2510 Bay Vista Lane<br/>
+		Los Osos, CA 93402</p>
 		
 	</div>
 	<div class="6u$ 12u$(small)">
