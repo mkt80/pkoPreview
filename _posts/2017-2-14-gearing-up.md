@@ -9,7 +9,7 @@ categories: Membership
 
 ### Schedule:
 **First day of Vet Practice** 
-March 18th Women will practice Monday, Wednesday, and Saturday. Men will be Tuesday, Thursday, Saturday. I plan to attend 1 day a week with the men and 1 with the women. This will be our technique day. We will still have a high-intensity workout but our focus with be on the stroke and blending. 
+March 18th Women will practice Monday, Wednesday, and Saturday. Men will be Tuesday, Thursday, Saturday. Jean will plan to attend 1 day a week with the men and 1 with the women. This will be our technique day. We will still have a high-intensity workout but our focus with be on the stroke and blending. 
 
 Saturdays will be combined and working on both technique and cardio training. ALWAYS BRING SHOES TO PRACTICE. If the conditions are bad, and we do not go out on the water we will do land training! Come prepared. The coaches will be making the call as to whether we go out and paddle or not. If neither coach is at practice well will assign someone to take point. 
 
