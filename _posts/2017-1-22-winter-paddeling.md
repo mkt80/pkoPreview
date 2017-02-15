@@ -11,6 +11,6 @@ Canoes must not be taken out of the bay. This is for safety.
 
 No shows are not appreciated! If you need to cancel please do so at least 1 day in advance so that someone else has the opportunity to take your slot or we can cancel if we don't have enough paddlers.
 
-<a href="http://www.signupgenius.com/go/10c0e45abae2ea5fd0-pale2/45731564">Sign Up Here</a>
+<a href="http://www.signupgenius.com/go/10c0e45abae2ea5fd0-pale2/45731564" class="button big fit">Sign Up Here</a>
 
 <small>Must be paid 2016 or 2017 PKO member to participate.</small>
