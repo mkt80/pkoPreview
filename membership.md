@@ -25,6 +25,7 @@ image: assets/images/team-1.jpg
 	</div>
 </div>
 <hr/>
+
 <h2>General Schedule</h2>
 
 <div class="row">
