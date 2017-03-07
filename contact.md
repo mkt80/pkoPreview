@@ -42,7 +42,7 @@ Need to contact us? There are a variety of ways to get a hold of someone from Pa
 <p>Nancy // treasurer@palekai.org
 </p>
 <h2>Head Coach</h2>
-<p>Jeanvheadcoach@palekai.org
+<p>headcoach@palekai.org
 </p>
 <h2>Mens Coach</h2>
 <p>Jon // menscoach@palekai.org

@@ -1,8 +1,8 @@
 ---
 layout: home
 title: Home
-landing-title: 'We work hard, we race hard.'
-description: 'Are you ready to join us?'
+landing-title: 'It's time to get on the water.
+description: 'Vet practice starts on 3/18. Novice practice starts on 3/11.'
 image: null
 author: null
 ---
