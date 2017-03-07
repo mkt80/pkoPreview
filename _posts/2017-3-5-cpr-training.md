@@ -3,6 +3,7 @@ layout: post
 title: CPR &amp; First Aid Training
 description: Who's interested getting certified? 
 categories: Membership
+image: assets/images/CPR-Certification-Classes.png
 
 ---
 Aloha PKO paddlers! 

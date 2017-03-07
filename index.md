@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'It's time to get on the water.
+landing-title: 'Spring forward = Spring Training'
 description: 'Vet practice starts on 3/18. Novice practice starts on 3/11.'
 image: null
 author: null
