@@ -19,7 +19,7 @@ First day of Novice practice is March 12th. More information coming soon.
 ## Fitness Testing
 Fitness testing will be on March 11th and 12th from 12-2pm at the Avila Bay Club.
 
-We will send out a link for you to sign up on whatever day you would like to take your test.
+<a href="http://www.signupgenius.com/go/409044bafa82ca2f85-20171" class="button">Sign Up Here</a>
 
 You will be tested on the following:
 - **500-yard swim**
