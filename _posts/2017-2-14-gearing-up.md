@@ -1,12 +1,10 @@
 ---
 layout: post
-title: Spring Training
+title: 2017 Practice Schedule
 description: Practice starts March 18th with required fitness testing on March 11th and 12th
 categories: Membership
 
 ---
-## 2017 Practice Schedule
-
 ### Schedule:
 **First day of Vet Practice** 
 March 18th Women will practice Monday, Wednesday, and Saturday. Men will be Tuesday, Thursday, Saturday. Jean will plan to attend 1 day a week with the men and 1 with the women. This will be our technique day. We will still have a high-intensity workout but our focus with be on the stroke and blending. 
