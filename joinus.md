@@ -5,7 +5,7 @@ description: Information about our 2017 recruitment program and joining Pale Kai
 image: assets/images/outriggers-onwater-1.jpg
 feature: false
 ---
-<!--
+
 <div class="row">
 	
 	<div class="4u 12u$(medium)">
@@ -23,7 +23,16 @@ feature: false
 	</div>
 </div>
 <hr/>
--->
+<h2>Joining Pale Kai</h2>
+<p>
+If you're interested in joining Pale Kai as an inexperienced paddler for 2017, then please contact the novice coach, Tom Needham, ASAP. We have begun spring training and once we get into Apirl, registration for the 2017 season will close. 
+</p>
+<p>
+<strong>Tom Needham</strong><br/>
+Novice Coach, Pale Kai Outrigger<br/>
+Email: tneedhamhome@gmail.com 
+</p>
+<!--
 <h2>New Recruitment Demo Days</h2>
 <div class="row">
 	<div class="6u 12u$(small)">
@@ -59,7 +68,7 @@ feature: false
 	</div>
 </div>
 <hr class="major" />
-
+-->
 
 <h2>Novice Year Overview</h2>
 <h4>February:  Recruitment </h4>
@@ -96,8 +105,7 @@ Want to give it a try? Then sign up for our 2017 Recruitment Program below.
 </p>
 
 <center>
-	<a href="/recruitment-registration/" class="button big fit">2017 Recruitment Program Registration</a>
-	<a href="/race-schedule/" class="button small">2017 Race Schedule</a>
+	<a href="/calendar/" class="button small">2017 Race Schedule</a>
 	<a href="/membership/" class="button small">Membership Dues</a>
 	<a href="/membership/" class="button small">Waivers and Required Literature</a>
 </center>
