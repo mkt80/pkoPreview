@@ -8,7 +8,7 @@ We have three policies and a By-Law change that all PKO members should take a lo
 
 Direct links to these documents are listed below.
 
-1. [Recreational Paddling](http://palekai.us14.list-manage.com/track/click?u=feefe6f1d1aa6ed7e69fe29a1&id=1be1c9cf18&e=69d1690e41)
+1. [Developmental Paddling](http://palekai.us14.list-manage.com/track/click?u=feefe6f1d1aa6ed7e69fe29a1&id=1be1c9cf18&e=69d1690e41)
 
 2. [OC1 Usage](http://palekai.us14.list-manage2.com/track/click?u=feefe6f1d1aa6ed7e69fe29a1&id=24fd49817a&e=69d1690e41)
 
