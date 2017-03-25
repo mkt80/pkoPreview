@@ -19,7 +19,7 @@ The PKO Board
 
 ### PKO BOARD MEETING AGENDA FOR 1/17/17
 
-**Recreational paddling:**
+**Alumni paddling:**
 Discussion around next steps and considerations for establishing a developmental paddling division of PKO.
 
 **Fundraising:**
