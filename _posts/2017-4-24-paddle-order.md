@@ -3,7 +3,7 @@ layout: post
 title: Puakea Paddles
 description: Time for a new paddle? Submit your paddle order today!
 categories: Membership
-image: /assets/images/puakea-paddle.jpg
+image: assets/images/puakea-paddle.jpg
 ---
 
 John Hergert is putting together a PKO paddle order for Puakea paddles. View the complete price sheet here. Please submit your order request if you would like to participate in this deal.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PKO Annual Pot Luck BBQ
-description: We had boat blessings, hula dancers, and lots of ohana!  
+description: We a had boat blessings, hula dancers, and lots of ohana!  
 categories: Membership
 image: assets/images/potluck-3.jpg
 ---
