@@ -20,10 +20,12 @@ image: assets/images/team-1.jpg
 		Los Osos, CA 93402</p>	
 	</div>
 	<div class="6u$ 12u$(small)">
-		<h2>Required Waivers and Literature</h2>
+		<h4>Required Waivers and Literature</h4>
     	{% include waivers.html %}
 	</div>
-	<div>
+</div>
+<div class="row">
+	<div class="6u 12u$(small)">
 		<h2>Alumni Paddling Program</h2>
 		<p> New for 2017, Pale Kai is offering a Alumni Paddling Program headed up by Bil Hurley. This program is intended for paddlers with previous race experience. Please review the Alumni Paddling Policy and FAQs for more information on this program.</p>
 		<p>Contact Bill Hurley for more information on joining this program.</p>
@@ -39,7 +41,7 @@ image: assets/images/team-1.jpg
 		Los Osos, CA 93402</p>
 	</div>
 	<div class="6u$ 12u$(small)">
-		<h2>Required Waivers and Literature</h2>
+		<h4>Required Waivers and Literature</h4>
     	{% include alumni-waivers.html %}
 	</div>
 </div>

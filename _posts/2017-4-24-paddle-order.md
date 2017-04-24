@@ -3,7 +3,7 @@ layout: post
 title: Puakea Paddles
 description: Time for a new paddle? Submit your paddle order today!
 categories: Membership
-image: assets/images/Puakea-paddle.jpg
+image: /assets/images/puakea-paddle.jpg
 ---
 
 John Hergert is putting together a PKO paddle order for Puakea paddles. View the complete price sheet here. Please submit your order request if you would like to participate in this deal.
@@ -19,4 +19,4 @@ Team Price: $283
 [PUAKEA PADDLE - OC6 HYBRID](http://store.puakeadesigns.com/product/puakea-paddle-oc6-hybrid)
 Team Price: $265
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLScr3zttrXRjUjUnEf5ad6Ww7dAr2jyq9LtXq26b3uBJgjJAIQ/viewform?c=0&w=1" class="btn">Submit Your Order</a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScr3zttrXRjUjUnEf5ad6Ww7dAr2jyq9LtXq26b3uBJgjJAIQ/viewform?c=0&w=1" class="button">Submit Your Order</a>

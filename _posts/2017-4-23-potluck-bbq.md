@@ -16,13 +16,11 @@ Mahalo!
 Event Cordinator
 
 <hr/>
-<h4>Fit</h4>
-<span class="image fit"><img src="assets/images/pic03.jpg" alt="" /></span>
 <div class="box alt">
 	<div class="row 50% uniform">
-		<div class="4u"><span class="image fit"><img src="assets/images/potluck-1.jpg" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="assets/images/potluck-2.jpg" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="assets/images/potluck-4.jpg" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="/assets/images/potluck-1.jpg" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="/assets/images/potluck-2.jpg" alt="" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="/assets/images/potluck-4.jpg" alt="" /></span></div>
 		
 	</div>
 </div>
