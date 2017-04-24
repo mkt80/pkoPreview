@@ -28,9 +28,9 @@ feature: false
 If you're interested in joining Pale Kai as an inexperienced paddler for 2017, then please contact the novice coach, Tom Needham, ASAP. We have begun spring training and once we get into Apirl, registration for the 2017 season will close. 
 </p>
 <p>
-<strong>Tom Needham</strong><br/>
-Novice Coach, Pale Kai Outrigger<br/>
-Email: tneedhamhome@gmail.com 
+<strong>Kristen Sanchez</strong><br/>
+Vice President, Pale Kai Outrigger<br/>
+Email: lovesealife@gmail.com 
 </p>
 <!--
 <h2>New Recruitment Demo Days</h2>
