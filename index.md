@@ -1,8 +1,8 @@
 ---
 layout: home
 title: Home
-landing-title: 'Spring forward = Spring Training'
-description: 'Vet practice starts on 3/18. Novice practice starts on 3/11.'
+landing-title: 'Iron Season Is Here'
+description: '5/13/17 - Crystal Pier Outrigger Race in San Diego' 
 image: null
 author: null
 ---
