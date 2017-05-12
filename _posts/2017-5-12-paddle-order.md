@@ -13,6 +13,7 @@ We'll be at the Crystal Pier race site Saturday morning - so keep a steady eye o
 ## Crystal Pier Race Packet
 Make sure to read the Crystal Pier Race Packet. It has all the information you need about the race schedule, merchandise, parking, and the beer garden. 
 
+<a href="http://www.hanohano.com/crystal-pier/" class="button">Crystal Pier Race Packet</a>
 ## 2017 Novice - It's Game Time
 Your first race day is quickly approaching and it's time to put your game face on. Leave those butterflies behind and be prepared by ready this great article. And make your vets happy by handling that BBQ. 
 
