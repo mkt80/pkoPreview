@@ -10,10 +10,10 @@ Pale Kai is heading to San Diego this weekend for the 1st race of the 2017 Iron 
 
 We'll be at the Crystal Pier race site Saturday morning - so keep a steady eye out for the purple and yellow team having the most fun. 
 
-** Crystal Pier Race Packet
+## Crystal Pier Race Packet
 Make sure to read the Crystal Pier Race Packet. It has all the information you need about the race schedule, merchandise, parking, and the beer garden. 
 
-** 2017 Novice - It's Game Time
+## 2017 Novice - It's Game Time
 Your first race day is quickly approaching and it's time to put your game face on. Leave those butterflies behind and be prepared by ready this great article. And make your vets happy by handling that BBQ. 
 
 <a href="https://www.calipaddler.com/blogs/paddle-articles/18290849-an-oc6-paddler-on-race-day" class="button">An OC6 Paddler on Race Day</a>
