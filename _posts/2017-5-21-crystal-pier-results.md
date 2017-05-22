@@ -18,9 +18,9 @@ The Crystal Pier race sure was EXCITING! We saw big conditions outside the harbo
 )
 
 ### Womens/Open Long Course
-*1:13:00 96 Pale Kai Outrigger Canoe Club Women - Unlimited
-*1:15:49 170 Pale Kai Outrigger Canoe Club Women - Unlimited
-*[full results](http://www.scora.org/wp-content/uploads/2012/01/Overall-Rig-Run-Women.pdf)
+* 1:13:00 96 Pale Kai Outrigger Canoe Club Women - Unlimited
+* 1:15:49 170 Pale Kai Outrigger Canoe Club Women - Unlimited
+* [full results](http://www.scora.org/wp-content/uploads/2012/01/Overall-Rig-Run-Women.pdf)
 
 ### Mens Long Course
 * 1:25:31 170 Pale Kai Outrigger Canoe Club Men - Masters UL
