@@ -2,7 +2,7 @@
 layout: home
 title: Home
 landing-title: 'Iron Season Is Here'
-description: '5/13/17 - Crystal Pier Outrigger Race in San Diego' 
+description: '6/10/17 - Marina Del Rey' 
 image: null
 author: null
 ---
