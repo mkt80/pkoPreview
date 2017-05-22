@@ -46,3 +46,5 @@ gems:
   - jekyll-redirect-from
   - jekyll-paginate
 
+include:
+    - /_pages
