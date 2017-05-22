@@ -1,20 +1,46 @@
 <section id="one" class="tiles">
-	{% for page in site.pages %}
+	
+
+	 {% for page in site.pages limit:site.tiles-count %}
 		{% if page.feature == 'true' %}
-		<article>
-	            <span class="image">
-	                    <img src="{{ page.image }}" alt="" />
-	            </span>
-	            <header class="major">
-	                    <h3><a href="{{ page.url | relative_url  }}" class="link">{{ page.title }}</a></h3>
-	                    <p>{{ page.description }}</p>
-	            </header>
-	    </article>
-	    {% endif %}
+			
+
+
+		        <article>
+		                <span class="image">
+		                        <img src="{{ page.image }}" alt="" />
+		                </span>
+		                <header class="major">
+		                        <h3><a href="{{ page.url  | relative_url }}" class="link">{{ page.title }}</a></h3>
+		                        <p>{{ page.description }}</p>
+		                </header>
+		        </article>
+			
+		{% endif %}
+
 	{% endfor %}
-	{% for post in site.posts limit:site.tiles-count %}
+	<article>
+            <span class="image">
+                    <img src="{{ site.baseurl }}/assets/images/outriggers-onwater-1.jpg" alt="" />
+            </span>
+            <header class="major">
+                    <h3><a href="{{ site.baseurl }}/resources/" class="link">Outrigger Resources</a></h3>
+                    <p>Weather info, videos, and paddling tips</p>
+            </header>
+    </article>
+
+    <article>
+            <span class="image">
+                    <img src="{{ site.baseurl }}/assets/images/outriggers-onwater-1.jpg" alt="" />
+            </span>
+            <header class="major">
+                    <h3><a href="{{ site.baseurl }}/joinus" class="link">Join Us</a></h3>
+                    <p>Information about our 2017 recruitment program and joining Pale Kai Outrigger</p>
+            </header>
+    </article>
+	{% for post in site.posts limit:site.tiles-count-news %}
 		
-			{% if site.tiles-source == 'posts'%}
+			{% if site.tiles-source-news == 'posts'%}
 		        <article>
 		                <span class="image">
 		                        <img src="{{ post.image }}" alt="" />
@@ -25,19 +51,5 @@
 		                </header>
 		        </article>
 			{% endif %}
-	{% endfor %}
-
-	{% for page in site.pages limit:site.tiles-count %}
-	{% if site.tiles-source == 'pages' %}
-        <article>
-                <span class="image">
-                        <img src="{{ page.image }}" alt="" />
-                </span>
-                <header class="major">
-                        <h3><a href="{{ page.url | relative_url  }}" class="link">{{ page.title }}</a></h3>
-                        <p>{{ page.description }}</p>
-                </header>
-        </article>
-	{% endif %}
 	{% endfor %}
 </section>

@@ -13,10 +13,13 @@ zip_code:
 country: United States of America
 phone: 
 permalink: /:categories/:year/:title/
+
 # Homepage tiles
-tiles-source: posts # accepts "posts" or "pages"
-tiles-count: 4
-tiles-count-news: 6
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 2
+
+tiles-source-news: posts
+tiles-count-news: 2
 
 # Pagination
 paginate: 5
@@ -46,5 +49,3 @@ gems:
   - jekyll-redirect-from
   - jekyll-paginate
 
-include:
-    - /_pages
