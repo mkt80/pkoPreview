@@ -2,6 +2,7 @@
 layout: post
 title: Outrigger Resources
 description: Weather info, videos, and paddling tips
+
 ---
 
 
