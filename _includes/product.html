@@ -1,0 +1,33 @@
+{% assign loopindex = forloop.index | modulo: 2 %}
+{% if loopindex == 1 %}
+<div class="6u 12u$(small)">
+{% else %}
+<div class="6u$ 12u$(small)">
+{% endif %}
+
+	{% if product.type == "product" %}
+	<a class="product" href="{{ site.baseurl }}{{ product.url }}">
+	    <img src="{{ product.image }}" alt="{{ product.name }}" class="thumbnail"/>
+	    <p>{{ product.name }}</p>
+	  </a>
+	{% endif %}
+	  
+	  <button class="snipcart-add-item"
+	    data-item-name="{{ product.name }}"
+	    data-item-id="{{ product.sku }}"
+	    data-item-image="{{ product.image }}"
+	    data-item-url="{{ site.url }}"
+	    data-item-price="{{ product.price }}">
+	    {% if product.type == "donation" %}
+	    	Donate ${{ product.price }}
+	    {% elsif product.type == "membership" %}
+	    	Member Dues ${{ product.price }}
+	    {% else %}
+	    	Buy it - ${{ product.price }}
+	    {% endif %}
+	  </button>
+	
+
+</div>
+
+ 

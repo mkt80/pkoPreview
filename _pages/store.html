@@ -1,0 +1,30 @@
+---
+layout: products
+title: Store
+description: 
+permalink: /store
+head:
+  snipcart.html
+---
+<h2>PKO Store</h2>
+<h3>PKO Membership</h3>
+<p>To become a PKO Member you must pay yearly dues inthe amount of $350.</p>
+<div class="row">
+
+{% for product in site.products %}
+  {% if product.type == "membership" %}
+  		{% include product.html %}
+  {% endif %}
+{% endfor %}
+</div>
+
+<h3>Donate to PKO!</h3>
+<p>Have family or friends in PKO? Love what we do and want to contribute? Than make a donation to Pale Kai Outrigger. Your money will help Pale Kai Outrigger attend races, maintain equipment, and supplement annualy costs required to keep our club alive.</p>
+<div class="row">
+
+{% for product in site.products %}
+  {% if product.type == "donation" %}
+  		{% include product.html %}
+  {% endif %}
+{% endfor %}
+</div>

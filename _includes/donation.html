@@ -1,0 +1,32 @@
+{% assign loopindex = forloop.index | modulo: 2 %}
+  {% if loopindex == 1 %}
+    <div class="6u 12u$(small)">
+		
+		  
+		  <button class="snipcart-add-item"
+		    data-item-name="{{ product.name }}"
+		    data-item-id="{{ product.sku }}"
+		    data-item-image="{{ product.image }}"
+		    data-item-url="{{ site.url }}"
+		    data-item-price="{{ product.price }}">
+		    Donate ${{ product.price }}
+		  </button>
+
+	</div>
+	
+  {% else %}
+     <div class="6u$ 12u$(small)">
+	
+		  
+		  <button class="snipcart-add-item"
+		    data-item-name="{{ product.name }}"
+		    data-item-id="{{ product.sku }}"
+		    data-item-image="{{ product.image }}"
+		    data-item-url="{{ site.url }}"
+		    data-item-price="{{ product.price }}">
+		    Donate ${{ product.price }}
+		  </button>
+
+	</div>
+	
+  {% endif %}
