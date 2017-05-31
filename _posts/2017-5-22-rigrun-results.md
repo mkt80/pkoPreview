@@ -3,7 +3,7 @@ layout: post
 title: Rig Run Results
 description: 
 categories: Iron Season Results
-image: assets/images/rig-run-2017.jpg
+image: assets/images/rig-run-2017.png
 ---
 ## Rig Run Race Results
 

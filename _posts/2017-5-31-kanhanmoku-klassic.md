@@ -3,7 +3,8 @@ layout: post
 title: Kanhanmoku Klassic
 description: We saw big conditions at Crystal Pier!
 categories: Iron Season
-image: assets/images/pule-1.jpg
+image: assets/images/pule-1.png
+
 ---
 
 Read the race packet, book your rooms, and get ready for a rip roaring time down at Marina Del Rey! It's proven to be one of the funnest and wildest races year after year. 
