@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kanhanmoku Klassic
-description: We saw big conditions at Crystal Pier!
+description: This saturday at Marina Del Rey!
 categories: Iron Season
 image: assets/images/pule-1.png
 
