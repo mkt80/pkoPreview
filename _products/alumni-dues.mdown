@@ -1,0 +1,12 @@
+---
+name: Alumni Member Dues
+price: 350.00
+slug: alumni-member-dues
+sku: alumni-member-dues
+image: 
+layout: productdetails
+type: dues
+---
+For members not planning on racing at all this season - only participating in the Alumni Program.
+
+      
