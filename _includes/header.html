@@ -4,22 +4,27 @@
 <!-- Header -->
 <header id="header"{% if page.layout == "landing" %} class="alt style2"{% endif %}{% if page.layout == "home" or  page.layout == "alt style2" %} class="alt"{% endif %}>
 	<a href="{{ "" | absolute_url }}" class="logo"><img src="/assets/images/logo-bw.png" alt="Pale Kai Outrigger Canoe Club"></a>
+	
 	<nav>
 		<a href="#menu">Menu</a>
 	</nav>
 </header>
 
-<!-- Menu -->
+
 <nav id="menu">
 	<ul class="links">
-        <li><a href="/calendar/">2017 PKO Calendar</a></li>
-		<li><a href="/membership/">Membership Dues and Waivers</a></li>
-		<li><a href="/blog/">PKO Announcements</a></li>
-		<li><a href="/sponsorship/">Sponsorship</a></li>
+		<li><a href="/racingteams/">Racing Teams</a></li>
+		<li><a href="/alumniprogram/">Alumni Program</a></li>
+        <li><a href="/calendar/">Calendar</a></li>
+		<li><a href="/blog/">News</a></li>
 		<li><a href="/resources/">Outrigger Resources</a></li>
 		<li><a href="/contact/">Contact</a></li>
 	</ul>
 	<ul class="actions vertical">
 		<li><a href="/joinus" class="button special fit">Join Us</a></li>
+
+			<!--
+		<li><a href="/dues" class="button special fit">Members Portal</a></li>
+		-->
 	</ul>
 </nav>

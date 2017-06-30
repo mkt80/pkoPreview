@@ -16,6 +16,20 @@
 	<!--[if lte IE 9]><link rel="stylesheet" href="http://localhost:4000/assets/css/ie9.css" /><![endif]-->
 	<!--[if lte IE 8]><link rel="stylesheet" href="http://localhost:4000/assets/css/ie8.css" /><![endif]-->
 	<link rel="shortcut icon" type="image/x-icon" href="http://localhost:4000/assets/images/favicon.ico">
+	<!-- Scripts -->
+	<script src="http://localhost:4000/assets/js/jquery.min.js"></script>
+	<script src="http://localhost:4000/assets/js/jquery.scrolly.min.js"></script>
+	<script src="http://localhost:4000/assets/js/jquery.scrollex.min.js"></script>
+	<script src="http://localhost:4000/assets/js/skel.min.js"></script>
+	<script src="http://localhost:4000/assets/js/util.js"></script>
+	<!--[if lte IE 8]><script src="http://localhost:4000/assets/js/ie/respond.min.js"></script><![endif]-->
+	<script src="http://localhost:4000/assets/js/main.js"></script>
+	<script src="http://localhost:4000/assets/js/instafeed.js"></script>
+	<script src="http://localhost:4000/assets/js/menu.js"></script>
+
+	
+	 <!-- SNIP CART -->
+
 </head>
 
 
@@ -27,25 +41,28 @@
 <!-- Header -->
 <header id="header">
 	<a href="http://localhost:4000/" class="logo"><img src="/assets/images/logo-bw.png" alt="Pale Kai Outrigger Canoe Club"></a>
+	
 	<nav>
 		<a href="#menu">Menu</a>
 	</nav>
 </header>
 
-<!-- Menu -->
+
 <nav id="menu">
 	<ul class="links">
-        <li><a href="/calendar/">2017 PKO Calendar</a></li>
-		<li><a href="/membership/">Membership Dues and Waivers</a></li>
-		<li><a href="/blog/">PKO Announcements</a></li>
-		<li><a href="/sponsorship/">Sponsorship</a></li>
+		<li><a href="/racingteams/">Racing Teams</a></li>
+		<li><a href="/alumniprogram/">Alumni Program</a></li>
+        <li><a href="/calendar/">Calendar</a></li>
+		<li><a href="/blog/">News</a></li>
 		<li><a href="/resources/">Outrigger Resources</a></li>
 		<li><a href="/contact/">Contact</a></li>
 	</ul>
 	<ul class="actions vertical">
 		<li><a href="/joinus" class="button special fit">Join Us</a></li>
+		<li><a href="/dues" class="button special fit">Members Portal</a></li>
 	</ul>
-</nav> 
+</nav>
+ 
     
     
 <!-- Main -->
@@ -63,6 +80,25 @@
 <!-- End intro -->
 
 
+    
+        <div class="blog-article-container">
+          <span class="image blog"><img src="/assets/images/trash-day-1.png" alt="" /></span>
+          <div class="content">
+            <a href="/events/2017/roadside-cleanup/">
+            <aside class="dates">Jan 22</aside>
+            </a>
+            <a href="/events/2017/roadside-cleanup/">
+              <h2>Rescheduled - Road Side Clean Up</h2>
+               <p>
+            <p>Aloha PKO paddlers and Happy New Year!</p> <p>I hope you all have been having a restful, rejuvenating winter and are starting to get excited about the upcoming paddling season!</p> <p>Hey!...
+            </p>
+
+            </a>
+           
+          </div>
+        </div>
+        <div class="clear"></div>
+        <hr/>
     
         <div class="blog-article-container">
           <span class="image blog"><img src="/assets/images/events/event-wine-cheese.png" alt="" /></span>
@@ -131,25 +167,6 @@
               <h2>Fall 2016 Demo Days Are Here!</h2>
                <p>
             Aloha, potential PKO paddlers of 2017!! We have entered into our recruitment season and are looking for adventurous, athletic, ocean-savvy new paddlers! Our coaches will teach you basic technique and...
-            </p>
-
-            </a>
-           
-          </div>
-        </div>
-        <div class="clear"></div>
-        <hr/>
-    
-        <div class="blog-article-container">
-          <span class="image blog"><img src="/assets/images/zongo-2.jpg" alt="" /></span>
-          <div class="content">
-            <a href="/2016/zongo-cup/">
-            <aside class="dates">Aug 2</aside>
-            </a>
-            <a href="/2016/zongo-cup/">
-              <h2>PKO Does the Zongo Cup</h2>
-               <p>
-            Today marks the Zongo Yachting Cup, and Pale Kai Outrigger’s third consecutive year of participation. While PKO hasn’t attached sails to its canoes, we’re grateful to Paul Irving, organizer of...
             </p>
 
             </a>
@@ -271,15 +288,41 @@
 	</div>
 </footer>
 	
-<!-- Scripts -->
-	<script src="http://localhost:4000/assets/js/jquery.min.js"></script>
-	<script src="http://localhost:4000/assets/js/jquery.scrolly.min.js"></script>
-	<script src="http://localhost:4000/assets/js/jquery.scrollex.min.js"></script>
-	<script src="http://localhost:4000/assets/js/skel.min.js"></script>
-	<script src="http://localhost:4000/assets/js/util.js"></script>
-	<!--[if lte IE 8]><script src="http://localhost:4000/assets/js/ie/respond.min.js"></script><![endif]-->
-	<script src="http://localhost:4000/assets/js/main.js"></script>
-	<script src="http://localhost:4000/assets/js/instafeed.js"></script>
+<script>
+// CSS3 animated & responsive dropdown menu
+// Latest version: https://github.com/catalinred/Animenu
+
+(function(){
+  var animenuToggle = document.querySelector('.animenu__toggle'),
+      animenuNav    = document.querySelector('.animenu__nav'),
+      hasClass = function( elem, className ) {
+        return new RegExp( ' ' + className + ' ' ).test( ' ' + elem.className + ' ' );
+      },
+      toggleClass = function( elem, className ) {
+        var newClass = ' ' + elem.className.replace( /[\t\r\n]/g, ' ' ) + ' ';
+        if( hasClass(elem, className ) ) {
+          while( newClass.indexOf( ' ' + className + ' ' ) >= 0 ) {
+            newClass = newClass.replace( ' ' + className + ' ' , ' ' );
+          }
+          elem.className = newClass.replace( /^\s+|\s+$/g, '' );
+        } else {
+          elem.className += ' ' + className;
+        }
+      },           
+      animenuToggleNav =  function (){        
+        toggleClass(animenuToggle, "animenu__toggle--active");
+        toggleClass(animenuNav, "animenu__nav--open");        
+      }
+
+  if (!animenuToggle.addEventListener) {
+      animenuToggle.attachEvent("onclick", animenuToggleNav);
+  }
+  else {
+      animenuToggle.addEventListener('click', animenuToggleNav);
+  }
+})()      
+</script>
+<!-- INSTAGRAMP -->
 	<script>
 	// InstaFeed
 	var userFeed = new Instafeed({
@@ -290,6 +333,8 @@
 	});
 	userFeed.run();
 	</script>
+
+	<!-- GOOGLE ANALYTICS -->
 	<script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -299,7 +344,7 @@
   ga('create', 'UA-90656286-1', 'auto');
   ga('send', 'pageview');
 
-</script>
+	</script>
 
 
 </body>

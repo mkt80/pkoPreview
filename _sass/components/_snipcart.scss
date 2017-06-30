@@ -1,0 +1,112 @@
+///
+/// Forty by HTML5 UP
+/// html5up.net | @ajlkn
+/// Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+///
+
+/* Box */
+.snip-layout {
+	margin-top: 100px;
+}
+.dues-portal {
+	.wrapper {
+		margin:50px 0px;
+	}
+	.content {
+		width: 100%;
+		background-color: transparent;
+
+		.list {
+			width: 100%;
+			display: inline-block;
+			margin: 25px 0;
+			text-align: center;
+		}
+	}
+	.product-card {
+		width: 280px;
+		display: inline-block;
+		background-color: #fff;
+		position: relative;
+		z-index: 20;
+		box-shadow: 0 1px 11px 0 rgba(0, 0, 0, .1);
+		border-radius: 2px;
+		margin-bottom: 40px;
+		-webkit-transition: all 250ms ease-out;
+		-moz-transition: all 250ms ease-out;
+		-ms-transition: all 250ms ease-out;
+		-o-transition: all 250ms ease-out;
+		transition: all 250ms ease-out;
+		cursor: pointer;
+		border-radius: 0 10px 0 0;
+		padding:0px 20px;
+
+		span.tag {
+			position: absolute;
+			left: 0px;
+			width: 40px;
+			height: 50px;
+			line-height: 40px;
+			color: #fff;
+			font-size: 14px;
+
+			&:after {
+				content: '';
+				position: absolute;
+				left: 0;
+				z-index: -1;
+				width: 0;
+				height: 0;
+				border-style: solid;
+				border-width: 60px 60px 0 0;
+				border-color:  _palette(bg-alt) transparent transparent transparent
+			}
+		}
+		h2 {
+			width: 100%;
+			font-size: 24px;
+			font-weight: 700;
+			color: #323232;
+			padding: 0px;
+			margin: 30px 0 0;
+		}
+		p {
+			width: 100%;
+			font-size: 14px;
+			padding: 0px;
+			margin: 5px 0 0;
+			font-weight: 700;
+			color: #bbb;
+		}
+		figure {
+			width: 100%;
+			display: inline-block;
+			margin: 0px;
+			padding: 0px;
+
+			img {
+				display: inline-block;
+				max-width: 80%;
+				margin: 30px 0;
+			}
+		}
+		.price {
+			width: 100%;
+			margin-bottom: 20px;
+			font-size: 36px;
+			display: block;
+			color: #feca16;
+			font-weight: 400;
+		}
+		button {
+			width: 100%;
+			display: inline-block;
+			background: _palette(bg-alt);
+			color:#fff;
+		}
+		&:hover {
+			transform: scale(1.1);
+			box-shadow: 0 1px 11px 0 rgba(0, 0, 0, .3);
+		}
+	}
+}

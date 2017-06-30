@@ -79,15 +79,41 @@
 	</div>
 </footer>
 	
-<!-- Scripts -->
-	<script src="{{ "assets/js/jquery.min.js" | absolute_url }}"></script>
-	<script src="{{ "assets/js/jquery.scrolly.min.js" | absolute_url }}"></script>
-	<script src="{{ "assets/js/jquery.scrollex.min.js" | absolute_url }}"></script>
-	<script src="{{ "assets/js/skel.min.js" | absolute_url }}"></script>
-	<script src="{{ "assets/js/util.js" | absolute_url }}"></script>
-	<!--[if lte IE 8]><script src="{{ "assets/js/ie/respond.min.js" | absolute_url }}"></script><![endif]-->
-	<script src="{{ "assets/js/main.js" | absolute_url }}"></script>
-	<script src="{{ "assets/js/instafeed.js" | absolute_url }}"></script>
+<script>
+// CSS3 animated & responsive dropdown menu
+// Latest version: https://github.com/catalinred/Animenu
+
+(function(){
+  var animenuToggle = document.querySelector('.animenu__toggle'),
+      animenuNav    = document.querySelector('.animenu__nav'),
+      hasClass = function( elem, className ) {
+        return new RegExp( ' ' + className + ' ' ).test( ' ' + elem.className + ' ' );
+      },
+      toggleClass = function( elem, className ) {
+        var newClass = ' ' + elem.className.replace( /[\t\r\n]/g, ' ' ) + ' ';
+        if( hasClass(elem, className ) ) {
+          while( newClass.indexOf( ' ' + className + ' ' ) >= 0 ) {
+            newClass = newClass.replace( ' ' + className + ' ' , ' ' );
+          }
+          elem.className = newClass.replace( /^\s+|\s+$/g, '' );
+        } else {
+          elem.className += ' ' + className;
+        }
+      },           
+      animenuToggleNav =  function (){        
+        toggleClass(animenuToggle, "animenu__toggle--active");
+        toggleClass(animenuNav, "animenu__nav--open");        
+      }
+
+  if (!animenuToggle.addEventListener) {
+      animenuToggle.attachEvent("onclick", animenuToggleNav);
+  }
+  else {
+      animenuToggle.addEventListener('click', animenuToggleNav);
+  }
+})()      
+</script>
+<!-- INSTAGRAMP -->
 	<script>
 	// InstaFeed
 	var userFeed = new Instafeed({
@@ -98,6 +124,8 @@
 	});
 	userFeed.run();
 	</script>
+
+	<!-- GOOGLE ANALYTICS -->
 	<script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -107,4 +135,4 @@
   ga('create', 'UA-90656286-1', 'auto');
   ga('send', 'pageview');
 
-</script>
+	</script>

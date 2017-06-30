@@ -8,4 +8,20 @@
 	<!--[if lte IE 9]><link rel="stylesheet" href="{{ "assets/css/ie9.css" | absolute_url }}" /><![endif]-->
 	<!--[if lte IE 8]><link rel="stylesheet" href="{{ "assets/css/ie8.css" | absolute_url }}" /><![endif]-->
 	<link rel="shortcut icon" type="image/x-icon" href="{{ "assets/images/favicon.ico?" | absolute_url }}">
+	<!-- Scripts -->
+	<script src="{{ "assets/js/jquery.min.js" | absolute_url }}"></script>
+	<script src="{{ "assets/js/jquery.scrolly.min.js" | absolute_url }}"></script>
+	<script src="{{ "assets/js/jquery.scrollex.min.js" | absolute_url }}"></script>
+	<script src="{{ "assets/js/skel.min.js" | absolute_url }}"></script>
+	<script src="{{ "assets/js/util.js" | absolute_url }}"></script>
+	<!--[if lte IE 8]><script src="{{ "assets/js/ie/respond.min.js" | absolute_url }}"></script><![endif]-->
+	<script src="{{ "assets/js/main.js" | absolute_url }}"></script>
+	<script src="{{ "assets/js/instafeed.js" | absolute_url }}"></script>
+	<script src="{{ "assets/js/menu.js" | absolute_url }}"></script>
+
+	{% for script in layout.head %}
+    	{% include {{ script }} %}
+  	{% endfor %}
+	 <!-- SNIP CART -->
+
 </head>

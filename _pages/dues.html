@@ -1,0 +1,113 @@
+---
+layout: products
+title: Club Member Dues
+description: 
+permalink: /dues
+head:
+  snipcart.html
+---
+<h2>Club Member Dues and Deposits</h2>
+<div class="dues-portal">
+  	<div class="wrapper">
+		<p>New for 2017 - pay your membership dues and racing deposits online! Every PKO member must pay yearly dues. These go directly towards maintaining our canoes, clubsite, and racing fees.</p>
+      	<div class="content">
+
+        	<div class="list">
+
+          		{% for product in site.products %}
+				  {% if product.type == "9man" %}
+				  		{% include product.html %}
+				  {% endif %}
+				{% endfor %}
+				{% for product in site.products %}
+				  {% if product.type == "dues" %}
+				  		{% include product.html %}
+				  {% endif %}
+				{% endfor %}
+	            
+
+          	</div>
+
+        </div>
+
+    </div>
+</div>
+<!--
+<div class="dues-portal">
+  	<div class="wrapper">
+  		<h3>
+			9 Man Season - Deposit and Fees
+		</h3>
+		<p>To race in 9man season ( August thru September ) you must be a current PKO Member. A deposit is required to participate no later than July 10th. This helps us secure chase boats. Susequent race fees may be required as well.</p>
+      	<div class="content">
+
+        	<div class="list">
+
+          		{% for product in site.products %}
+				  {% if product.type == "9man" %}
+				  		{% include product.html %}
+				  {% endif %}
+				{% endfor %}
+	            
+
+          	</div>
+
+        </div>
+
+    </div>
+</div>
+<div class="dues-portal">
+  	<div class="wrapper">
+		<h3>
+		Yearly Dues
+		</h3>
+		<p>Dues will run from March 1 - Feb 28. $350 to be paid in full by March 1 (preferred) or at latest by the first scheduled practice. No $$, no practice (insurance liability).</p>
+		<p>Contact Nancy Needham, treasurer, if you need to request a payment plan (nanpaddler@gmail.com or (805) 235-2249 text is ok).</p>
+      	<div class="content">
+      		
+        	<div class="list">
+
+          		{% for product in site.products %}
+				  {% if product.type == "dues" %}
+				  		{% include product.html %}
+				  {% endif %}
+				{% endfor %}
+
+          	</div>
+
+        </div>
+
+    </div>
+</div>
+
+-->
+
+<!--
+<div class="table">
+<ul>
+  
+{% for product in site.products %}
+  {% if product.type == "dues" %}
+  		{% include product.html %}
+  {% endif %}
+{% endfor %}
+  
+</ul>
+</div>
+-->
+
+
+
+<!--
+
+<h3>Donate to PKO!</h3>
+<p>Have family or friends in PKO? Love what we do and want to contribute? Than make a donation to Pale Kai Outrigger. Your money will help Pale Kai Outrigger attend races, maintain equipment, and supplement annualy costs required to keep our club alive.</p>
+<div class="row">
+
+{% for product in site.products %}
+  {% if product.type == "donation" %}
+  		{% include product.html %}
+  {% endif %}
+{% endfor %}
+</div>
+-->
