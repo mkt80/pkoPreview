@@ -25,7 +25,7 @@
 	<!--[if lte IE 8]><script src="http://localhost:4000/assets/js/ie/respond.min.js"></script><![endif]-->
 	<script src="http://localhost:4000/assets/js/main.js"></script>
 	<script src="http://localhost:4000/assets/js/instafeed.js"></script>
-		
+	<script src="http://localhost:4000/assets/js/menu.js"></script>
 
 	
 	 <!-- SNIP CART -->
@@ -47,20 +47,22 @@
 	</nav>
 </header>
 
-<!-- Menu -->
+
 <nav id="menu">
 	<ul class="links">
-        <li><a href="/calendar/">2017 PKO Calendar</a></li>
-		<li><a href="/membership/">Membership Dues and Waivers</a></li>
-		<li><a href="/blog/">PKO Announcements</a></li>
-		<li><a href="/sponsorship/">Sponsorship</a></li>
+		<li><a href="/racingteams/">Racing Teams</a></li>
+		<li><a href="/alumniprogram/">Alumni Program</a></li>
+        <li><a href="/calendar/">Calendar</a></li>
+		<li><a href="/blog/">News</a></li>
 		<li><a href="/resources/">Outrigger Resources</a></li>
 		<li><a href="/contact/">Contact</a></li>
 	</ul>
 	<ul class="actions vertical">
 		<li><a href="/joinus" class="button special fit">Join Us</a></li>
+		<li><a href="/dues" class="button special fit">Members Portal</a></li>
 	</ul>
-</nav> 
+</nav>
+ 
     
     
 <!-- Main -->
@@ -192,8 +194,40 @@ Pale Kai Outrigger Novice Training in Morro Bay.</p>
 	</div>
 </footer>
 	
+<script>
+// CSS3 animated & responsive dropdown menu
+// Latest version: https://github.com/catalinred/Animenu
 
+(function(){
+  var animenuToggle = document.querySelector('.animenu__toggle'),
+      animenuNav    = document.querySelector('.animenu__nav'),
+      hasClass = function( elem, className ) {
+        return new RegExp( ' ' + className + ' ' ).test( ' ' + elem.className + ' ' );
+      },
+      toggleClass = function( elem, className ) {
+        var newClass = ' ' + elem.className.replace( /[\t\r\n]/g, ' ' ) + ' ';
+        if( hasClass(elem, className ) ) {
+          while( newClass.indexOf( ' ' + className + ' ' ) >= 0 ) {
+            newClass = newClass.replace( ' ' + className + ' ' , ' ' );
+          }
+          elem.className = newClass.replace( /^\s+|\s+$/g, '' );
+        } else {
+          elem.className += ' ' + className;
+        }
+      },           
+      animenuToggleNav =  function (){        
+        toggleClass(animenuToggle, "animenu__toggle--active");
+        toggleClass(animenuNav, "animenu__nav--open");        
+      }
 
+  if (!animenuToggle.addEventListener) {
+      animenuToggle.attachEvent("onclick", animenuToggleNav);
+  }
+  else {
+      animenuToggle.addEventListener('click', animenuToggleNav);
+  }
+})()      
+</script>
 <!-- INSTAGRAMP -->
 	<script>
 	// InstaFeed

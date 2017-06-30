@@ -1,11 +1,11 @@
 ---
 name: 9 Man Season Deposit
-price: 120.00
+price: 120
 slug: 9man-season-deposit
 sku: 9man-season-deposit
-image: 
+image: /assets/images/9man.jpg
 layout: productdetails
-type: dues
+type: 9man
 ---
 For members who are racing for 9 man season.
 

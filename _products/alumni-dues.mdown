@@ -1,12 +1,12 @@
 ---
 name: Alumni Member Dues
-price: 350.00
+price: 200
 slug: alumni-member-dues
 sku: alumni-member-dues
-image: 
+image: /assets/images/outriggers-onwater-avila.jpg
 layout: productdetails
 type: dues
 ---
-For members not planning on racing at all this season - only participating in the Alumni Program.
+For members only participating in the Alumni Program.
 
       

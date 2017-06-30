@@ -6,37 +6,82 @@ permalink: /dues
 head:
   snipcart.html
 ---
-<h2>Club Member Dues</h2>
-<h4>
-	Dues Paid in Full
-</h4>
+<h2>Club Member Dues and Deposits</h2>
 <div class="dues-portal">
-  <div id="wrapper">
-      <div id="content">
+  	<div class="wrapper">
+		<p>New for 2017 - pay your membership dues and racing deposits online! Every PKO member must pay yearly dues. These go directly towards maintaining our canoes, clubsite, and racing fees.</p>
+      	<div class="content">
 
-        <div class="list">
+        	<div class="list">
 
-          <div class="product-card">
-            <span class="tag">
-              <span class="glyphicon glyphicon-shopping-cart" aria-hidden="true"></span>
-            </span>
-            <h2>KIVIK</h2>
-            <h4>ARMCHAIR</h4>
-            <figure>
-              <img src="https://iconicinteriors.com/images/uploads/products/swan-chairs.jpg" alt="product" />
-            </figure>
-            
-            <span class="price">
-              $790
-            </span>
-            
+          		{% for product in site.products %}
+				  {% if product.type == "9man" %}
+				  		{% include product.html %}
+				  {% endif %}
+				{% endfor %}
+				{% for product in site.products %}
+				  {% if product.type == "dues" %}
+				  		{% include product.html %}
+				  {% endif %}
+				{% endfor %}
+	            
 
-          </div>
+          	</div>
 
         </div>
 
-      </div>
-  </div>
+    </div>
+</div>
+<!--
+<div class="dues-portal">
+  	<div class="wrapper">
+  		<h3>
+			9 Man Season - Deposit and Fees
+		</h3>
+		<p>To race in 9man season ( August thru September ) you must be a current PKO Member. A deposit is required to participate no later than July 10th. This helps us secure chase boats. Susequent race fees may be required as well.</p>
+      	<div class="content">
+
+        	<div class="list">
+
+          		{% for product in site.products %}
+				  {% if product.type == "9man" %}
+				  		{% include product.html %}
+				  {% endif %}
+				{% endfor %}
+	            
+
+          	</div>
+
+        </div>
+
+    </div>
+</div>
+<div class="dues-portal">
+  	<div class="wrapper">
+		<h3>
+		Yearly Dues
+		</h3>
+		<p>Dues will run from March 1 - Feb 28. $350 to be paid in full by March 1 (preferred) or at latest by the first scheduled practice. No $$, no practice (insurance liability).</p>
+		<p>Contact Nancy Needham, treasurer, if you need to request a payment plan (nanpaddler@gmail.com or (805) 235-2249 text is ok).</p>
+      	<div class="content">
+      		
+        	<div class="list">
+
+          		{% for product in site.products %}
+				  {% if product.type == "dues" %}
+				  		{% include product.html %}
+				  {% endif %}
+				{% endfor %}
+
+          	</div>
+
+        </div>
+
+    </div>
+</div>
+
+-->
+
 <!--
 <div class="table">
 <ul>
@@ -50,7 +95,7 @@ head:
 </ul>
 </div>
 -->
-</div>
+
 
 
 <!--

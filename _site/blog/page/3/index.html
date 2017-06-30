@@ -25,7 +25,7 @@
 	<!--[if lte IE 8]><script src="http://localhost:4000/assets/js/ie/respond.min.js"></script><![endif]-->
 	<script src="http://localhost:4000/assets/js/main.js"></script>
 	<script src="http://localhost:4000/assets/js/instafeed.js"></script>
-		
+	<script src="http://localhost:4000/assets/js/menu.js"></script>
 
 	
 	 <!-- SNIP CART -->
@@ -47,20 +47,22 @@
 	</nav>
 </header>
 
-<!-- Menu -->
+
 <nav id="menu">
 	<ul class="links">
-        <li><a href="/calendar/">2017 PKO Calendar</a></li>
-		<li><a href="/membership/">Membership Dues and Waivers</a></li>
-		<li><a href="/blog/">PKO Announcements</a></li>
-		<li><a href="/sponsorship/">Sponsorship</a></li>
+		<li><a href="/racingteams/">Racing Teams</a></li>
+		<li><a href="/alumniprogram/">Alumni Program</a></li>
+        <li><a href="/calendar/">Calendar</a></li>
+		<li><a href="/blog/">News</a></li>
 		<li><a href="/resources/">Outrigger Resources</a></li>
 		<li><a href="/contact/">Contact</a></li>
 	</ul>
 	<ul class="actions vertical">
 		<li><a href="/joinus" class="button special fit">Join Us</a></li>
+		<li><a href="/dues" class="button special fit">Members Portal</a></li>
 	</ul>
-</nav> 
+</nav>
+ 
     
     
 <!-- Main -->
@@ -78,6 +80,25 @@
 <!-- End intro -->
 
 
+    
+        <div class="blog-article-container">
+          
+          <div class="content">
+            <a href="/novice/team/2017/novice-training-update/">
+            <aside class="dates">Feb 27</aside>
+            </a>
+            <a href="/novice/team/2017/novice-training-update/">
+              <h2>2017 Novice Training Update</h2>
+               <p>
+            <p>Aloha all potential PKO Novice,</p> <p>I (Novice Coach Tom) welcome you to Pale Kai Outrigger (PKO). Below you will find all the information needed to become a novice member of...
+            </p>
+
+            </a>
+           
+          </div>
+        </div>
+        <div class="clear"></div>
+        <hr/>
     
         <div class="blog-article-container">
           
@@ -146,25 +167,6 @@
               <h2>Off Season Paddling</h2>
                <p>
             <p>Pale Kai off-season paddling is headquartered at Coleman Beach in Morro Bay. Paddling is scheduled through February. There are three canoes available and sign ups are first-come, first-serve. At least...
-            </p>
-
-            </a>
-           
-          </div>
-        </div>
-        <div class="clear"></div>
-        <hr/>
-    
-        <div class="blog-article-container">
-          <span class="image blog"><img src="/assets/images/trash-day-1.png" alt="" /></span>
-          <div class="content">
-            <a href="/events/2017/roadside-cleanup/">
-            <aside class="dates">Jan 22</aside>
-            </a>
-            <a href="/events/2017/roadside-cleanup/">
-              <h2>Rescheduled - Road Side Clean Up</h2>
-               <p>
-            <p>Aloha PKO paddlers and Happy New Year!</p> <p>I hope you all have been having a restful, rejuvenating winter and are starting to get excited about the upcoming paddling season!</p> <p>Hey!...
             </p>
 
             </a>
@@ -286,8 +288,40 @@
 	</div>
 </footer>
 	
+<script>
+// CSS3 animated & responsive dropdown menu
+// Latest version: https://github.com/catalinred/Animenu
 
+(function(){
+  var animenuToggle = document.querySelector('.animenu__toggle'),
+      animenuNav    = document.querySelector('.animenu__nav'),
+      hasClass = function( elem, className ) {
+        return new RegExp( ' ' + className + ' ' ).test( ' ' + elem.className + ' ' );
+      },
+      toggleClass = function( elem, className ) {
+        var newClass = ' ' + elem.className.replace( /[\t\r\n]/g, ' ' ) + ' ';
+        if( hasClass(elem, className ) ) {
+          while( newClass.indexOf( ' ' + className + ' ' ) >= 0 ) {
+            newClass = newClass.replace( ' ' + className + ' ' , ' ' );
+          }
+          elem.className = newClass.replace( /^\s+|\s+$/g, '' );
+        } else {
+          elem.className += ' ' + className;
+        }
+      },           
+      animenuToggleNav =  function (){        
+        toggleClass(animenuToggle, "animenu__toggle--active");
+        toggleClass(animenuNav, "animenu__nav--open");        
+      }
 
+  if (!animenuToggle.addEventListener) {
+      animenuToggle.attachEvent("onclick", animenuToggleNav);
+  }
+  else {
+      animenuToggle.addEventListener('click', animenuToggleNav);
+  }
+})()      
+</script>
 <!-- INSTAGRAMP -->
 	<script>
 	// InstaFeed

@@ -1,8 +1,8 @@
 ---
 layout: home
 title: Home
-landing-title: 'Iron Season Is Here'
-description: '6/10/17 - Marina Del Rey' 
+landing-title: '9 Man Season'
+description: 'Training starts now - July 2017' 
 image: null
 author: null
 permalink: /index.html

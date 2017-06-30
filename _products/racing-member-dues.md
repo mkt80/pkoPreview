@@ -1,9 +1,9 @@
 ---
 name: Racing Member Dues
-price: 350.00
+price: 350
 slug: racing-member-dues
 sku: pkodues
-image: 
+image: /assets/images/outrigger-race-1.jpg
 layout: productdetails
 type: dues
 ---

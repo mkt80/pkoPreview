@@ -1,22 +1,23 @@
 {% assign loopindex = forloop.index | modulo: 2 %}
 
-<li>
-  <div class="top">
-    <h1>{{ product.name }}</h1>
-    <div class="circle">{{ product.price }}</div>
-  </div>
-  <div class="bottom">
-    <p>{{ product.content }}</p>
-  
-    <div class="sign">
-    <button class="snipcart-add-item"
-      data-item-name="{{ product.name }}"
-      data-item-id="{{ product.sku }}"
-      data-item-image="{{ product.image }}"
-      data-item-url="{{ site.url }}"
-      data-item-price="{{ product.price }}">
-     Add to Cart {{ product.price }} $
+<div class="product-card">
+	<span class="tag">
+			<span class="glyphicon glyphicon-shopping-cart" aria-hidden="true"></span>
+	</span>
+	<h2>{{ product.name }}</h2>
+	<p>{{ product.content }}</p>
+	<figure>
+			<img src="{{ product.image }}" alt="{{ product.name }}" />
+	</figure>
+	<button class="snipcart-add-item special"
+		data-item-name="{{ product.name }}"
+		data-item-id="{{ product.sku }}"
+		data-item-image="{{ product.image }}"
+		data-item-url="{{ site.url }}"
+		data-item-price="{{ product.price }}">
+     	Add to Cart
     </button>
-    </div>
-  </div>
-</li>
+	<span class="price">
+	${{ product.price }}
+	</span>
+</div>
