@@ -24,6 +24,11 @@ head:
 				  		{% include product.html %}
 				  {% endif %}
 				{% endfor %}
+				{% for product in site.products %}
+				  {% if product.type == "donation" %}
+				  		{% include product.html %}
+				  {% endif %}
+				{% endfor %}
 	            
 
           	</div>
