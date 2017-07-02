@@ -30,8 +30,11 @@ Please contact us for more information if required. -->
 		<h2>Technique Videos</h2>
     	<iframe width="560" height="315" src="https://www.youtube.com/embed/q0dK7O-iTj0" frameborder="0" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/arAJhcoQ_BY" frameborder="0" allowfullscreen></iframe>
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/arAJhcoQ_BY" frameborder="0" allowfullscreen></iframe>
+		<h2>9 Man Races</h2>
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/7UIf4Tqs-kY?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>	
 	</div>
+
 </div>
  
 

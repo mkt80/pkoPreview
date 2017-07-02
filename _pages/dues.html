@@ -6,36 +6,76 @@ permalink: /dues
 head:
   snipcart.html
 ---
-<h2>Club Member Dues and Deposits</h2>
-<div class="dues-portal">
-  	<div class="wrapper">
-		<p>New for 2017 - pay your membership dues and racing deposits online! Every PKO member must pay yearly dues. These go directly towards maintaining our canoes, clubsite, and racing fees.</p>
-      	<div class="content">
 
-        	<div class="list">
 
-          		{% for product in site.products %}
-				  {% if product.type == "9man" %}
-				  		{% include product.html %}
-				  {% endif %}
-				{% endfor %}
-				{% for product in site.products %}
-				  {% if product.type == "dues" %}
-				  		{% include product.html %}
-				  {% endif %}
-				{% endfor %}
-				{% for product in site.products %}
-				  {% if product.type == "donation" %}
-				  		{% include product.html %}
-				  {% endif %}
-				{% endfor %}
-	
-          	</div>
+		<h2>9 Man Season</h2>
+		<div class="dues-portal">
+		  	<div class="wrapper">
+				<p>9 Man Season requires the hire of chase boats and additional race fees. Deposits are required to participate in 9 man races.</p>
+		      	<div class="content">
 
-        </div>
+		        	<div class="list">
 
-    </div>
-</div>
+		          		{% for product in site.products %}
+						  {% if product.type == "9man" %}
+						  		{% include product.html %}
+						  {% endif %}
+						{% endfor %}
+						
+			
+		          	</div>
+
+		        </div>
+
+		    </div>
+		</div>
+
+		<h2>Yearly Dues</h2>
+		<div class="dues-portal">
+		  	<div class="wrapper">
+				<p>Every PKO member must pay yearly dues. These go directly towards maintaining our canoes, clubsite, and racing fees.</p>
+		      	<div class="content">
+
+		        	<div class="list">
+
+		          		
+						{% for product in site.products %}
+						  {% if product.type == "dues" %}
+						  	{% include product.html %}
+						  {% endif %}
+						{% endfor %}
+						
+			
+		          	</div>
+
+		        </div>
+
+		    </div>
+		</div>
+
+		<h2>Donate</h2>
+		<div class="dues-portal">
+		  	<div class="wrapper">
+				<p>Support PKO - Make a donation</p>
+		      	<div class="content">
+
+		        	<div class="list">
+
+		          		
+						{% for product in site.products %}
+						  {% if product.type == "donation" %}
+						  	{% include product.html %}
+						  {% endif %}
+						{% endfor %}
+						
+			
+		          	</div>
+
+		        </div>
+
+		    </div>
+		</div>
+
 <!--
 <div class="dues-portal">
   	<div class="wrapper">

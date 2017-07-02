@@ -24,21 +24,14 @@ permalink: /joinus
 		<p>Novice training starts in January. Team practice is 3x a week beginning in March.</p>
 	</div>
 </div>
+<a href="/recruitment-registration/" class="button big fit">Register Now</a>
+
 <hr/>
-<h2>Joining Pale Kai</h2>
-<p>
-If you're interested in joining Pale Kai as an inexperienced paddler for 2017, then please contact the novice coach, Tom Needham, ASAP. We have begun spring training and once we get into Apirl, registration for the 2017 season will close. 
-</p>
-<p>
-<strong>Kristen Sanchez</strong><br/>
-Vice President, Pale Kai Outrigger<br/>
-Email: lovesealife@gmail.com 
-</p>
-<!--
+
 <h2>New Recruitment Demo Days</h2>
 <div class="row">
 	<div class="6u 12u$(small)">
-		<p>If you're interested in joining Pale Kai as an inexperienced paddler for 2017, then come to our New Recruitment Demo Days at Coleman Park in Morro Bay during February. These recruitment demo days are by sign up only! Novice recruitment for 2017 will close during the second week of March. So sign up now!
+		<p>If you're interested in joining Pale Kai as an inexperienced paddler for 2018, then come to our New Recruitment Demo Days in October and Feburary. These recruitment demo days are by sign up only! So sign up now!
 		</p>
 		<br/>
 		<p>
@@ -47,22 +40,18 @@ Email: lovesealife@gmail.com
 	</div>
 	<div class="6u 12u$(small)">
 	<p>
-		The new recruit demo days of 2017 are scheduled as follows, in Morro Bay (Coleman Park):
+		The new recruit demo days are scheduled as follows, in Morro Bay (Coleman Park):
 	</p>
 		<div class="table-wrapper">
 			<table class="alt">
 				<tbody>
 					<tr>
-						<td>SUNDAY, February 5th</td>
-						<td>8:00 and 10:00 a.m.</td>
+						<td>October, 2017</td>
+						<td>TBD</td>
 					</tr>
 					<tr>
-						<td>SUNDAY, February 12th</td>
-						<td>08:00 and 10:00 a.m.</td>
-					</tr>
-					<tr>
-						<td>SUNDAY, February 19th</td>
-						<td>08:00 and 10:00 a.m.</td>
+						<td>February 2018</td>
+						<td>TBD</td>
 					</tr>
 				</tbody>
 			</table>
@@ -70,7 +59,7 @@ Email: lovesealife@gmail.com
 	</div>
 </div>
 <hr class="major" />
--->
+
 
 <h2>Novice Year Overview</h2>
 <h4>February:  Recruitment </h4>

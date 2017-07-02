@@ -6,9 +6,11 @@
 	</span>
 	<h2>{{ product.name }}</h2>
 	<p>{{ product.content }}</p>
+	{% if product.image %}
 	<figure>
 			<img src="{{ product.image }}" alt="{{ product.name }}" />
 	</figure>
+	{% endif %}
 	<button class="snipcart-add-item special"
 		data-item-name="{{ product.name }}"
 		data-item-id="{{ product.sku }}"
