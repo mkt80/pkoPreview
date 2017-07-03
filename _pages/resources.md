@@ -3,7 +3,7 @@ layout: post
 title: Outrigger Resources
 description: Weather info, videos, and paddling tips
 feature: true
-permalink: /resources
+permalink: /resources/
 
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: Contact
 description: Need to get in touch with Pale Kai?
-permalink: /contact
+permalink: /contact/
 
 ---
 

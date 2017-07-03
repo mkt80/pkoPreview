@@ -2,7 +2,7 @@
 layout: post
 title: Calendar
 description: 
-permalink: /calendar
+permalink: /calendar/
 ---
 
 <h2>2017 Race Schedule</h2>

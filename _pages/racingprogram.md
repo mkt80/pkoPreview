@@ -3,7 +3,7 @@ layout: post
 title: Membership Dues and Waivers
 description: Yearly dues, waivers, and literature.
 image: assets/images/team-1.jpg
-permalink: /racingteams
+permalink: /racingteams/
 
 ---
 
