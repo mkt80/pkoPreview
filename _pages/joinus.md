@@ -27,14 +27,11 @@ permalink: /joinus/
 
 <hr/>
 <h2>2018 Recruitment Program</h2>
-<div class="row">
-	<div class="6u 12u$(small)">
-		<h3>2018 Recruitment Program</h3>
-		<p>Are you ready to give outrigger a shot? Or perhaps come back after a few years off? Then make sure to <strong>register for our 2018 Recruitment Program</strong>. The program costs $100 and runs from January thru March. You'll meet weekly in Morro Bay to learn the basics of outrigger paddling, get on the water, and meet your future team mates. 
-		</p>
-		<p>We expect registration for our 2018 Recruitment Program to open up in mid October. Make sure to sign up for <a href="#contact">The PKO Bulletin</a> so we can let you know when it's time to sign up.</p>
-	</div>
-</div>
+
+<p>Are you ready to give outrigger a shot? Or perhaps come back after a few years off? Then make sure to <strong>register for our 2018 Recruitment Program</strong>. The program costs $100 and runs from January thru March. You'll meet weekly in Morro Bay to learn the basics of outrigger paddling, get on the water, and meet your future team mates. 
+</p>
+<p>We expect registration for our 2018 Recruitment Program to open up in mid October. Make sure to sign up for <a href="#contact">The PKO Bulletin</a> in the meantime.</p>
+
 	
 
 <hr class="major" />
@@ -81,7 +78,7 @@ permalink: /joinus/
 <p>
 After several months of training, the first official races begin in May.  Pale Kai is a member of the Southern California Outrigger Racing Association (SCORA).  We compete with other member clubs in SCORA, and our official events take place between San Diego and Santa Barbara. The first five races take place from early May through the end of June.  In the novice division, races are approximately 4 to 5 miles and occur in more protected waters than the veteran divisions.   Iron races consist of 6 person crews over a set distance, and novice teams may race under men’s, women’s, or co-ed divisions.
 </p>
-<a href="/race-schedule/" class="button">View SCORA Race Schedule</a>
+<a href="/calendar/" class="button">View SCORA Race Schedule</a>
 <p>The Iron Season concludes with the championships in San Diego. This highly attended event attracts entrants from all over the state and is a fitting tribute to the outrigger culture. For added fun, novice teams are encouraged to enter the Novice Dance Competition to display their grace and creativity, or just poke fun at themselves in a family friendly environment.
 </p>
 <h4>August-September: 9-Man Season</h4>
@@ -104,8 +101,8 @@ Want to give it a try? Then sign up for our 2017 Recruitment Program below.
 
 <center>
 	<a href="/calendar/" class="button small">2017 Race Schedule</a>
-	<a href="/membership/" class="button small">Membership Dues</a>
-	<a href="/membership/" class="button small">Waivers and Required Literature</a>
+	<a href="/dues/" class="button small">Membership Dues</a>
+	<a href="/resources/" class="button small">Outrigger Resources</a>
 </center>
 <p>&nbsp;</p>
 

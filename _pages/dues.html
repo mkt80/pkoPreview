@@ -8,73 +8,54 @@ head:
 ---
 
 
-		<h2>9 Man Season Registration</h2>
-		<div class="dues-portal">
-		  	<div class="wrapper">
-				<p>9 Man Season requires the hire of chase boats and additional race fees. Deposits are required to participate in 9 man races.</p>
-		      	<div class="content">
+<h2>Membership Dues</h2>
 
-		        	<div class="list">
 
-		          		{% for product in site.products %}
-						  {% if product.type == "9man" %}
-						  		{% include product.html %}
-						  {% endif %}
-						{% endfor %}
-						
-			
-		          	</div>
+<div class="row">
+	
+	<div class="12u$ 12u$(small)">
+		
+    <div class="dues-portal">
+	  	<div class="content">
 
-		        </div>
+	    	<div class="list">
 
-		    </div>
-		</div>
+	      		
+					{% for product in site.products %}
+					  {% if product.type == "dues" %}
+					  	{% include product.html %}
+					  {% endif %}
+					{% endfor %}
+					{% for product in site.products %}
+		  		{% if product.type == "9man" %}
+		  		{% include product.html %}
+		  		{% endif %}
+					{% endfor %}
 
-		<h2>Yearly Dues</h2>
-		<div class="dues-portal">
-		  	<div class="wrapper">
-				<p>Every PKO member must pay yearly dues. These go directly towards maintaining our canoes, clubsite, and racing fees.</p>
-		      	<div class="content">
+	      	</div>
+	      </div>
+	    </div>
+	</div>
+</div>
 
-		        	<div class="list">
+<div class="row">
+	<div class="6u 12u$(small)">
+		<h4>Membership Dues</h4>
+		<p>Dues will run from March 1 - Feb 28. $350 to be paid in full by March 1 (preferred) or at latest by the first scheduled practice. No $$, no practice (insurance liability).</p>
+		<p>Contact Nancy Needham, treasurer, if you need to request a payment plan (nanpaddler@gmail.com or (805) 235-2249 text is ok).</p>
 
-		          		
-						{% for product in site.products %}
-						  {% if product.type == "dues" %}
-						  	{% include product.html %}
-						  {% endif %}
-						{% endfor %}
-						
-			
-		          	</div>
+		<p>Dues includes entry in Iron season races (no guarantee for a seat in a canoe) and 1 race jersey (short or long sleeve). Pay online, bring a check to first practice, or send a check to:</p>
+		<p>
+		Nancy Needham<br/>
+		2510 Bay Vista Lane<br/>
+		Los Osos, CA 93402</p>	
+	</div>
+	<div class="6u$ 12u$(small)">
+		<h4>Required Waivers and Literature</h4>
+    	{% include waivers.html %}
+	</div>
+</div>
 
-		        </div>
-
-		    </div>
-		</div>
-
-		<h2>Donate</h2>
-		<div class="dues-portal">
-		  	<div class="wrapper">
-				<p>Support PKO - Make a donation</p>
-		      	<div class="content">
-
-		        	<div class="list">
-
-		          		
-						{% for product in site.products %}
-						  {% if product.type == "donation" %}
-						  	{% include product.html %}
-						  {% endif %}
-						{% endfor %}
-						
-			
-		          	</div>
-
-		        </div>
-
-		    </div>
-		</div>
 
 <!--
 <div class="dues-portal">
