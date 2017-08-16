@@ -24,19 +24,26 @@ permalink: /joinus/
 		<p>Novice training starts in January. Team practice is 3x a week beginning in March.</p>
 	</div>
 </div>
-<a href="/recruitment-registration/" class="button big fit">Register Now</a>
 
 <hr/>
-
-<h2>New Recruitment Demo Days</h2>
+<h2>2018 Recruitment Program</h2>
 <div class="row">
 	<div class="6u 12u$(small)">
-		<p>If you're interested in joining Pale Kai as an inexperienced paddler for 2018, then come to our New Recruitment Demo Days in October and Feburary. These recruitment demo days are by sign up only! So sign up now!
+		<h3>2018 Recruitment Program</h3>
+		<p>Are you ready to give outrigger a shot? Or perhaps come back after a few years off? Then make sure to <strong>register for our 2018 Recruitment Program</strong>. The program costs $100 and runs from January thru March. You'll meet weekly in Morro Bay to learn the basics of outrigger paddling, get on the water, and meet your future team mates. 
+		</p>
+		<p>We expect registration for our 2018 Recruitment Program to open up in mid October. Make sure to sign up for <a href="#contact">The PKO Bulletin</a> so we can let you know when it's time to sign up.</p>
+	</div>
+</div>
+	
+
+<hr class="major" />
+<h2>Demo Days</h2>
+<div class="row">
+	<div class="6u 12u$(small)">
+		<p>If you're interested in joining Pale Kai, but want to try it out first, then come check out our Demo Days.
 		</p>
 		<br/>
-		<p>
-		<a href="/recruitment-registration/" class="button big">Register Now</a>
-		</p>
 	</div>
 	<div class="6u 12u$(small)">
 	<p>
