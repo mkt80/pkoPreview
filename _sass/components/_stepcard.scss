@@ -1,0 +1,110 @@
+.step-card {
+  .content {
+    width: 1200px;
+    max-width: 100%;
+    margin: 0 auto;
+  }
+  h1, h2 {
+    margin: 0;
+  }
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  a {
+    text-decoration: none;
+  }
+
+  .plan {
+    margin:0 auto;
+    margin-top:30px;
+    margin-bottom:40px;
+    padding: 10px;
+    background: #fff;
+    width: 300px;
+    box-shadow: 0 0 22px 0 rgba(0, 0, 0, 0.1);
+    text-align:center;
+    position:relative;
+    overflow:hidden;
+  }
+
+  .plan::after{
+    position:absolute;
+    content:"";
+    top:-50px;
+    left:-20px;
+    width:80px;
+    height:150px;
+    background: _palette(bg-alt);
+   /* clip-path: polygon(0 0, 0% 100%, 100% 0);*/
+    transform:rotate(45deg);
+  }
+
+  .plan ul{
+    margin-top:20px;
+  }
+  .plan ul li {
+    font-size: 1.4em;
+    padding: 16px;
+    text-align: center;
+    color: #858aa9;
+    font-size:1em;
+  }
+  .plan ul li span{
+    color:#777;
+    font-weight:600;
+  }
+  /**********************/
+  .plan .title {
+    padding: 30px 0;
+    color: #aaa;
+    font-size: 1.5em;
+    margin-top:30px;
+    text-transform: uppercase;
+    position: relative;
+  }
+  .title::after {
+    content:"";
+    background: #aaa;
+    width: 30px;
+    height: 5px;
+    border-radius:10px;
+    display: block;
+    margin: auto;
+    margin-top:10px;
+  }
+  /****************************/
+  .plan .action-btn {
+    border: none;
+    text-transform: capitalize;
+    font-weight: 300;
+    font-size: 1.4em;
+    padding: 0;
+    background: #fff;
+    border:2px solid #cbcfe7;
+    margin:30px 0;
+  }
+  .plan .action-btn a {
+    display: inline-block;
+    padding: 10px 30px;
+    font-size:0.9em;
+    width: 100%;
+    color: #666;
+  }
+  .price {
+    font-size: 2em;
+    text-align: center;
+    color:#666;
+  }
+
+  .dollar{
+    vertical-align:super;
+    font-size:.3em;
+    color:#999;
+  }
+  .month{
+    font-size:0.3em;
+    color:#999;
+  }
+}
