@@ -14,7 +14,7 @@ Need to contact us? There are a variety of ways to get a hold of someone from Pa
 <div class="row">
 	<div class="6u 12u$(small)">
 <h2>President </h2>
-<p>Sarah Donahue // president@palekai.org
+<p>Sarah Donahue // msdonahue808@gmail.com
 </p>
 <h2>Vice President</h2>
 <p>Kristen Sanches // vp@palekai.org
