@@ -7,9 +7,21 @@ nav-menu: true
 permalink: /teambuilding-challenge/
 
 ---
-<h2>You provide the team, we provide the experience</h2>
+<h2><center>You provide the team, we provide the experience</center></h2>
 <p>Join Pale Kai Outrigger Canoe Team for an amazing and completely unique team building experience on our local Central Coast waters! All you have to do is register team members by following the steps below and then come ready for a team building experience like no other! We will provide all of the gear, the coaching, the safety equipment, and the special opportunity to bond with your staff. The experience will include event tees, instruction, practice, and a race against other local teams. At the end of the 3-hour event we will provide a reception celebration from our Ohana (family) to yours! </p>
+<hr/>
+<h2><center>Two Dates to Choose From</center></h2>
+<div class="row">
+	<!-- Break -->
+	<div class="6u 12u$(medium)">
+		<h3><center>October 21st, 2017</center></h3>
+	</div>
+	<div class="6u 12u$(medium)">
+		<h3><center>October 28st, 2017</center></h3>
+	</div>
 
+</div>
+<hr/>
 <div class="row step-card">
 	<!-- Break -->
 	<div class="4u 12u$(medium)">

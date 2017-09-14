@@ -1,8 +1,8 @@
 ---
 layout: home
 title: Home
-landing-title: '9 Man Season'
-description: 'Training starts now - July 2017' 
+landing-title: 'We Race. We Play. We Paddle'
+description: 'Teambuilding Challenge Oct 21st and Oct 28th' 
 image: null
 author: null
 permalink: /index.html
