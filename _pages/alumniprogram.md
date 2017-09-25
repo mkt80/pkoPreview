@@ -27,12 +27,13 @@ gprober@yahoo.com</p>
 	<div class="6u$ 12u$(small)">
 		<h4>Membership Dues</h4>
 		<p>Once dues are paid, you will be added to our TeamSnap for availbility, scheduling, and other fun PKO activities.</p>
+		<!--
 		{% for product in site.products %}
 		  {% if product.sku == "alumni-member-dues" %}
 		  	{% include product.html %}
 		  {% endif %}
 		{% endfor %}
-		
+		-->
 		
 
 
