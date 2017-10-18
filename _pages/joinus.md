@@ -28,40 +28,34 @@ permalink: /joinus/
 <hr/>
 <h2>2018 Recruitment Program</h2>
 
-<p>Are you ready to give outrigger a shot? Or perhaps come back after a few years off? Then make sure to <strong>register for our 2018 Recruitment Program</strong>. The program costs $100 and runs from January thru March. You'll meet weekly in Morro Bay to learn the basics of outrigger paddling, get on the water, and meet your future team mates. 
+<p>Are you ready to give outrigger a shot? Or perhaps come back after a few years off? Then make sure to <strong>register for our 2018 Recruitment Program</strong>. You'll meet weekly in Morro Bay to learn the basics of outrigger paddling, get on the water, and meet your future team mates. 
 </p>
-<p>We expect registration for our 2018 Recruitment Program to open up in mid October. Make sure to sign up for <a href="#contact">The PKO Bulletin</a> in the meantime.</p>
+<p>The first three paddles are free. After that a $100 deposit towards your yearly dues is due.</p>
+<p>Registration for our 2018 Recruitment Program to open up in mid October. Make sure to sign up for <a href="#contact">The PKO Bulletin</a> in the meantime.</p>
 
-	
-
-<hr class="major" />
-<h2>Demo Days</h2>
-<div class="row">
-	<div class="6u 12u$(small)">
-		<p>If you're interested in joining Pale Kai, but want to try it out first, then come check out our Demo Days.
-		</p>
-		<br/>
-	</div>
-	<div class="6u 12u$(small)">
-	<p>
-		The new recruit demo days are scheduled as follows, in Morro Bay (Coleman Park):
-	</p>
-		<div class="table-wrapper">
+<div class="table-wrapper">
 			<table class="alt">
 				<tbody>
 					<tr>
-						<td>October, 2017</td>
-						<td>TBD</td>
+						<td>November 19, 2017</td>
+						<td>Coleman Beach, Morro Bay</td>
 					</tr>
 					<tr>
-						<td>February 2018</td>
-						<td>TBD</td>
+						<td>January 21, 2017</td>
+						<td>Coleman Beach, Morro Bay</td>
+					</tr>
+					<tr>
+						<td>January 28, 2017</td>
+						<td>Coleman Beach, Morro Bay</td>
+					</tr>
+					<tr>
+						<td>February 4, 2017</td>
+						<td>Coleman Beach, Morro Bay</td>
 					</tr>
 				</tbody>
 			</table>
 		</div>
-	</div>
-</div>
+
 <hr class="major" />
 
 
