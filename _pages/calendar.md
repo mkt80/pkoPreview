@@ -5,9 +5,9 @@ description:
 permalink: /calendar/
 ---
 
-<h2>2017 Race Schedule</h2>
-<p>Races that Pale Kai intends to participate in for the 2017 season are listed below. Grayed out races are tenative.</p>
-{% include race-schedule.html %}
+<h2>2018 Race Schedule</h2>
+<p>Races that Pale Kai intends to participate in for the 2018 season are listed below. Grayed out races are tenative.</p>
+ TBD . . .
 <hr/>
 <h2>PKO Calendar</h2>
 <p>The calendar below lists known practice times, races, and PKO events. Check often as it's updated constently. Contact communications@palekai.org to submit an event.</p>

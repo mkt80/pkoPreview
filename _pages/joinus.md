@@ -1,55 +1,38 @@
 ---
 layout: post
 title: Join Us
-description: Information about our 2017 recruitment program and joining Pale Kai Outrigger
+description: Information about our 2018 recruitment program and joining Pale Kai Outrigger
 image: assets/images/outriggers-onwater-1.jpg
 feature: true
 permalink: /joinus/
 
 ---
 
-<div class="row">
-	
-	<div class="4u 12u$(medium)">
-		<h3>We Race</h3>
-		<p>Pale Kai is a member of SCORA and races Iron, Sprint, and 9 Man Seasons.
-	</p>
-	</div>
-	<div class="4u 12u$(medium)">
-		<h3>We Play</h3>
-		<p>Pale Kai offers many opportunities to train hard and have a great time making life-long Na Hoaloha.</p>
-	</div>
-	<div class="4u$ 12u$(medium)">
-		<h3>We Paddle</h3>
-		<p>Novice training starts in January. Team practice is 3x a week beginning in March.</p>
-	</div>
-</div>
-
-<hr/>
 <h2>2018 Recruitment Program</h2>
 
-<p>Are you ready to give outrigger a shot? Or perhaps come back after a few years off? Then make sure to <strong>register for our 2018 Recruitment Program</strong>. You'll meet weekly in Morro Bay to learn the basics of outrigger paddling, get on the water, and meet your future team mates. 
+<p>Are you ready to give outrigger a shot? Or perhaps come back after a few years off? Then make sure to <strong><a href="https://www.facebook.com/events/380870532360036/">RSVP on our Facebook Event page</a></strong>. You'll meet weekly in Morro Bay to learn the basics of outrigger paddling, get on the water, and meet your future team mates. 
 </p>
 <p>The first three paddles are free. After that a $100 deposit towards your yearly dues is due.</p>
-<p>Registration for our 2018 Recruitment Program to open up in mid October. Make sure to sign up for <a href="#contact">The PKO Bulletin</a> in the meantime.</p>
+<p>To sign up for our 2018 Recruitment Program, head over to our facebook event page. </p>
+<a href="https://www.facebook.com/events/380870532360036/" class="button">Sign Up</a>
 
 <div class="table-wrapper">
 			<table class="alt">
 				<tbody>
 					<tr>
-						<td>November 19, 2017</td>
+						<td>January 21, 2018</td>
 						<td>Coleman Beach, Morro Bay</td>
 					</tr>
 					<tr>
-						<td>January 21, 2017</td>
+						<td>January 28, 2018</td>
 						<td>Coleman Beach, Morro Bay</td>
 					</tr>
 					<tr>
-						<td>January 28, 2017</td>
+						<td>February 4, 2018</td>
 						<td>Coleman Beach, Morro Bay</td>
 					</tr>
 					<tr>
-						<td>February 4, 2017</td>
+						<td>February 11, 2018</td>
 						<td>Coleman Beach, Morro Bay</td>
 					</tr>
 				</tbody>
@@ -89,16 +72,7 @@ Those Novice who develop proficiency may also be invited to compete in the 9-Man
 </p>
 <p>By the time your novice season is over, you will have gained some new skills, increased your fitness levels and made a number of new friends.
 </p>
-<p>
-Want to give it a try? Then sign up for our 2017 Recruitment Program below. 
-</p>
 
-<center>
-	<a href="/calendar/" class="button small">2017 Race Schedule</a>
-	<a href="/dues/" class="button small">Membership Dues</a>
-	<a href="/resources/" class="button small">Outrigger Resources</a>
-</center>
-<p>&nbsp;</p>
 
 
 <h4>Next Level: The World Stage</h4>

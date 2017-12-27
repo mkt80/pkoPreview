@@ -19,7 +19,7 @@ tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 2
 
 tiles-source-news: posts
-tiles-count-news: 2
+tiles-count-news: 1
 
 # Pagination
 paginate: 5
@@ -35,7 +35,6 @@ instagram_url: https://www.instagram.com/palekaioutrigger/
 linkedin_url: 
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/PKOutrigger
 youtube_url: https://www.youtube.com/channel/UCDo7B_WRAVOs2htZyMkJT4A/playlists
 
 # Build settings
