@@ -1,8 +1,8 @@
 ---
 layout: home
 title: Home
-landing-title: 'We Race. We Play. We Paddle'
-description: 'Teambuilding Challenge Oct 21st and Oct 28th' 
+landing-title: 'Fun, Fitness, and Friendships'
+description: 'Explore Your Central Coast' 
 image: null
 author: null
 permalink: /index.html
