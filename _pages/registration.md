@@ -18,7 +18,7 @@ permalink: /members/registration/
 	</div>
 	<div class="4u 12u$(medium)">
 		<h3>March 1, 2018</h3>
-		<p>We will archive our 2017 season in TeamSnap. Register online to continue receiving PKO </p>
+		<p>We will archive our 2017 season in TeamSnap. Register online to continue receiving PKO team communications</p>
 	</div>
 	<div class="4u$ 12u$(medium)">
 		<h3>May 1, 2018</h3>
@@ -30,7 +30,7 @@ permalink: /members/registration/
 <hr/>
 ## Here's what you're going to do
 
-This year, we’ve enlisted the help of TeamSnap again to streamline our member registration process. In one swoop, you’ll accomplish the following things during registration:
+This year, we’ve enlisted the help of TeamSnap again to streamline our member registration process. In one swoop, you’ll accomplish the following things:
 1. Sign up for a new TeamSnap account/player -- OR -- import an existing TeamSnap account/player
 2. Complete your member profile including emergency contact info
 3. Sign the PKO Code of Conduct Policy
