@@ -18,16 +18,5 @@ A hui hou!
 <p>
 <strong>Gary Prober</strong><br/>
 gprober@yahoo.com</p>
-	
-<div class="row">
-	<div class="6u 12u$(small)">
-		<h4>Required Waivers and Literature</h4>
-    	{% include alumni-waivers.html %}
-	</div>
-	<div class="6u$ 12u$(small)">
-		<h4>Membership Dues</h4>
-		<p>Once dues are paid, you will be added to our TeamSnap for availbility, scheduling, and other fun PKO activities.</p>
-	</div>
-</div>
-	
+
 

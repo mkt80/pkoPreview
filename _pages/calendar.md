@@ -5,13 +5,13 @@ description:
 permalink: /calendar/
 ---
 
-<h2>2018 Race Schedule</h2>
-<p>Races that Pale Kai intends to participate in for the 2018 season are listed below. Grayed out races are tenative.</p>
- TBD . . .
-<hr/>
 <h2>PKO Calendar</h2>
 <p>The calendar below lists known practice times, races, and PKO events. Check often as it's updated constently. Contact communications@palekai.org to submit an event.</p>
-<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=palekaioutrigger%40gmail.com&amp;color=%238b37fa&amp;src=b5ecrdba92n9ji21b6u6f804ks%40group.calendar.google.com&amp;color=%23853104&amp;src=bi6dfqqm4h7sgfrsh5k9ru3l6s%40group.calendar.google.com&amp;color=%23875509&amp;src=4jt76u55o616rirotsm78scunc%40group.calendar.google.com&amp;color=%236B3304&amp;src=ld4le2g1k6r196cq74h2ndjo2s%40group.calendar.google.com&amp;color=%2328754E&amp;src=sqnh5k2c9vpcu2gd9bb9gvs19s%40group.calendar.google.com&amp;color=%23B1365F&amp;ctz=America%2FLos_Angeles" style="border-width:0" width="100%" style="width:100%; height:80VH" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showPrint=0&amp;mode=AGENDA&amp;height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;src=e62itaanokp696fm8fo0h2topurrc6q6%40import.calendar.google.com&amp;color=%23AB8B00&amp;ctz=America%2FLos_Angeles" style="border:solid 1px #777" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+
+<!-- integrate this one sometime
+	https://codepen.io/lonekorean/pen/doXjJG?depth=everything&order=popularity&page=3&q=Calendar+&show_forks=false
+-->
 <hr/>
 <h2>General Schedule</h2>
 

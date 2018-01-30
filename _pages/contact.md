@@ -6,5 +6,24 @@ permalink: /contact/
 
 ---
 
-For general inquiries just email Lauren at communications@palekai.org or hit us up on Facebook.
+<div class="row">
+	<div class="12u 12u$(medium)">
+		<h2>General Inquiries</h2>
+		<p>For general inquires about joining Pale Kai Outrigger or visiting paddlers, contact Julie, our Membership Director</p>
+		<p><strong>Email:</strong> membership@palekai.org</p>
+	</div>
+</div>
+<div class="row">
+	<div class="6u 12u$(medium)">
+		<h3>PKO President</h3>
+		<p>For club wide related requests contact CeCe, our PKO President</p>
+		<p><strong>Email:</strong> president@palekai.org</p>
+	</div>
+
+	<div class="6u$ 12u$(medium)">
+		<h3>Press</h3>
+		<p>For all media inquiries and general communication, contact Lauren, our Communications Director</p>
+		<p><strong>Email:</strong> communications@palekai.org</p>
+	</div>
+</div>
 
