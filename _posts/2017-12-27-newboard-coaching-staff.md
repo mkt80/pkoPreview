@@ -3,7 +3,7 @@ layout: post
 title: 2018 PKO Board and Coaching Staff
 description: 
 ---
-Here are is the full Pale Kai Outrigger Board and Coach Staff for the 2018 season. We're looking forward to another great year and can't wait to see you on the water. 
+Here is the full Pale Kai Outrigger Board and Coach Staff for the 2018 season. We're looking forward to another great year and can't wait to see you on the water. 
 
 ## 2018 PKO Board
 

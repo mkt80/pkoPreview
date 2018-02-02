@@ -5,7 +5,10 @@
 ///
 
 /* Menu */
-
+@media (max-width: 768px) { 
+	#menu-dropdown {
+		display: none!important;
+	}
 	#menu {
 		@include vendor('transition', (
 			'transform #{_duration(menu)} ease',
@@ -57,7 +60,7 @@
 		ul {
 			margin: 0 0 (_size(element-margin) * 0.5) 0;
 
-			&.links {
+			&.primary {
 				list-style: none;
 				padding: 0;
 
@@ -86,6 +89,25 @@
 							border-top: 0 !important;
 						}
 					}
+
+					ul {
+					  list-style: none;
+					  position: relative;
+					  text-align: center;
+					  margin:0;
+					  padding-left:0;
+					  padding-bottom:2em;
+					  li {
+					  	text-align: center;
+					  	 padding-left:0;
+					  	 a {
+					  	 	text-decoration: none;
+					  	 	border:none;
+					  	 }
+
+					  }
+					}
+
 				}
 			}
 		}
@@ -162,3 +184,119 @@
 			}
 		}
 	}
+}
+
+/* Different Menu on Desktop */
+@media (min-width: 769px) { 
+
+	#menu, #menu-toggle {
+		display:none!important;
+	}
+	// Dropdown list binds to JS toggle event
+	#menu-dropdown {
+		display:block;
+
+		
+		ul {
+		  list-style: none;
+		  position: relative;
+		  text-align: left;
+		}
+
+		li {
+		  float: left;
+		}
+
+		/* clear'n floats */
+		ul:after {
+		  clear: both;
+		}
+
+		ul:before,
+		ul:after {
+		    content: " ";
+		    display: table;
+		}
+
+		nav {
+		  position: relative;
+		  background: transparent;
+		 
+		  
+		}
+
+		/* prime */
+		ul.primary { 
+			> li {
+				position: relative;
+				a {
+					padding:0 20px;
+				}
+			}
+			li {
+				a {
+			  		display: block;
+			 		position: relative;
+			 		&:hover {
+				  		color:  _palette(bg-alt);
+					}
+			 	}
+			
+				&:last-child a {
+				  border-right: none;
+				}
+			}
+		}
+
+			
+
+		/* subs */
+		ul.sub {
+			position: absolute;
+			z-index: 200;
+			width: 200px;
+			display:none;
+			background:rgba(0,0,0,.6);
+			right:0;
+			text-align: right;
+			font-size:16px;
+			line-height: 20px;
+			padding:0;
+			li {
+			  	float: none;
+			  	margin: 0;
+				a {
+		  			color: #fff;
+		  			padding:10px;
+		  			&:hover {
+				  		background:_palette(bg)
+				  	}
+				}
+
+			}
+		}
+		
+
+		/* sub display*/
+		ul.primary li {
+			&:hover {
+				background:rgba(0,0,0,.4);
+				> a {
+					color: _palette(highlight);
+				}
+				ul {
+		  			display: block;
+
+					a {
+			  			text-shadow: none;
+					}
+					> a{
+			  	  		//color:  _palette(bg);
+
+					} 
+				}
+
+			}
+		}
+	}
+}

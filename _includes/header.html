@@ -3,20 +3,18 @@
 
 <!-- Header -->
 <header id="header"{% if page.layout == "landing" %} class="alt style2"{% endif %}{% if page.layout == "home" or  page.layout == "alt style2" %} class="alt"{% endif %}>
-	<a href="{{ "" | absolute_url }}" class="logo"><img src="/assets/images/logo-bw.png" alt="Pale Kai Outrigger Canoe Club"></a>
+	<a href="{{ "" | absolute_url }}" class="logo"><img src="/assets/images/logo.png" alt="Pale Kai Outrigger Canoe Club"></a>
 	
-	<nav>
+	<nav id="menu-toggle">
 		<a href="#menu">Menu</a>
+	</nav>
+
+	<nav id="menu-dropdown">
+		{% include navigation.html %}
 	</nav>
 </header>
 
 <nav id="menu">
-	<ul class="links">
-		<li><a href="/racingteams/">Racing Program</a></li>
-		<li><a href="/alumniprogram/">Alumni Program</a></li>
-        <li><a href="/calendar/">Calendar</a></li>
-		<li><a href="/blog/">News</a></li>
-		<li><a href="/contact/">Contact</a></li>
-		<li><a href="/joinus/" class="button special fit">Join Us</a></li>
-	</ul>
+	{% include navigation.html %}
 </nav>
+
