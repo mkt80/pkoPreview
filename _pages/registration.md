@@ -6,19 +6,8 @@ permalink: /members/registration/
 
 ---
 <div class="box">
-	<a href="https://go.teamsnap.com/forms/103258" target="_blank" class="button special disabled" style="opacity:.2">Register Online</a>
-	<h2>Instructions</h2>
-	<small>
-	<p>To register with Pale Kai Outrigger for 2018, click the button above.</p>
-	<ol>	
-		<li>If you have used TeamSnap before, click on "Import Participant". If your new to TeamSnap, click "Add Participant".</li>
-		<li>You'll be given the option to "Import" or "Add" another participant at the end of the registration form if you wish to register MORE THAN one person.</li>
-		<li>You will sign the PKO Code of Conduct, Saftey Policy, and download the 2018 SCORA Waiver.</li>
-		<li>You will pay your dues online OR opt to pay our treasure offline.</li>
-		<li>We will send you a confirmation of your registration within 7 days.</li>
-		<li>On March 1st, everyone who has registered will be added to our Pale Kai Outrigger Team.</li>
-	</ol>
-	</small>
+	<a href="https://go.teamsnap.com/forms/103258" target="_blank" class="button special" style="opacity:.2">Register Online</a>
+	<p><small><i>If you have used TeamSnap before, click on "Import Participant". If your new to TeamSnap, click "Add Participant".</i></small></p>
 </div>
 <div class="row">
 	<div class="4u 12u$(medium)">
