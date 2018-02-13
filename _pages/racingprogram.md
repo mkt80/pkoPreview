@@ -39,40 +39,41 @@ permalink: /programs/open/
 			<tr>
 				<td>Women</td>
 				<td>OC 6 Practice<br/>
-					5:00pm to 8pm
+					5pm to 8pm
 				</td>
 				<td>OC 6 Practice<br/>
-					5:00pm to 8pm
+					5pm to 8pm
 				</td>
 				<td>OC 1 Practice<sup>*</sup><br/>
-					5:00pm to 8pm
+					5pm to 8pm
 				</td>
 				<td>OC 6 Practice<br/>
-					8:00am to 11pm
+					8am to 11pm
 				</td>			
 			</tr>
 			<tr>
 				<td>Men</td>
 				<td>OC 6 Practice<br/>
-					5:00pm to 8pm
+					5pm to 8pm
 				</td>
 				<td>OC 1 Practice<sup>*</sup><br/>
 					5:00pm to 8pm
 				</td>
 				<td>OC 6 Practice<br/>
-					5:00pm to 8pm
+					5pm to 8pm
 				</td>
 				<td>OC 6 Practice<br/>
-					8:00am to 11pm
+					8am to 11pm
 				</td>			
 			</tr>
 		</tbody>
 		<tfoot>
 			<tr>
-				<td colspan="4"></td>
-				<td><sup>*</sup> OC 1 practice for those wishing to race in top crews.</td>
-				<td><sup>**</sup> On the water at 5:30pm during weeknight practices. There will potentially be a late boat for those who can't make it.</td>
-				<td><sup>***</sup> Practice times subject to change.</td>
+				<td colspan="4">
+					<sup>*</sup> OC 1 practice for those wishing to race in top crews.<br/>
+					<sup>**</sup> On the water at 5:30pm during weeknight practices. There will potentially be a late boat for those who can't make it.<br/>
+					<sup>***</sup> Practice times subject to change.
+				</td>
 			</tr>
 		</tfoot>
 	</table>
