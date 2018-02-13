@@ -48,7 +48,7 @@ permalink: /programs/open/
 					5pm to 8pm
 				</td>
 				<td>OC 6 Practice<br/>
-					8am to 11pm
+					8am to 11am
 				</td>			
 			</tr>
 			<tr>
@@ -63,13 +63,13 @@ permalink: /programs/open/
 					5pm to 8pm
 				</td>
 				<td>OC 6 Practice<br/>
-					8am to 11pm
+					8am to 11am
 				</td>			
 			</tr>
 		</tbody>
 		<tfoot>
 			<tr>
-				<td colspan="4">
+				<td colspan="5">
 					<p><sup>*</sup> OC 1 practice for those wishing to race in top crews.</p>
 					<p><small>On the water at 5:30pm during weeknight practices. There will potentially be a late boat for those who can't make it.</small></p>
 					<p><small>Practice times subject to change due to conditions. This is mother nature...she can be unforgiving.</small></p>
