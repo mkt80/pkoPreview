@@ -70,9 +70,9 @@ permalink: /programs/open/
 		<tfoot>
 			<tr>
 				<td colspan="4">
-					<sup>*</sup> OC 1 practice for those wishing to race in top crews.<br/>
-					<sup>**</sup> On the water at 5:30pm during weeknight practices. There will potentially be a late boat for those who can't make it.<br/>
-					<sup>***</sup> Practice times subject to change.
+					<p><sup>*</sup> OC 1 practice for those wishing to race in top crews.</p>
+					<p><small>On the water at 5:30pm during weeknight practices. There will potentially be a late boat for those who can't make it.</small></p>
+					<p><small>Practice times subject to change due to conditions. This is mother nature...she can be unforgiving.</small></p>
 				</td>
 			</tr>
 		</tfoot>
