@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Racing Teams
-description: Yearly dues, waivers, and literature.
+title: Open Women and Men Teams
+description: About our womens and mens racing program
 image: assets/images/racingteams.png
 permalink: /programs/open/
 
@@ -18,9 +18,62 @@ permalink: /programs/open/
 	</div>
 	<div class="4u$ 12u$(medium)">
 		<h3>We Paddle</h3>
-		<p>Novice training starts in January. Team practice is 3x a week beginning in March.</p>
+		<p>Novice training starts in January. Team practice is 3x to 4x a week beginning March 17th, 2018.</p>
 	</div>
 </div>
 
-
-Practice times and scheudle TBD... Stay tuned
+<h2>2018 Practice Schedule</h2>
+<p>For this season, Pale Kai Outrigger womens and men teams will practice 3 days a week with a fourth day of practice for those who wish to race on top teams. Our first year paddlers will follow the same practice schedule. It's going to be great year with more blending amongst all our paddlers and lots more time on the water.</p>
+<div class="table-wrapper">
+	<table>
+		<thead>
+			<tr>
+				<th></th>
+				<th>Monday</th>
+				<th>Wednesday</th>
+				<th>Thursday</th>
+				<th>Saturday</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>Women</td>
+				<td>OC 6 Practice<br/>
+					5:00pm to 8pm
+				</td>
+				<td>OC 6 Practice<br/>
+					5:00pm to 8pm
+				</td>
+				<td>OC 1 Practice<sup>*</sup><br/>
+					5:00pm to 8pm
+				</td>
+				<td>OC 6 Practice<br/>
+					8:00am to 11pm
+				</td>			
+			</tr>
+			<tr>
+				<td>Men</td>
+				<td>OC 6 Practice<br/>
+					5:00pm to 8pm
+				</td>
+				<td>OC 1 Practice<sup>*</sup><br/>
+					5:00pm to 8pm
+				</td>
+				<td>OC 6 Practice<br/>
+					5:00pm to 8pm
+				</td>
+				<td>OC 6 Practice<br/>
+					8:00am to 11pm
+				</td>			
+			</tr>
+		</tbody>
+		<tfoot>
+			<tr>
+				<td colspan="4"></td>
+				<td><sup>*</sup> OC 1 practice for those wishing to race in top crews.</td>
+				<td><sup>**</sup> On the water at 5:30pm during weeknight practices. There will potentially be a late boat for those who can't make it.</td>
+				<td><sup>***</sup> Practice times subject to change.</td>
+			</tr>
+		</tfoot>
+	</table>
+</div>

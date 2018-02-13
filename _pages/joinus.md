@@ -9,7 +9,10 @@ permalink: /joinus/
 ---
 
 <h2>2018 Recruitment Program</h2>
+<p>Are you ready to give outrigger a shot? Or perhaps come back after a few years off? We welcome to you come out and practice with us in Avila beach starting March 17th, 2018. You'll need to complete your <a href="/members/registration/">2018 member registeration</a> first. Your first three practices are free and then your yearly dues of $350 are due.</p>
 
+
+<!--
 <p>Are you ready to give outrigger a shot? Or perhaps come back after a few years off? Then make sure to <strong><a href="https://www.facebook.com/events/380870532360036/">RSVP on our Facebook Event page</a></strong>. You'll meet weekly in Morro Bay to learn the basics of outrigger paddling, get on the water, and meet your future team mates. 
 </p>
 <p>The first three paddles are free. After that a $100 deposit towards your yearly dues is due.</p>
@@ -38,7 +41,7 @@ permalink: /joinus/
 				</tbody>
 			</table>
 		</div>
-
+-->
 <hr class="major" />
 
 
@@ -55,7 +58,7 @@ permalink: /joinus/
 <p>
 After several months of training, the first official races begin in May.  Pale Kai is a member of the Southern California Outrigger Racing Association (SCORA).  We compete with other member clubs in SCORA, and our official events take place between San Diego and Santa Barbara. The first five races take place from early May through the end of June.  In the novice division, races are approximately 4 to 5 miles and occur in more protected waters than the veteran divisions.   Iron races consist of 6 person crews over a set distance, and novice teams may race under men’s, women’s, or co-ed divisions.
 </p>
-<a href="/calendar/" class="button">View SCORA Race Schedule</a>
+<a href="http://www.scora.org/race-schedule/" target="_blank" class="button">View SCORA Race Schedule</a>
 <p>The Iron Season concludes with the championships in San Diego. This highly attended event attracts entrants from all over the state and is a fitting tribute to the outrigger culture. For added fun, novice teams are encouraged to enter the Novice Dance Competition to display their grace and creativity, or just poke fun at themselves in a family friendly environment.
 </p>
 <h4>August-September: 9-Man Season</h4>
