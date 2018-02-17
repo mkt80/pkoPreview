@@ -9,7 +9,7 @@ permalink: /members/waivers-policies/
 <p>Here's an assortment of literature that all members should review. So grab a cup of coffee, snuggle up on a couch, and read through our PKO ByLaws, policies, manuals, and waivers.</p>
 <ul class="actions">
 <li>
-<a href="/assets/docs/2017-SCORA-Waiver.pdf" class="button small">SCORA 2017 Liability Waiver</a>
+<a href="/assets/docs/2018-SCORA-Waiver.pdf" class="button small">SCORA 2018 Liability Waiver</a>
 </li>
 <li>
 <a href="/assets/docs/PKO-Safety-Policy.pdf" class="button small">PKO Safety Policy</a>

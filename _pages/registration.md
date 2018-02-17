@@ -11,10 +11,12 @@ This year, we’ve enlisted the help of TeamSnap again to streamline our member 
 3. Sign the PKO Code of Conduct Policy
 4. Sign the PKO Saftey Policy
 5. Download your 2018 SCORA waiver and get information about the new smart waivers
-6. Pay your dues online or opt to pay our treasurer directly 
+6. Select your payment method for dues - online or offline.
 7. And relax... because you just signed up for another year paddling!
 
 Ready to complete your Pale Kai Outrigger registration for 2018? Click the button below!
+
+<em>If you're not ready to pay dues, select the "offline" payment method and pay later!</em>
 
 <div class="box">
 	<a href="https://go.teamsnap.com/forms/103258" target="_blank" class="button special big">Register Online</a>
