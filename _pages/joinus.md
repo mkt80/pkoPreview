@@ -63,7 +63,9 @@ permalink: /joinus/
 
 <h4>April: Race Traning 3x a week</h4>
 <p>Race training begins on April 7th, 2018.</p>
+
 <img src="/assets/images/outrigger-race-1.jpg" class="image right">
+
 <h4>May-June: Iron Race Season (6 person crews)</h4>
 <p>
 The first official races begin in May.  Pale Kai is a member of the Southern California Outrigger Racing Association (SCORA).  We compete with other member clubs in SCORA, and our official events take place between San Diego and Santa Barbara. The first five races take place from early May through the end of June.  In the novice division, races are approximately 4 to 5 miles and occur in more protected waters than the veteran divisions.   Iron races consist of 6 person crews over a set distance, and novice teams may race under men’s, women’s, or co-ed divisions.
