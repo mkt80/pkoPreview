@@ -6,7 +6,7 @@ permalink: /members/registration/
 
 ---
 This year, we’ve enlisted the help of TeamSnap again to streamline our member registration process. In one swoop, you’ll accomplish the following things:
-1. Sign up for a new TeamSnap account/player -- OR -- import an existing TeamSnap account/player
+1. Sign up for a new TeamSnap account -- OR -- import an existing TeamSnap account
 2. Complete your member profile including emergency contact info
 3. Sign the PKO Code of Conduct Policy
 4. Sign the PKO Saftey Policy
