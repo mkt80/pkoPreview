@@ -71,9 +71,9 @@ redirect_from:
 		<tfoot>
 			<tr>
 				<td colspan="5">
-					<p><sup>*</sup> OC 1 practice for those wishing to race in top crews.</p>
-					<p><small>On the water at 5:30pm during weeknight practices. There will potentially be a late boat for those who can't make it.</small></p>
-					<p><small>Practice times subject to change due to conditions. This is mother nature...she can be unforgiving.</small></p>
+					<p><small><sup>*</sup> OC 1 practice for those wishing to race in top crews.</small><br/>
+					<small><sup>**</sup>On the water at 5:30pm during weeknight practices. There will potentially be a late boat for those who can't make it.</small><br/>
+					<small><sup>***</sup>Practice times subject to change due to conditions. This is mother nature...she can be unforgiving.</small></p>
 				</td>
 			</tr>
 		</tfoot>
