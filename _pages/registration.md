@@ -18,7 +18,7 @@ Ready to complete your Pale Kai Outrigger registration for 2018? Click the butto
 
 <div class="box">
 	<a href="https://go.teamsnap.com/forms/103258" target="_blank" class="button special big">Register Online</a>
-	<p><br/><small><i>If you have used TeamSnap before, click on "Import Participant". If your new to TeamSnap, click "Add Participant".</i></small></p>
+	<p><br/><small><i>If you have used TeamSnap before, click on "Import Participant". If you're new to TeamSnap, click "Add Participant".</i></small></p>
 </div>
 
 ### Important Registration Dates

@@ -6,6 +6,11 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+## [1.1.0] - 2018-02-17
+### Added
+- Copy updates to Recruitment Program
+- Copy updates to Registration 
+
 ## [1.1.0] - 2018-01-30
 ### Added
 - Drop down menu.
