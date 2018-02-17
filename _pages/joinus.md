@@ -9,7 +9,7 @@ permalink: /joinus/
 ---
 
 <h2>2018 Recruitment Program</h2>
-<p>Are you ready to give outrigger a shot? We welcome to you come out and practice with us in Avila beach starting March 17th, 2018. You'll need to complete your <a href="/members/registration/">2018 member registration</a> first. Your first three practices are free and then your yearly dues of $365 are due.</p>
+<p>Are you ready to give outrigger a shot? We welcome you to come out and practice with us in Avila beach starting March 17th, 2018. You'll need to complete your <a href="/members/registration/">2018 member registration</a> first. Your first three practices are free and then your yearly dues of $365 are due.</p>
 
 <p>Contact our membership coordinator, <a href="mailto:membership@palekai.org">Julie</a>, for more information.
 
