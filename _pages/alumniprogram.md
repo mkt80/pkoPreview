@@ -2,7 +2,7 @@
 layout: post
 title: Alumni Paddling Program
 description: Yearly dues, waivers, and literature.
-image: assets/images/outriggers-onwater-mb.jpg
+image: assets/images/team-2.jpg
 permalink: /alumniprogram/
 
 ---
