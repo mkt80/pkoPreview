@@ -54,15 +54,17 @@ permalink: /joinus/
 
 
 
-<p>Pale Kai will continue recruitment and begin novice training (is that what they are doing?) in mid-March at the official club site in Avila Beach. Initially there will be one practice on the week-end until after the time changes to daylight savings. Then two additional practices are scheduled during the week at approximately 5:00 p.m.   Your novice coach will provide the skills training you will need for the upcoming race season.  It is important to practice with your team consistently to develop your technique and timing.  You will also form new friendships (for no additional fee!).</p>
-
-
-
-<p>All paddlers must be proficient swimmers. Before our competitive season begins, you must pass a water safety test that includes huli drills (recovering from an overturned canoe), treading water, as well as a swim test.</p>
+<p>Pale Kai will continue recruitment and begin novice training in mid-March at the official club site in Avila Beach. Initially there will be one practice on the week-end until after the time changes to daylight savings. Then two additional practices are scheduled during the week at approximately 5:00 p.m.</p>
 
 
 <h4>April: Race Traning 3x a week</h4>
 <p>Race training begins on April 7th, 2018.</p>
+<p>
+Your novice coach will provide the skills training you will need for the upcoming race season. It is important to practice with your team consistently to develop your technique and timing. You will also form new friendships (for no additional fee!).</p>
+
+
+
+<p>All paddlers must be proficient swimmers. Before our competitive season begins, you must pass a water safety test that includes huli drills (recovering from an overturned canoe), treading water, as well as a swim test.</p>
 
 <img src="/assets/images/outrigger-race-1.jpg" class="image right">
 
