@@ -10,7 +10,7 @@ permalink: /contact/
 	<div class="12u 12u$(medium)">
 		<h2>General Inquiries</h2>
 		<p>For general inquires about joining Pale Kai Outrigger or visiting paddlers, contact Julie, our Membership Director</p>
-		<p><strong>Email:</strong> membership@palekai.org</p>
+		<p><strong>Email:</strong> jkmohawk@gmail.com </p>
 	</div>
 </div>
 <div class="row">

@@ -9,9 +9,10 @@ permalink: /joinus/
 ---
 
 <h2>2018 Recruitment Program</h2>
-<p>Are you ready to give outrigger a shot? We welcome you to come out and practice with us in Avila beach starting March 17th, 2018. You'll need to complete your <a href="/members/registration/">2018 member registration</a> first. Your first three practices are free and then your yearly dues of $365 are due.</p>
+<p>Are you ready to give outrigger a shot? Than join our 2018 recruitment program. You'll meet weekly in Morro Bay to learn the basics of outrigger paddling, get on the water, and meet your future team mates. </p>
+<p>The first three paddles are free. After that a $100 deposit towards your yearly dues is due.</p><p>In April, you'll join our vets for race season training.</p>
 
-<p>Contact our membership coordinator, <a href="mailto:membership@palekai.org">Julie</a>, for more information.
+<p>Contact our membership coordinator, <a href="mailto:jkmohawk@gmail.com ">Julie</a>, for more information.
 
 
 <!--
@@ -50,7 +51,7 @@ permalink: /joinus/
 <h2>Novice Year Overview</h2>
 <h4>February:  Recruitment </h4>
 
-<p>Demo days are scheduled on Sundays in Morro Bay between 8:00 a.m.and 12:00 p.m. Pale Kai’s “Three for Free” policy allows newcomers to experience outrigger paddling in the relatively calm waters of Morro Bay, without paying a fee or membership dues. This is a time to become acquainted with the sport and culture of outrigger canoe racing, while you make new friends!</p>
+<p>The Recruitment Program are Sundays in Morro Bay between 8:00 a.m.and 12:00 p.m. Pale Kai’s “Three for Free” policy allows newcomers to experience outrigger paddling in the relatively calm waters of Morro Bay, without paying a fee or membership dues. This is a time to become acquainted with the sport and culture of outrigger canoe racing, while you make new friends!</p>
 
 
 
