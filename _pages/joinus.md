@@ -8,7 +8,7 @@ permalink: /recruitment-program/
 redirect_from:
   - /joinus/
 ---
-<p>Our recruitment program is designed those of you who want to give outrigger a shot. Practices are held 1 day a week in Morro Bay from the end of January thru March. You'll be given an introduction to the sport of outrigger, learn basic paddling techniques, and meet your potential novice teammates.</p>
+<p>Our recruitment program is designed those for you who want to give outrigger a shot. Practices are held 1 day a week in Morro Bay from the end of January thru March. You'll be given an introduction to the sport of outrigger, learn basic paddling techniques, and meet your potential novice teammates.</p>
 
 <h2>2018 Recruitment Program Practice Schedule</h2>
 
