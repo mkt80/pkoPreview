@@ -12,15 +12,14 @@ permalink: /alumniprogram/
 
 <p>Alumni yearly dues are $200 and cover all your paddles from March 1st, 2017 thru February 28th, 2018.</p>
 
-<p>For further questions about our Alumni Program, reach out to our membership director, Julie. TO sign up for the 2018 Alumni Program head on over to our <a href="http://www.palekai.org/members/registration/">2018 Member Registration</a>.</p>
+<p>For further questions about our Alumni Program, reach out to our membership director, Julie. To sign up for the 2018 Alumni Program head on over to our <a href="http://www.palekai.org/members/registration/">2018 Member Registration</a>.</p>
 
 <p>
-<strong>Membership Director</strong>: Julie</p>
-<p><strong>Email:</strong> jkmohawk@gmail.com </p>
+<strong>Membership Director</strong>: Julie<br/><strong>Email:</strong> jkmohawk@gmail.com </p>
 
 
 <h3>2018 Alumni Practice Schedule</h3>
-<p>The Alumni Program will practice 2 days a week with our racing team.</p>
+<p>The Alumni Program will practice 2 days a week with our Men and Women teams.</p>
 <div class="table-wrapper">
 	<table>
 		<thead>

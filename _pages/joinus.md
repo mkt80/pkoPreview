@@ -16,6 +16,10 @@ redirect_from:
 
 <p>Please let our membership director, <a href="mailto:membership@palekai.org">Julie</a>, know if you will be joining us for another paddle day in March so we can make sure we have enough room in the boats!</p>
 
+<p>
+<strong>Membership Director</strong>: Julie</p>
+<p><strong>Email:</strong> jkmohawk@gmail.com </p>
+
 <h3>Session 1</h3>
 <p>These dates are inteded for those who are interested in joining PKO for 2018.</p>
 <div class="table-wrapper">
