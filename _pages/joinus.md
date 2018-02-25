@@ -8,14 +8,13 @@ permalink: /recruitment-program/
 redirect_from:
   - /joinus/
 ---
-<p>Our recruitment program is designed those of you who want to give outrigger a shot. Practices are held 1 day a week in Morro Bay from the end of January thru March. You'll be given an introduction to the sport of outrigger, basic techniques to paddling, and meet your potential novice team mates.</p>
+<p>Our recruitment program is designed those of you who want to give outrigger a shot. Practices are held 1 day a week in Morro Bay from the end of January thru March. You'll be given an introduction to the sport of outrigger, learn basic paddling techniques, and meet your potential novice teammates.</p>
 
 <h2>2018 Recruitment Program Practice Schedule</h2>
 
-<p>Practices are Sunday in Morro Bay at Coleman Beach. You'll need to complete your <a href="/members/registration/">2018 member registration</a> to participate. Your first three practices are free and then your yearly dues of $365 are due.</p>
+<p>Practices are Sundays in Morro Bay at Coleman Beach. You'll need to complete your <a href="/members/registration/">2018 member registration</a> to participate. Your first three practices are free and then your annual dues of $365 are due.</p>
 
-<p>Please let our membership director, <a href="mailto:membership@palekai.org">Julie</a>, know if you will be joining us for other paddle day in March so we can make sure to have enough room in boats!</p>
-
+<p>Please let our membership director, <a href="mailto:membership@palekai.org">Julie</a>, know if you will be joining us for another paddle day in March so we can make sure we have enough room in the boats!</p>
 
 <h3>Session 1</h3>
 <p>These dates are inteded for those who are interested in joining PKO for 2018.</p>
