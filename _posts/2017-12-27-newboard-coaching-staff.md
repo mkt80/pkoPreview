@@ -17,7 +17,7 @@ Here is the full Pale Kai Outrigger Board and Coach Staff for the 2018 season. W
 * Denise Morales (SCORA representative)
 * Lauren Barker (Communications)
 * Julie Hawkins (Membership)
-* Darcee Guttilla (Events).
+* Kim Lillywhite (Events)
 * Scott Bixler (Transportation)
 
 ## 2018 Coaching Staff
@@ -25,5 +25,4 @@ Here is the full Pale Kai Outrigger Board and Coach Staff for the 2018 season. W
 * Jean Spear (Head Coach)
 * Bonnie Lyons (Womens Coach)
 * Jon Hergert (Mens Coach)
-* Novice Coach (Tom Needham)
 		

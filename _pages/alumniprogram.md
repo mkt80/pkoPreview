@@ -8,15 +8,11 @@ permalink: /alumniprogram/
 ---
 
 
-<p>Pale Kai is happy to launch our 2018 Alumni Paddle Program! Even if your racing days are over, we would like to encourage our long lost ohana to return to the ocean sport they love.</p>
+<p>Pale Kai is happy to launch our 2018 Alumni Paddle Program! Even if your racing days are over, we would like to encourage our long lost ohana to return to the ocean sport they love. Alumni are invited to participate in regular Monday and Saturday practices throughout the season, and in offseason paddling. </p>
 
-<p>This year, alumni paddlers will be integrated into our team practices on Monday's and Saturdays. You'll practice with our racing teams, take part in PKO events on and off the water, and get to enjoy all that PKO has to offer.</p>
+<p>Alumni yearly dues are $200 and cover all your paddles from March 1st, 2017 thru February 28th, 2018.</p>
 
-<p>Because you won't be racing with PKO, your yearly dues are just $200 and cover all your paddles from March 1st, 2017 thru February 28th, 2018. That's a screaming deal and way cheaper than a gym membership.</p>
-
-<p>So head on over to our <a href="http://www.palekai.org/members/registration/">2018 Member Registration</a> and sign up for our Alumni Program. It's going to be a great year for PKO and we're looking forward to seeing you on the water.<p> 
-
-<p>For further questions about our Alumni Program, reach out to our membership director, Julie.</p>
+<p>For further questions about our Alumni Program, reach out to our membership director, Julie. TO sign up for the 2018 Alumni Program head on over to our <a href="http://www.palekai.org/members/registration/">2018 Member Registration</a>.</p>
 
 <p>
 <strong>Membership Director</strong>: Julie</p>

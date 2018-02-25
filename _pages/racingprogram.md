@@ -19,7 +19,7 @@ redirect_from:
 	</div>
 	<div class="4u$ 12u$(medium)">
 		<h3>We Paddle</h3>
-		<p>Novice training starts in January. Team practice is 3x to 4x a week beginning March 17th, 2018.</p>
+		<p>Novice training starts in February. Vet practice starts March 19 in Avila. All member team practice starts April 7, 2018.</p>
 	</div>
 </div>
 
