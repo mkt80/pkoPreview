@@ -6,27 +6,25 @@ image: assets/images/team-2.jpg
 permalink: /alumniprogram/
 
 ---
-<h2>About the Alumni Program</h2>
 
 
 <p>Pale Kai is happy to launch our 2018 Alumni Paddle Program! Even if your racing days are over, we would like to encourage our long lost ohana to return to the ocean sport they love.</p>
 
-<p>This year, alumni paddlers will be integrated into our team practices Monday's and Saturdays. You'll practice with our racing teams, take part in PKO events on and off the water, and get to enjoy all that PKO has to offer.</p>
+<p>This year, alumni paddlers will be integrated into our team practices on Monday's and Saturdays. You'll practice with our racing teams, take part in PKO events on and off the water, and get to enjoy all that PKO has to offer.</p>
 
 <p>Because you won't be racing with PKO, your yearly dues are just $200 and cover all your paddles from March 1st, 2017 thru February 28th, 2018. That's a screaming deal and way cheaper than a gym membership.</p>
 
-<p>So head on over to our 2018 Member Registration and sign up for our Alumni Program. It's going to be a great year for PKO and we're looking forward to seeing you on the water.<p> 
+<p>So head on over to our <a href="http://www.palekai.org/members/registration/">2018 Member Registration</a> and sign up for our Alumni Program. It's going to be a great year for PKO and we're looking forward to seeing you on the water.<p> 
 
-<p>For further questions about our Alumni Program, reach out to our membership director.</p>
+<p>For further questions about our Alumni Program, reach out to our membership director, Julie.</p>
 
 <p>
-Julie<br/>
-Membership Director</p>
+<strong>Membership Director</strong>: Julie</p>
 <p><strong>Email:</strong> jkmohawk@gmail.com </p>
 
 
-<h2>2018 Alumni Practice Schedule</h2>
-<p>For this season, Pale Kai Outrigger Alumni Program will practice 2 days a week with our racing team. It's going to be great year with more blending amongst all our paddlers and lots more time on the water.</p>
+<h3>2018 Alumni Practice Schedule</h3>
+<p>The Alumni Program will practice 2 days a week with our racing team.</p>
 <div class="table-wrapper">
 	<table>
 		<thead>
