@@ -1,27 +1,26 @@
 ---
 layout: post
 title: Join Us
-description: Information about our 2018 recruitment program and joining Pale Kai Outrigger
+description: Information about our recruitment program and joining Pale Kai Outrigger
 image: assets/images/outriggers-onwater-1.jpg
 feature: true
-permalink: /joinus/
-
+permalink: /recruitment-program/
+redirect_from:
+  - /joinus/
 ---
 
-<h2>2018 Recruitment Program</h2>
-<p>Are you ready to give outrigger a shot? Than join our 2018 recruitment program. You'll meet weekly in Morro Bay to learn the basics of outrigger paddling, get on the water, and meet your future team mates. </p>
-<p>The first three paddles are free. After that a $100 deposit towards your yearly dues is due.</p><p>In April, you'll join our vets for race season training.</p>
+<h2>Recruitment Program</h2>
+<p>Our recruitment program is designed those of you who want to give outrigger a shot. Practices are held on 1 day a week in Morro Bay from the end of January thru March. You'll be given an introduction to the sport of outrigger, basic techniques to paddling, and meet your potential novice team mates.</p>
 
-<p>Contact our membership coordinator, <a href="mailto:jkmohawk@gmail.com ">Julie</a>, for more information.
+<h2>2018 Recruitment Program Practice Schedule</h2>
+
+<p>Practices are Sunday in Morro Bay at Coleman Beach. You'll need to complete your <a href="/members/registration/">2018 member registration</a> to participate. Your first three practices are free and then your yearly dues of $365 are due.</p>
+
+<p>Please let our membership director, <a href="mailto:membership@palekai.org">Julie</a>, know if you will be joining us for other paddle day in March so we can make sure we have enough room in boats!</p>
 
 
-<!--
-<p>Are you ready to give outrigger a shot? Or perhaps come back after a few years off? Then make sure to <strong><a href="https://www.facebook.com/events/380870532360036/">RSVP on our Facebook Event page</a></strong>. You'll meet weekly in Morro Bay to learn the basics of outrigger paddling, get on the water, and meet your future team mates. 
-</p>
-<p>The first three paddles are free. After that a $100 deposit towards your yearly dues is due.</p>
-<p>To sign up for our 2018 Recruitment Program, head over to our facebook event page. </p>
-<a href="https://www.facebook.com/events/380870532360036/" class="button">Sign Up</a>
-
+<h3>Session 1</h3>
+<p>These dates are inteded for those who are interested in joining PKO for 2018.</p>
 <div class="table-wrapper">
 			<table class="alt">
 				<tbody>
@@ -41,13 +40,66 @@ permalink: /joinus/
 						<td>February 11, 2018</td>
 						<td>Coleman Beach, Morro Bay</td>
 					</tr>
+
+					<tr>
+						<td>Sunday March 4, 8am</td>
+						<td>Coleman Beach, Morro Bay</td>
+					</tr>
+					<tr>
+						<td>Sunday March 11, 8am</td>
+						<td>Coleman Beach, Morro Bay</td>
+					</tr>
+					<tr>
+						<td>Sunday March 18, 8am</td>
+						<td>Coleman Beach, Morro Bay</td>
+					</tr>
+					<tr>
+						<td>Sunday March 25, 8am</td>
+						<td>Coleman Beach, Morro Bay</td>
+					</tr>
 				</tbody>
 			</table>
-		</div>
--->
+</div>
+
+<h3>Session 2</h3>
+<p>We want to start the novice season off right and get you going as a team in Morro Bay, before transitioning to Avila Beach in April. These dates are <b>intended for those of you who will be joining our Novice Team</b>, or for first timers who didn't quite manage to make it out yet.</p>
+<div class="table-wrapper">
+	<table class="alt">
+		<tbody>
+			<tr>
+				<td>Sunday March 4, 8am</td>
+				<td>Coleman Beach, Morro Bay</td>
+			</tr>
+			<tr>
+				<td>Sunday March 11, 8am</td>
+				<td>Coleman Beach, Morro Bay</td>
+			</tr>
+			<tr>
+				<td>Sunday March 18, 8am</td>
+				<td>Coleman Beach, Morro Bay</td>
+			</tr>
+			<tr>
+				<td>Sunday March 25, 8am</td>
+				<td>Coleman Beach, Morro Bay</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<h2>Novice Year Participation</h2>
+<p>
+As a novice member, we want to get you participating in our other activities too! Please start thinking about how you can contribute by being a part of a subcommittee in one of the following areas:</p>
+<ul>
+<li>Trash clean-up/Beach beautification</li>
+<li>Event planning/coordination</li>
+<li>Equipment Maintenance</li>
+<li>Safety and Risk Management</li>
+<li>Community outreach/relations/marketing</li>
+<li>Fundraising/Sponsorship</li>
+<li>Others as interest and need arrises</li>
+<ul>
+
+
 <hr class="major" />
-
-
 <h2>Novice Year Overview</h2>
 <h4>February:  Recruitment </h4>
 

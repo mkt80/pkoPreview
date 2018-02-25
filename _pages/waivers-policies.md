@@ -12,7 +12,7 @@ permalink: /members/waivers-policies/
 <a href="/assets/docs/2018-SCORA-Waiver.pdf" class="button small">SCORA 2018 Liability Waiver</a>
 </li>
 <li>
-<a href="/assets/docs/PKO-Safety-Policy.pdf" class="button small">PKO Safety Policy</a>
+<a href="/assets/docs/PKO-Safety-Policy.pdf" class="button small">PKO Safety Policy</a> <small>Currently being updated</small>
 </li>
 
 <li>
@@ -25,7 +25,7 @@ permalink: /members/waivers-policies/
 <a href="/assets/docs/PKO-By-Laws.doc" class="button small">PKO ByLaws</a>
 </li>
 <li>
-<a href="/assets/docs/PKO-Alumni-Paddling-Program-Policy.pdf" class="button small">PKO Alumni Program Policy</a>
+<a href="/assets/docs/PKO-Alumni-Paddling-Program-Policy.pdf" disabled class="button small">PKO Alumni Program Policy</a> <small>Currently being updated</small>
 </li>
 <li>
 <a href="/assets/docs/PKO-Alumni-Prog-FAQ.pdf" class="button small">PKO Alumni Program FAQs</a>

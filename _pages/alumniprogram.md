@@ -1,22 +1,69 @@
 ---
 layout: post
 title: Alumni Paddling Program
-description: Yearly dues, waivers, and literature.
+description: Have you paddled before? Want to join but not race? The Alumni Program is for you!
 image: assets/images/team-2.jpg
 permalink: /alumniprogram/
 
 ---
-<h2>Alumni Paddling Program</h2>
+<h2>About the Alumni Program</h2>
 
 
-<p> Pale Kai is happy to announce our new Alumni Paddle Program! Even if your racing days are over, we would like to encourage our long lost ohana to return to the ocean sport they love...no pressure! We are now offering go-outs on Saturday mornings at 9am, led by Gary Prober. </p>	
+<p>Pale Kai is happy to launch our 2018 Alumni Paddle Program! Even if your racing days are over, we would like to encourage our long lost ohana to return to the ocean sport they love.</p>
+
+<p>This year, alumni paddlers will be integrated into our team practices Monday's and Saturdays. You'll practice with our racing teams, take part in PKO events on and off the water, and get to enjoy all that PKO has to offer.</p>
+
+<p>Because you won't be racing with PKO, your yearly dues are just $200 and cover all your paddles from March 1st, 2017 thru February 28th, 2018. That's a screaming deal and way cheaper than a gym membership.</p>
+
+<p>So head on over to our 2018 Member Registration and sign up for our Alumni Program. It's going to be a great year for PKO and we're looking forward to seeing you on the water.<p> 
+
+<p>For further questions about our Alumni Program, reach out to our membership director.</p>
+
 <p>
-If you'd like to join the Alumni Program, please contact Gary.
-
-A hui hou!
-</p>
-<p>
-<strong>Gary Prober</strong><br/>
-gprober@yahoo.com</p>
+Julie<br/>
+Membership Director</p>
+<p><strong>Email:</strong> jkmohawk@gmail.com </p>
 
 
+<h2>2018 Alumni Practice Schedule</h2>
+<p>For this season, Pale Kai Outrigger Alumni Program will practice 2 days a week with our racing team. It's going to be great year with more blending amongst all our paddlers and lots more time on the water.</p>
+<div class="table-wrapper">
+	<table>
+		<thead>
+			<tr>
+				<th></th>
+				<th>Monday</th>
+				<th>Saturday</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>Alumni Women</td>
+				<td>OC 6 Practice<br/>
+					5pm to 8pm
+				</td>
+			
+				<td>OC 6 Practice<br/>
+					8am to 11am
+				</td>			
+			</tr>
+			<tr>
+				<td>Alumni Men</td>
+				<td>OC 6 Practice<br/>
+					5pm to 8pm
+				</td>
+				<td>OC 6 Practice<br/>
+					8am to 11am
+				</td>			
+			</tr>
+		</tbody>
+		<tfoot>
+			<tr>
+				<td colspan="5">
+					<p><small><sup>**</sup>On the water at 5:30pm during weeknight practices. There will potentially be a late boat for those who can't make it.</small><br/>
+					<small><sup>***</sup>Practice times subject to change due to conditions. This is mother nature...she can be unforgiving.</small></p>
+				</td>
+			</tr>
+		</tfoot>
+	</table>
+</div>
