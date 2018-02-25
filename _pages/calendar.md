@@ -8,7 +8,7 @@ permalink: /calendar/
 <h2>PKO Calendar</h2>
 <p>The calendar below lists known practice times, races, and PKO events. Check often as it's updated constently. Contact communications@palekai.org to submit an event.</p>
 
-<iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showPrint=0&amp;mode=AGENDA&amp;height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;src=e62itaanokp696fm8fo0h2topurrc6q6%40import.calendar.google.com&amp;color=%23AB8B00&amp;ctz=America%2FLos_Angeles" style="border:solid 1px #777" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showPrint=0&amp;mode=AGENDA&amp;height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;src=1kv8n0lp783chjs5n1cppa5tbjer8j9j%40import.calendar.google.com&amp;color=%23AB8B00&amp;ctz=America%2FLos_Angeles" style="border:solid 1px #777" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
 
 <!-- integrate this one sometime
 	https://codepen.io/lonekorean/pen/doXjJG?depth=everything&order=popularity&page=3&q=Calendar+&show_forks=false
