@@ -8,7 +8,7 @@ permalink: /recruitment-program/
 redirect_from:
   - /joinus/
 ---
-<p>Our recruitment program is designed those for those of you who want to give outrigger a shot. Practices are held 1 day a week in Morro Bay from the end of January thru March. You'll be given an introduction to the sport of outrigger, learn basic paddling techniques, and meet your potential novice teammates.</p>
+<p>Our recruitment program is designed for those of you who want to give outrigger a shot. Practices are held 1 day a week in Morro Bay from the end of January thru March. You'll be given an introduction to the sport of outrigger, learn basic paddling techniques, and meet your potential novice teammates.</p>
 
 <h2>2018 Recruitment Program Practice Schedule</h2>
 
@@ -87,20 +87,14 @@ As a novice member, we want to get you participating in our other activities too
 
 <hr class="major" />
 <h2>Novice Year Overview</h2>
-<h4>February:  Recruitment </h4>
+<h4>February - March:  Recruitment </h4>
 
 <p>The Recruitment Program are Sundays in Morro Bay between 8:00 a.m.and 12:00 p.m. Pale Kai’s “Three for Free” policy allows newcomers to experience outrigger paddling in the relatively calm waters of Morro Bay, without paying a fee or membership dues. This is a time to become acquainted with the sport and culture of outrigger canoe racing, while you make new friends!</p>
-
-
-
-<p>Pale Kai will continue recruitment and begin novice training in mid-March at the official club site in Avila Beach. Initially there will be one practice on the week-end until after the time changes to daylight savings. Then two additional practices are scheduled during the week at approximately 5:00 p.m.</p>
-
 
 <h4>April: Race Traning 3x a week</h4>
 <p>Race training begins on April 7th, 2018.</p>
 <p>
 Your novice coach will provide the skills training you will need for the upcoming race season. It is important to practice with your team consistently to develop your technique and timing. You will also form new friendships (for no additional fee!).</p>
-
 
 
 <p>All paddlers must be proficient swimmers. Before our competitive season begins, you must pass a water safety test that includes huli drills (recovering from an overturned canoe), treading water, as well as a swim test.</p>
