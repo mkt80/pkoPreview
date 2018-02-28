@@ -3,9 +3,10 @@ layout: post
 title: Open Women and Men Teams
 description: About our womens and mens racing program
 image: assets/images/mens-team-unlimited.png
-permalink: /programs/open/
+permalink: /open-program/
 redirect_from:
   - /racingteams/
+  - /programs/open/
 ---
 
 <div class="row">
