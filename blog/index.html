@@ -11,8 +11,6 @@ author: null
 </div>
 <hr />
 <!-- End intro -->
-
-
     {% for post in paginator.posts %}
         <div class="blog-article-container">
           {% if post.image %}<span class="image blog"><img src="{{ site.baseurl }}/{{ post.image }}" alt="" /></span>{% endif %}
@@ -23,7 +21,7 @@ author: null
             <a href="{{ post.url | prepend: site.baseurl }}">
               <h2>{{ post.title }}</h2>
                <p>
-            {{ post.content | truncatewords: 30 }}
+            {{ post.description }}
             </p>
 
             </a>

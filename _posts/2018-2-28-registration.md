@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Coast Access Survey
-description: Help Southern Clubs Maintain Coastal Access
+description: If you have a moment, take the survey and help our outrigger community out. There's even a free gift! Download the flyer for more information and pass along to other ocean loving members of your community.
 categories: SCORA
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Team Building Challenge
-description: Pale Kai Outrigger Team Challenge
+description: Join Pale Kai Outrigger Canoe Team for an amazing and completely unique team building experience on our local Central Coast waters! 
 image: assets/images/mens-team-unlimited.png
 nav-menu: true
 permalink: /teambuilding-challenge/

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: We've got a program for every paddler
-description: Find out which one is for you
+description: Find out which one is for you - Recruitment, Open, and Alumni Programs
 categories: Recruitment
 image: assets/images/team-2.png
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fall 2016 Demo Days Are Here!
-description: 
+description:  We have entered into our recruitment season and are looking for adventurous, athletic, ocean-savvy new paddlers! Our coaches will teach you basic technique and water safety. You will enjoy time on the ocean encountering beautiful central coast marine life, while learning how to paddle a Hawaiian-style outrigger canoe with the guidance of our experienced paddlers.
 image: assets/images/outriggers-onwater-mb.jpg
 ---
 Aloha, potential PKO paddlers of 2017!!

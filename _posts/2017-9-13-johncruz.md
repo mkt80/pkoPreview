@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Still Frothy Fundraising Concert
-description: FEAT. JOHN CRUZ.
+description: Still Frothy & Diagnostic Imaging Group present Grammy Award Winning Hawaiian Legend John Cruz for what will be a magical evening filled with positive vibes and amazing music
 categories: Fundraising
 image: assets/images/johncruz.png
 ---
