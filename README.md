@@ -4,11 +4,9 @@ Built with [Jekyll](https://jekyllrb.com/) and hosted with [GitHub](https://page
 
 # How to Use
 
-For those unfamiliar with how Jekyll works, check out [jekyllrb.com](https://jekyllrb.com/) for all the details, or read up on just the basics of [front matter](https://jekyllrb.com/docs/frontmatter/), [writing posts](https://jekyllrb.com/docs/posts/), and [creating pages](https://jekyllrb.com/docs/pages/).
+Pale Kai Outrigger's website is built with GitHub Pages. See this [marvelous guide by Jonathan McGlone](http://jmcglone.com/guides/github-pages/) to get you up and running. It will teach you what you need to know about Git, GitHub, and Jekyll to maintain and extend the Pale Kai Outrigger website.
 
-# Added Features
-
-* **[Snip Cart](https://snipcart.com/) ** - a headless shopping card for static websites.
+Check out all the details about [Jekyll](https://jekyllrb.com/), or read up on just the basics of [front matter](https://jekyllrb.com/docs/frontmatter/), [writing posts](https://jekyllrb.com/docs/posts/), and [creating pages](https://jekyllrb.com/docs/pages/).
 
 # Credits
 Theme based off [Andrew Banchich's Forty-Jekyll-Theme](https://github.com/andrewbanchich/forty-jekyll-theme).
