@@ -3,6 +3,7 @@ layout: post
 title: Calendar
 description: 
 permalink: /calendar/
+feature: true
 ---
 
 <h2>PKO Calendar</h2>

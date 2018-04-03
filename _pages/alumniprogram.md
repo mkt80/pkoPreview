@@ -4,7 +4,6 @@ title: Alumni Paddling Program
 description: Have you paddled before? Want to join but not race? The Alumni Program is for you!
 image: assets/images/team-2.jpg
 permalink: /alumniprogram/
-
 ---
 
 
