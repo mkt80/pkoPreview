@@ -11,10 +11,10 @@ permalink: /alumniprogram/
 
 <p>Alumni yearly dues are $200 and cover all your paddles from March 1st, 2018 thru February 28th, 2019.</p>
 
-<p>For further questions about our Alumni Program, reach out to our membership director, Julie. To sign up for the 2018 Alumni Program head on over to our <a href="http://www.palekai.org/members/registration/">2018 Member Registration</a>.</p>
+<p>For further questions about our Alumni Program, reach out to our membership director, Tom. To sign up for the 2018 Alumni Program head on over to our <a href="http://www.palekai.org/members/registration/">2018 Member Registration</a>.</p>
 
 <p>
-<strong>Membership Director</strong>: Julie<br/><strong>Email:</strong> jkmohawk@gmail.com </p>
+<strong>Alumni Director</strong>: Tom<br/><strong>Email:</strong> tneedhamhome@gmail.com</p>
 
 
 <h3>2018 Alumni Practice Schedule</h3>

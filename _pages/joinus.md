@@ -13,11 +13,11 @@ redirect_from:
 
 <p>Practices are Sundays in Morro Bay at Coleman Beach. You'll need to complete your <a href="/members/registration/">2018 member registration</a> to participate. Your first three practices are free and then your annual dues of $365 are due.</p>
 
-<p>Please let our membership director, <a href="mailto:membership@palekai.org">Julie</a>, know if you will be joining us for another paddle day in March so we can make sure we have enough room in the boats!</p>
+<p>Please let our communications director, <a href="mailto:communications@palekai.org">Lauren</a>, know if you will be joining us for another paddle day in March so we can make sure we have enough room in the boats!</p>
 
 <p>
-<strong>Membership Director</strong>: Julie</p>
-<p><strong>Email:</strong> jkmohawk@gmail.com </p>
+<strong>Communications Director</strong>: Lauren</p>
+<p><strong>Email:</strong> communications@palekai.org</p>
 
 <h3>Session 1</h3>
 <p>These dates are inteded for those who are interested in joining PKO for 2018.</p>
