@@ -4,6 +4,8 @@ title: Foremost Restaurant Night
 description: Join us on April 26th for a night of dining
 categories: Fundraising
 image: assets/images/foremost.png
+redirect_from:
+  - /foremost/
 ---
 
 Join us for a special night of dining with the Foremost Wine Company to support the Pale Kai Outrigger club. 
