@@ -14,7 +14,6 @@ Pale Kai Outrigger made a strong showing at Rig Run 2018! 6 teams were put toget
 * Open Co-Ed - 2nd Place
 * Women Masters - 3rd Place
 
-
 ### Top 10 accross the line
 
 There's a friendly wager between the Open UL teams to be top 10 . . .  and this week the beers are on the mens team!
