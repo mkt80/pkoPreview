@@ -5,6 +5,7 @@ description: PKO puts 8 crews together!
 categories: Racing
 image: assets/images/ventura/party-like-a-captian.jpg
 ---
+
 We had a great turnout of PKO paddlers in Ventura: 2 crews in the short course, 3 crews in the women's long course, and 3 crews in the men's long course. Many thanks to the guest paddlers who helped fill some seats! Mahalo to all, for making the day so fun! Way to go, PKO!!
 
 Take a look at some of the photo's from Ventura Outrigger Challenge below. Photo credit @ Kristen Sanchez.
