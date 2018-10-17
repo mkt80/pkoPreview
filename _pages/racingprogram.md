@@ -20,7 +20,7 @@ redirect_from:
 	</div>
 	<div class="4u$ 12u$(medium)">
 		<h3>We Paddle</h3>
-		<p>Novice training starts in February. Vet practice starts March 19 in Avila. All member team practice starts April 7, 2018.</p>
+		<p>Novice training starts in February. Vet practice starts March 19 in Avila. All member team practice starts April 6, 2019.</p>
 	</div>
 </div>
 

@@ -9,8 +9,8 @@ permalink: /contact/
 <div class="row">
 	<div class="12u 12u$(medium)">
 		<h2>General Inquiries</h2>
-		<p>For general inquires about joining Pale Kai Outrigger or visiting paddlers, contact Julie, our Communications Director</p>
-		<p><strong>Email:</strong> communications@palekai.org </p>
+		<p>For general inquires about joining Pale Kai Outrigger or visiting paddlers, contact Kristen, our Membership Director</p>
+		<p><strong>Email:</strong> lovesealife@gmail.com </p>
 	</div>
 </div>
 <div class="row">
@@ -19,7 +19,6 @@ permalink: /contact/
 		<p>For club wide related requests contact Cece, our PKO President</p>
 		<p><strong>Email:</strong> president@palekai.org</p>
 	</div>
-
 	<div class="6u$ 12u$(medium)">
 		<h3>Press</h3>
 		<p>For all media inquiries and general communication, contact Lauren, our Communications Director</p>
