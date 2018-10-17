@@ -13,11 +13,11 @@ Many thanks to our coach and all of the dedicated paddlers who put in a ton of t
 
 <img src="/assets/images/catalina/2018-catalina-coach.jpg" width="100%"/>
 
-<img src="/assets/images/2018-catalina-open-ul-otw.jpg" width="100%"/>
+<img src="/assets/images/catalina/2018-catalina-open-ul-otw.jpg" width="100%"/>
 >
 
-<img src="/assets/images/2018-catalina-open-ul.jpg" width="100%"/>
+<img src="/assets/images/catalina/2018-catalina-open-ul.jpg" width="100%"/>
 >
 
-<img src="/assets/images/2018-catalina-open-spec.jpg" width="100%"/>
+<img src="/assets/images/catalina/2018-catalina-open-spec.jpg" width="100%"/>
 >
