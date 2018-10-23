@@ -16,7 +16,7 @@ redirect_from:
 -->
 <p>Practices are Sundays in Morro Bay at Coleman Beach. Your first three practices are free and then your annual dues of $365 are due.</p>
 
-<p>Please let our membership director, <a href="mailto:lovesealife@gmail.com">Kristen</a>, know if you will be joining us for another paddle day in March so we can make sure we have enough room in the boats!</p>
+<p> Make sure to sign up for our newsletter ( at the bottom of this page ) so your in the know! You can also reach out to our membership director, <a href="mailto:lovesealife@gmail.com">Kristen</a>, for more information.</p>
 
 <p>
 <strong>Membership Director</strong>: Kristen Sanchez</p>
@@ -28,23 +28,21 @@ redirect_from:
 			<table class="alt">
 				<tbody>
 					<tr>
-						<td>January TBD, 2019</td>
+						<td>January 20, 2019 -  8am</td>
 						<td>Coleman Beach, Morro Bay</td>
 					</tr>
 					<tr>
-						<td>January TBD, 2019</td>
+						<td>January 27, 2019 -  8am</td>
 						<td>Coleman Beach, Morro Bay</td>
 					</tr>
 					<tr>
-						<td>February TBD, 2019</td>
+						<td>February 3, 2019 -  8am</td>
 						<td>Coleman Beach, Morro Bay</td>
 					</tr>
 					<tr>
-						<td>February TBD, 2019</td>
+						<td>February 10, 2019 -  8am</td>
 						<td>Coleman Beach, Morro Bay</td>
 					</tr>
-
-				
 				</tbody>
 			</table>
 </div>
@@ -55,19 +53,19 @@ redirect_from:
 	<table class="alt">
 		<tbody>
 			<tr>
-				<td>Sunday March TBD, 8am</td>
+				<td>Sunday March 3, 2019 -  8am</td>
 				<td>Coleman Beach, Morro Bay</td>
 			</tr>
 			<tr>
-				<td>Sunday March TBD, 8am</td>
+				<td>Sunday March 10, 2019 -  8am</td>
 				<td>Coleman Beach, Morro Bay</td>
 			</tr>
 			<tr>
-				<td>Sunday March TBD, 8am</td>
+				<td>Sunday March 17, 2019 -  8am</td>
 				<td>Coleman Beach, Morro Bay</td>
 			</tr>
 			<tr>
-				<td>Sunday March TBD, 8am</td>
+				<td>Sunday March 24, 8am</td>
 				<td>Coleman Beach, Morro Bay</td>
 			</tr>
 		</tbody>
