@@ -14,13 +14,17 @@ redirect_from:
 <!--
 <p>Practices are Sundays in Morro Bay at Coleman Beach. You'll need to complete your <a href="/members/registration/">2019 member registration</a> to participate. Your first three practices are free and then your annual dues of $365 are due.</p>
 -->
-<p>Practices are Sundays in Morro Bay at Coleman Beach. Your first three practices are free and then your annual dues of $365 are due.</p>
+<p>Your first three practices are free and then your annual dues of $365 are due.</p>
 
-<p> Make sure to sign up for our newsletter ( at the bottom of this page ) so your in the know! You can also reach out to our membership director, <a href="mailto:lovesealife@gmail.com">Kristen</a>, for more information.</p>
+<p> Make sure to sign up for our newsletter ( at the bottom of this page ) so your in the know! You can also reach out to our membership directors, <a href="mailto:mariannezawadzki@gmail.com">Marianne</a> or <a href="mailto:melissa.latimer@gmail.com .com">Melissa</a>, for more information.</p>
 
 <p>
-<strong>Membership Director</strong>: Kristen Sanchez</p>
-<p><strong>Email:</strong> lovesealife@gmail.com</p>
+<strong>Membership Directors</strong>:
+Marianne Zawadzki</p>
+<p><strong>Email:</strong> mariannezawadzki@gmail.com</p>
+
+<p>Melissa Latimer</p>
+<p><strong>Email:</strong> melissa.latimer@gmail.com </p>
 
 <h3>Session 1</h3>
 <p>These dates are inteded for those who are interested in joining PKO for 2018.</p>
@@ -46,6 +50,7 @@ redirect_from:
 				</tbody>
 			</table>
 </div>
+<p><small><i>Dates are tenative</i></small></p>
 
 <h3>Session 2</h3>
 <p>We want to start the novice season off right and get you going as a team in Morro Bay, before transitioning to Avila Beach in April. These dates are <b>intended for those of you who will be joining our Novice Team</b>, or for first timers who didn't quite manage to make it out yet.</p>
@@ -71,6 +76,8 @@ redirect_from:
 		</tbody>
 	</table>
 </div>
+<p><small><i>Dates are tenative</i></small></p>
+
 <h2>Novice Year Participation</h2>
 <p>
 As a novice member, we want to get you participating in our other activities too! Please start thinking about how you can contribute by being a part of a subcommittee in one of the following areas:</p>
