@@ -11,9 +11,9 @@ permalink: /contact/
 		<h2>General Inquiries</h2>
 		<p>For general inquires about joining Pale Kai Outrigger or visiting paddlers, contact Marianne or Melissa, our Membership Directors</p>
 		<p>Marianne Zawadzki<br/>
-Email: mariannezawadzki@gmail.com</p>
+<p><strong>Email:</strong> mariannezawadzki@gmail.com</p>
 
-<p>Melissa Latimer<br/>Email: melissa.latimer@gmail.com </p>
+<p>Melissa Latimer<br/><p><strong>Email:</strong> melissa.latimer@gmail.com </p>
 	</div>
 </div>
 <div class="row">
