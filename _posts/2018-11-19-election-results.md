@@ -23,4 +23,5 @@ The following are the 2019 Board election results:
 - Communications Director: Lauren Barker
 - Transportation Director: Scott Bixler
 - Equipment Director: Mike Traynor
+- Treasurer: Nancy Needham
 
