@@ -9,8 +9,11 @@ permalink: /contact/
 <div class="row">
 	<div class="12u 12u$(medium)">
 		<h2>General Inquiries</h2>
-		<p>For general inquires about joining Pale Kai Outrigger or visiting paddlers, contact Kristen, our Membership Director</p>
-		<p><strong>Email:</strong> lovesealife@gmail.com </p>
+		<p>For general inquires about joining Pale Kai Outrigger or visiting paddlers, contact Marianne or Melissa, our Membership Directors</p>
+		<p>Marianne Zawadzki<br/>
+Email: mariannezawadzki@gmail.com</p>
+
+<p>Melissa Latimer<br/>Email: melissa.latimer@gmail.com </p>
 	</div>
 </div>
 <div class="row">

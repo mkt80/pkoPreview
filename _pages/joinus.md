@@ -19,12 +19,11 @@ redirect_from:
 <p> Make sure to sign up for our newsletter ( at the bottom of this page ) so your in the know! You can also reach out to our membership directors, <a href="mailto:mariannezawadzki@gmail.com">Marianne</a> or <a href="mailto:melissa.latimer@gmail.com .com">Melissa</a>, for more information.</p>
 
 <p>
-<strong>Membership Directors</strong>:
-Marianne Zawadzki</p>
-<p><strong>Email:</strong> mariannezawadzki@gmail.com</p>
+<strong>Membership Directors</strong>:<br/>
+Marianne Zawadzki<br/>
+Email: mariannezawadzki@gmail.com</p>
 
-<p>Melissa Latimer</p>
-<p><strong>Email:</strong> melissa.latimer@gmail.com </p>
+<p>Melissa Latimer<br/>Email: melissa.latimer@gmail.com </p>
 
 <h3>Session 1</h3>
 <p>These dates are inteded for those who are interested in joining PKO for 2018.</p>
