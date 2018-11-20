@@ -10,13 +10,17 @@ image: assets/images/board-meeting-1.jpg
 The following are the 2019 Board election results:
 -----------------------------
 - President:  Cece Reyes
+- Vice President: Stacey Ritter
 - Head Coach:  Jean Spear
 - Men's Coach:  Jon Hergert
 - Women's Coach:  Bonnie Lyons
 - Novice Coach: Don Tran
-- Events:  Kim Lillywhite
-- Membership:  Melissa Latimer/Marianne Zawadzki Team
-- Sponsorship/Fundraising: Kim Lillywhite
-- Communications: Lauren Barker
-- SCORA Rep: Denise Morales
+- Membership Directors:  Melissa Latimer/Marianne Zawadzki Team
+- SCORA Representative: Denise Morales
+- Secretary: Melissa Traynor
+- Events Director:  Kim Lillywhite
+- Sponsorship/Fundraising Director: Kim Lillywhite
+- Communications Director: Lauren Barker
+- Transportation Director: Scott Bixler
+- Equipment Director: Mike Traynor
 
