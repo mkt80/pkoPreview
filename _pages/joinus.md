@@ -25,6 +25,8 @@ Email: mariannezawadzki@gmail.com</p>
 
 <p>Melissa Latimer<br/>Email: melissa.latimer@gmail.com </p>
 
+<p>Dates of recruitment program TBD.</p>
+<!--
 <h3>Session 1</h3>
 <p>These dates are inteded for those who are interested in joining PKO for 2018.</p>
 <div class="table-wrapper">
@@ -90,7 +92,7 @@ As a novice member, we want to get you participating in our other activities too
 <li>Others as interest and need arrises</li>
 <ul>
 
-
+-->
 <hr class="major" />
 <h2>Novice Year Overview</h2>
 <h4>February - March:  Recruitment </h4>
