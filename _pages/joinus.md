@@ -7,77 +7,36 @@ permalink: /recruitment-program/
 redirect_from:
   - /joinus/
 ---
-<p>Our recruitment program is designed for those of you who want to give outrigger a shot. Practices are held 1 day a week in Morro Bay from the end of January thru March. You'll be given an introduction to the sport of outrigger, learn basic paddling techniques, and meet your potential novice teammates.</p>
+<h2>2019 Recruitment Program</h2>
 
-<h2>2019 Recruitment Program Practice Schedule</h2>
+<p>Join us for FREE paddling session. All equipment and instruction is provided. Q&A with coach Don to follow!</p>
 
-<!--
-<p>Practices are Sundays in Morro Bay at Coleman Beach. You'll need to complete your <a href="/members/registration/">2019 member registration</a> to participate. Your first three practices are free and then your annual dues of $365 are due.</p>
--->
-<p>Your first three practices are free and then your annual dues of $365 are due.</p>
+<p>Email <a href="mailto:membership@palekai.org">membership@palekai.org</a> with your preferred date(s) and time.</p>
 
-<p> Make sure to sign up for our newsletter ( at the bottom of this page ) so your in the know! You can also reach out to our membership directors, <a href="mailto:mariannezawadzki@gmail.com">Marianne</a> or <a href="mailto:melissa.latimer@gmail.com .com">Melissa</a>, for more information.</p>
-
-<p>
-<strong>Membership Directors</strong>:<br/>
-Marianne Zawadzki<br/>
-Email: mariannezawadzki@gmail.com</p>
-
-<p>Melissa Latimer<br/>Email: melissa.latimer@gmail.com </p>
-
-<p>Dates of recruitment program TBD.</p>
-<!--
-<h3>Session 1</h3>
-<p>These dates are inteded for those who are interested in joining PKO for 2018.</p>
 <div class="table-wrapper">
 			<table class="alt">
 				<tbody>
 					<tr>
-						<td>January 20, 2019 -  8am</td>
+						<td>January 28, 2019</td>
+						<td>8am to 10am</td>
+						<td>10am to 12pm</td>
 						<td>Coleman Beach, Morro Bay</td>
 					</tr>
 					<tr>
-						<td>January 27, 2019 -  8am</td>
+						<td>February 9, 2019</td>
+						<td>8am to 10am</td>
+						<td>10am to 12pm</td>
 						<td>Coleman Beach, Morro Bay</td>
 					</tr>
 					<tr>
-						<td>February 3, 2019 -  8am</td>
-						<td>Coleman Beach, Morro Bay</td>
-					</tr>
-					<tr>
-						<td>February 10, 2019 -  8am</td>
+						<td>February 23, 2019</td>
+						<td>8am to 10am</td>
+						<td>10am to 12pm</td>
 						<td>Coleman Beach, Morro Bay</td>
 					</tr>
 				</tbody>
 			</table>
 </div>
-<p><small><i>Dates are tenative</i></small></p>
-
-<h3>Session 2</h3>
-<p>We want to start the novice season off right and get you going as a team in Morro Bay, before transitioning to Avila Beach in April. These dates are <b>intended for those of you who will be joining our Novice Team</b>, or for first timers who didn't quite manage to make it out yet.</p>
-<div class="table-wrapper">
-	<table class="alt">
-		<tbody>
-			<tr>
-				<td>Sunday March 3, 2019 -  8am</td>
-				<td>Coleman Beach, Morro Bay</td>
-			</tr>
-			<tr>
-				<td>Sunday March 10, 2019 -  8am</td>
-				<td>Coleman Beach, Morro Bay</td>
-			</tr>
-			<tr>
-				<td>Sunday March 17, 2019 -  8am</td>
-				<td>Coleman Beach, Morro Bay</td>
-			</tr>
-			<tr>
-				<td>Sunday March 24, 8am</td>
-				<td>Coleman Beach, Morro Bay</td>
-			</tr>
-		</tbody>
-	</table>
-</div>
-<p><small><i>Dates are tenative</i></small></p>
 
 <h2>Novice Year Participation</h2>
 <p>
@@ -92,7 +51,6 @@ As a novice member, we want to get you participating in our other activities too
 <li>Others as interest and need arrises</li>
 <ul>
 
--->
 <hr class="major" />
 <h2>Novice Year Overview</h2>
 <h4>February - March:  Recruitment </h4>

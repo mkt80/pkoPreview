@@ -9,12 +9,10 @@ permalink: /contact/
 <div class="row">
 	<div class="12u 12u$(medium)">
 		<h2>General Inquiries</h2>
-		<p>For general inquires about joining Pale Kai Outrigger or visiting paddlers, contact Marianne or Melissa, our Membership Directors</p>
-		<p>Marianne Zawadzki<br/>
-<p><strong>Email:</strong> mariannezawadzki@gmail.com</p>
+		<p>For general inquires about joining Pale Kai Outrigger or visiting paddlers, contact, email memberhsip.</p>
+		
+<p><strong>Email:</strong> membership@palekai.org</p>
 
-<p>Melissa Latimer<br/><p><strong>Email:</strong> melissa.latimer@gmail.com </p>
-	</div>
 </div>
 <div class="row">
 	<div class="6u 12u$(medium)">
