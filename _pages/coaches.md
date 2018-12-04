@@ -8,7 +8,7 @@ permalink: /coaches/
 
 A large round of applause to coaches, who selflessly volunteer their time and talent to the paddlers of Pale Kai. This is an enormous undertaking that often takes away from a coach’s own paddling time. While there are standards in technique that Pale Kai adheres to, as in every sport, each coach has their own style of coaching. If you have any questions about your crew’s training, please feel free to discuss it with your coach or with the Head Coach.
 
-Coaches face the difficult decision each race day of determining which six paddlers will be selected to participate in the race. Understand that coaches struggle to find a balance of what will provide successful racing results for Pale Kai (as a competitive club) as well as give as many paddlers as possible a chance to compete in a race. In many cases, it takes years for paddlers to find themselves at a competitive level. We encourage paddlers to not be discouraged, but to continue the sport. Sometimes you’ll find that that one extra season is a difference in making crew on race day.
+Coaches face the difficult decision each race day of determining which six paddlers will be selected to participate in the race. Understand that coaches struggle to find a balance of what will provide successful racing results for Pale Kai (as a competitive club) as well as give as many paddlers as possible a chance to compete in a race. In many cases, it takes years for paddlers to find themselves at a competitive level. We encourage paddlers to not be discouraged, but to continue the sport. Sometimes you’ll find that one extra season is a difference in making crew on race day.
 
 ## Jean Spear
 ### Head Coach
