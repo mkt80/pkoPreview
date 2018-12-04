@@ -68,8 +68,8 @@
 	}
 
 	.headshot {
-		float:right;
-		padding-left:2em;
+		float:left;
+		padding-right:2em;
 		max-width:50%;
 		@include breakpoint(large) { 
 			width:347px;

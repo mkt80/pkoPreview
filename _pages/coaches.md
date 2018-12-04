@@ -12,7 +12,7 @@ Coaches face the difficult decision each race day of determining which six paddl
 
 ### Head Coach - Jean Spear
 
-<img src="/assets/images/bio/Jean.jpg" class="headshot" />
+<img src="/assets/images/bio/jean.jpg" class="headshot" />
 
 Jean started paddling at age 11 in Newport Beach at the Newport Aquatic Center. It didn't take long for her to fall in love with paddling and being on the water. In junior high Jean received multiple awards at the Canoe and Kayak Nationals in K1, K2, and K4. In high school, Jean trained at the San Diego Olympic training center with top trainers from throughout the United States. During high school, she transitioned into rowing where she qualified for Nationals in Varsity 8+ and 2x.  In college, Jean rowed for UCLA but always returned home in the offseason to compete with the NAC Outrigger Team. 
 
