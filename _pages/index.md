@@ -1,8 +1,8 @@
 ---
 layout: home
 title: Home
-landing-title: 'Fun, Fitness, and Friendships'
-description: 'Explore Your Central Coast' 
+landing-title: 'Athletes Wanted'
+description: 'Join us for the 2019 Recruitment Program' 
 image: null
 author: null
 permalink: /index.html
