@@ -31,7 +31,9 @@ After graduation, Jean traveled to Hawaii to live and train with local outrigger
 <h3>Bonnie Lyons</h3>
 <h4>Womens Coach</h4>
 <img src="/assets/images/bio/bonni.jpg"  class="headshot" />
-<p>Bio comming soon!</p>
+<p>Bonnie came to paddling after an extensive competitive aquatic/water background which included lifeguarding, sailboat racing, swimming (age group and college &ndash; UCLA), and waterpolo.</p>
+<p>After trying her hand at various adult recreational league sports including tennis, soccer and beach volleyball while raising her 3 kids, Bonnie heard about a local outrigger team that was starting practices and decided to go and check it out.&nbsp; One practice and she was hooked.&nbsp; Bonnie has been paddling since 2008. She has had many opportunities to race since then including all of the SCORA races and the Catalina Crossing.&nbsp; She also has competed in many Northern California races including Monterey, Santa Cruz, Alcatrez, Angel Island, Tahoe (both north and south) and Monterey Crossing where she was part of a record breaking open coed team that included 3 other Pale Kai members. She has also had opportunities to race outside of California in Arizona (ADR), the Columbia River Gorge and Hawaii (Queen Liliuokalani, Pailolo Challenge, Na Wahine O Ke Kai and the Na Pali Challenge- where her team was 1<sup>st</sup> in the over 55 category).&nbsp;</p>
+<p>Bonnie shared her love of the sport with her husband Patrick ( a former Pale Kai coach) who joined the team after seeing how passionate she was about the sport.&nbsp; They have enjoyed training, traveling and racing together over the past 10 years. &nbsp;Bonnie feels that paddling is a sport that not only challenges you physically with an incredible workout but is also good for your soul- &ldquo;time on the water brings a renewal to your mind and body and I would like to encourage everyone to come and try it out&rdquo;.</p>
 <hr/>
 <div class="clear"></div>
 <p>&nbsp;</p>
