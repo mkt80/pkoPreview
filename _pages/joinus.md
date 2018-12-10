@@ -17,7 +17,7 @@ redirect_from:
 			<table class="alt">
 				<tbody>
 					<tr>
-						<td>January 28, 2019</td>
+						<td>January 26, 2019</td>
 						<td>8am to 10am</td>
 						<td>10am to 12pm</td>
 						<td>Coleman Beach, Morro Bay</td>
