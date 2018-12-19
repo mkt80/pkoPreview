@@ -13,6 +13,8 @@ redirect_from:
 
 <p>Email <a href="mailto:membership@palekai.org">membership@palekai.org</a> with your preferred date(s) and time.</p>
 
+<p>We also have a Facebook event <a href="https://www.facebook.com/events/1041638106015534/">here</a>.</p>
+
 <div class="table-wrapper">
 			<table class="alt">
 				<tbody>
