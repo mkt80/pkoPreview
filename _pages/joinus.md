@@ -57,7 +57,7 @@ As a novice member, we want to get you participating in our other activities too
 <h2>Novice Year Overview</h2>
 <h4>February - March:  Recruitment </h4>
 
-<p>The Recruitment Program are Sundays in Morro Bay between 8:00 a.m.and 12:00 p.m. Pale Kai’s “Three for Free” policy allows newcomers to experience outrigger paddling in the relatively calm waters of Morro Bay, without paying a fee or membership dues. This is a time to become acquainted with the sport and culture of outrigger canoe racing, while you make new friends!</p>
+<p>The Recruitment Program are Saturdays in Morro Bay between 8:00 a.m.and 12:00 p.m. Pale Kai’s “Three for Free” policy allows newcomers to experience outrigger paddling in the relatively calm waters of Morro Bay, without paying a fee or membership dues. This is a time to become acquainted with the sport and culture of outrigger canoe racing, while you make new friends!</p>
 
 <h4>April: Race Traning 3x a week</h4>
 <p>Race training begins on April 6th, 2019.</p>
@@ -80,19 +80,14 @@ The first official races begin in May.  Pale Kai is a member of the Southern Cal
 <p>
 Those Novice who develop proficiency may also be invited to compete in the 9-Man Season.  There is no guarantee that as a novice you will participate in nine person crews, due to the increased physical demands and technical skill required to safely perform open water crew changes.  The 9-man races are much longer distances than the iron season, from 20 miles to over 30 miles. Paddlers must demonstrate the endurance and proficiency during practice to be considered for a 9-man crew.
 </p>
-<p>
-The video link below provides a good illustration of the crew rotations that occur at 15-20 minute intervals in the open water, with a canoe moving at race speed and a chase boat to perform the exchange of paddlers in and out of the open ocean.  It is a challenging, but exciting experience, and for many paddlers it is the culmination of the sport.
-</p>
-
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/4R1pwH9XoRs" frameborder="0" allowfullscreen></iframe>
+<p>The race season finishes with the US Outrigger Championships Catalina Crossing where 9 man crews race from Newport to Catalina. Here's the drone footage of the women and coed crews leaving Newport.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a3YqqHw4mbY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <p>&nbsp;</p>
 <h4>September-January:  Winter Paddling</h4>
 <p>Winter practices will be subject to daylight and weather restrictions and continue at Avila Beach, until the time changes. A few boats will  then be re-located to Morro Bay for more protected paddling.  
 </p>
 <p>By the time your novice season is over, you will have gained some new skills, increased your fitness levels and made a number of new friends.
 </p>
-
-
 
 <h4>Next Level: The World Stage</h4>
 
