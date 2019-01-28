@@ -33,15 +33,11 @@ Ready to complete your Pale Kai Outrigger registration for 2019? Click the butto
 ### Important Registration Dates
 
 <div class="row">
-	<div class="4u 12u$(medium)">
-		<h3>Feb 1, 2019</h3>
-		<p>Registration opens to the public for the 2019 season</p>
-	</div>
-	<div class="4u 12u$(medium)">
+	<div class="6u 12u$(medium)">
 		<h3>March 1, 2019</h3>
-		<p>We will archive our 2018 season in TeamSnap. Register online to continue receiving PKO team communications</p>
+		<p>Registration opens to the public for the 2019 season. We will archive our 2018 season in TeamSnap.</p>
 	</div>
-	<div class="4u$ 12u$(medium)">
+	<div class="6u$ 12u$(medium)">
 		<h3>May 1, 2019</h3>
 		<p>Online registration closes</p>
 	</div>
