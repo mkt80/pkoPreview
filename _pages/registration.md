@@ -13,12 +13,15 @@ This year, we’ve enlisted the help of TeamSnap again to streamline our member 
 2. Complete your member profile including emergency contact info
 3. Sign the PKO Code of Conduct Policy
 4. Sign the PKO Saftey Policy
-5. Download your 2019 SCORA waiver and get information about the new smart waivers
-6. Select your payment method for dues - online or offline.
+5. Upload your completed 2019 SCORA smartwaiver
+6. Select your payment method for dues - online or offline. 
 7. And relax... because you just signed up for another year paddling!
 
+--
 
-*Registration for 2019 will open up in January.*
+
+SC4720
+*Registration for 2019 will open up on March 1st.*
 
 <!--
 Ready to complete your Pale Kai Outrigger registration for 2019? Click the button below!

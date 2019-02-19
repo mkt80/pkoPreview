@@ -24,7 +24,7 @@ redirect_from:
 	</div>
 </div>
 
-<h2>2018 Practice Schedule</h2>
+<h2>2019 Practice Schedule</h2>
 <p>For this season, Pale Kai Outrigger womens and men teams will practice 3 days a week with a fourth day of practice for those who wish to race on top teams. Our first year paddlers will follow the same practice schedule. It's going to be great year with more blending amongst all our paddlers and lots more time on the water.</p>
 <div class="table-wrapper">
 	<table>
