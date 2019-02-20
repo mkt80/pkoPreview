@@ -17,10 +17,7 @@ This year, we’ve enlisted the help of TeamSnap again to streamline our member 
 6. Select your payment method for dues - online or offline. 
 7. And relax... because you just signed up for another year paddling!
 
---
 
-
-SC4720
 *Registration for 2019 will open up on March 1st.*
 
 <!--
