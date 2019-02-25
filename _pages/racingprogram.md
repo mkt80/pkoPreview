@@ -25,13 +25,16 @@ redirect_from:
 </div>
 
 <h2>2019 Practice Schedule</h2>
-<p>For this season, Pale Kai Outrigger womens and men teams will practice 3 days a week with a fourth day of practice for those who wish to race on top teams. Our first year paddlers will follow the same practice schedule. It's going to be great year with more blending amongst all our paddlers and lots more time on the water.</p>
+<p>For this season, Pale Kai Outrigger womens and men teams will practice 3 days a week with a fourth day of practice for those who wish to race on top teams. It's going to be great year with more blending amongst all our paddlers and lots more time on the water.</p>
+	<p><strong>March 9th</strong>: 1st day of practice for novice team!</p>
+	<p><strong>March 25th/26th</strong>: 1st day of practice for men and womens team.</p>
 <div class="table-wrapper">
 	<table>
 		<thead>
 			<tr>
 				<th></th>
 				<th>Monday</th>
+				<th>Tuesday</th>
 				<th>Wednesday</th>
 				<th>Thursday</th>
 				<th>Saturday</th>
@@ -39,9 +42,27 @@ redirect_from:
 		</thead>
 		<tbody>
 			<tr>
+				<td>Novice</td>
+				<td>OC 6 Practice<br/>
+					5pm to 8pm
+				</td>
+				<td>
+				</td>
+				<td>
+				</td>
+				<td>OC 6 Practice<br/>
+					5pm to 8pm
+				</td>
+				<td>OC 6 Practice<br/>
+					8am to 11am
+				</td>			
+			</tr>
+			<tr>
 				<td>Women</td>
 				<td>OC 6 Practice<br/>
 					5pm to 8pm
+				</td>
+				<td>
 				</td>
 				<td>OC 6 Practice<br/>
 					5pm to 8pm
@@ -55,6 +76,8 @@ redirect_from:
 			</tr>
 			<tr>
 				<td>Men</td>
+				<td>
+				</td>
 				<td>OC 6 Practice<br/>
 					5pm to 8pm
 				</td>
