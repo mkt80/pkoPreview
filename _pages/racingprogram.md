@@ -44,14 +44,14 @@ redirect_from:
 			<tr>
 				<td>Novice</td>
 				<td>OC 6 Practice<br/>
-					5pm to 8pm
+					5:30pm to 8pm
 				</td>
 				<td>
 				</td>
 				<td>
 				</td>
 				<td>OC 6 Practice<br/>
-					5pm to 8pm
+					5:30pm to 8pm
 				</td>
 				<td>OC 6 Practice<br/>
 					8am to 11am
@@ -60,12 +60,12 @@ redirect_from:
 			<tr>
 				<td>Women</td>
 				<td>OC 6 Practice<br/>
-					5pm to 8pm
+					5:30pm to 8pm
 				</td>
 				<td>
 				</td>
 				<td>OC 6 Practice<br/>
-					5pm to 8pm
+					5:30pm to 8pm
 				</td>
 				<td>OC 1 Practice<sup>*</sup><br/>
 					5pm to 8pm
@@ -82,7 +82,7 @@ redirect_from:
 					5pm to 8pm
 				</td>
 				<td>OC 1 Practice<sup>*</sup><br/>
-					5:00pm to 8pm
+					5pm to 8pm
 				</td>
 				<td>OC 6 Practice<br/>
 					5pm to 8pm
@@ -96,8 +96,7 @@ redirect_from:
 			<tr>
 				<td colspan="5">
 					<p><small><sup>*</sup> OC 1 practice for those wishing to race in top crews.</small><br/>
-					<small><sup>**</sup>On the water at 5:30pm during weeknight practices. There will potentially be a late boat for those who can't make it.</small><br/>
-					<small><sup>***</sup>Practice times subject to change due to conditions. This is mother nature...she can be unforgiving.</small></p>
+					<small><sup>*</sup>Practice times subject to change due to conditions. This is mother nature...she can be unforgiving.</small></p>
 				</td>
 			</tr>
 		</tfoot>
