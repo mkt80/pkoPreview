@@ -2,7 +2,7 @@
 layout: home
 title: Home
 landing-title: 'Athletes Wanted'
-description: 'Join us for the 2019 Recruitment Program' 
+description: 'Pre Season Practice Starts March 9th' 
 image: null
 author: null
 permalink: /index.html
