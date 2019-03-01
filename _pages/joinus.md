@@ -8,6 +8,11 @@ redirect_from:
   - /joinus/
 ---
 <h2>2019 Recruitment Program</h2>
+<div class="box">
+	<p>The 2019 Recruitment Program has concluded! <strong>The 1st day of Pre Season Novice Pracice is March 9th in Morro Bay</strong>.</p>
+	<p>If you didn't make it out to the Recruitment Program this year but still plan on join PKO for 2019 - then register now and make sure to be at our Pre Season Novice Practice!</p>
+	<a href="/members/registration/" target="_blank" class="button">Member Registration</a>
+</div>
 
 <p>Join us for FREE paddling session. All equipment and instruction is provided. Q&A with coach Don to follow!</p>
 
