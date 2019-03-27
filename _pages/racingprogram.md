@@ -91,6 +91,21 @@ redirect_from:
 					8am to 11am
 				</td>			
 			</tr>
+			<tr>
+				<td>Alumni</td>
+				<td>
+				</td>
+				<td>OC 6 Practice<br/>
+					5:30 pm to 8pm
+				</td>
+				<td>
+				</td>
+				<td>OC 6 Practice<br/>
+					5:30 pm to 8pm
+				</td>
+				<td>
+				</td>			
+			</tr>
 		</tbody>
 		<tfoot>
 			<tr>
