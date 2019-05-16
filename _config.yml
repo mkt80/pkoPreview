@@ -16,10 +16,10 @@ permalink: /:categories/:year/:title/
 
 # Homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 0
+tiles-count: 1
 
 tiles-source-news: posts
-tiles-count-news: 0
+tiles-count-news: 1
 
 # Pagination
 paginate: 5
