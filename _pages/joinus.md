@@ -7,36 +7,37 @@ permalink: /recruitment-program/
 redirect_from:
   - /joinus/
 ---
-<h2>2019 Recruitment Program</h2>
+<h2>2020 Recruitment Program</h2>
+<!--
 <div class="box">
-	<p>The 2019 Recruitment Program has concluded! <strong>The 1st day of Pre Season Novice Pracice is March 9th in Morro Bay</strong>.</p>
-	<p>If you didn't make it out to the Recruitment Program this year but still plan on join PKO for 2019 - then register now and make sure to be at our Pre Season Novice Practice!</p>
+	<p>The 2020 Recruitment Program has concluded! <strong>The 1st day of Pre Season Novice Pracice is March 8th in Morro Bay</strong>.</p>
+	<p>If you didn't make it out to the Recruitment Program this year but still plan on join PKO for 2020 - then register now and make sure to be at our Pre Season Novice Practice!</p>
 	<a href="/members/registration/" target="_blank" class="button">Member Registration</a>
 </div>
-
+-->
 <p>Join us for FREE paddling session. All equipment and instruction is provided. Q&A with coach Don to follow!</p>
 
 <p>Email <a href="mailto:membership@palekai.org">membership@palekai.org</a> with your preferred date(s) and time.</p>
 
-<p>We also have a Facebook event <a href="https://www.facebook.com/events/1041638106015534/">here</a>.</p>
+<!--<p>We also have a Facebook event <a href="https://www.facebook.com/events/1041638106015534/">here</a>.</p>-->
 
 <div class="table-wrapper">
 			<table class="alt">
 				<tbody>
 					<tr>
-						<td>January 26, 2019</td>
+						<td>January 18, 2020</td>
 						<td>8am to 10am</td>
 						<td>10am to 12pm</td>
 						<td>Coleman Beach, Morro Bay</td>
 					</tr>
 					<tr>
-						<td>February 9, 2019</td>
+						<td>February 1, 2020</td>
 						<td>8am to 10am</td>
 						<td>10am to 12pm</td>
 						<td>Coleman Beach, Morro Bay</td>
 					</tr>
 					<tr>
-						<td>February 23, 2019</td>
+						<td>February 15, 2020</td>
 						<td>8am to 10am</td>
 						<td>10am to 12pm</td>
 						<td>Coleman Beach, Morro Bay</td>
@@ -65,7 +66,7 @@ As a novice member, we want to get you participating in our other activities too
 <p>The Recruitment Program are Saturdays in Morro Bay between 8:00 a.m.and 12:00 p.m. Pale Kai’s “Three for Free” policy allows newcomers to experience outrigger paddling in the relatively calm waters of Morro Bay, without paying a fee or membership dues. This is a time to become acquainted with the sport and culture of outrigger canoe racing, while you make new friends!</p>
 
 <h4>April: Race Traning 3x a week</h4>
-<p>Race training begins on April 6th, 2019.</p>
+<p>Race training begins on April 6th, 2020.</p>
 <p>
 Your novice coach will provide the skills training you will need for the upcoming race season. It is important to practice with your team consistently to develop your technique and timing. You will also form new friendships (for no additional fee!).</p>
 

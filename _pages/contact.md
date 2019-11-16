@@ -17,13 +17,8 @@ permalink: /contact/
 <div class="row">
 	<div class="6u 12u$(medium)">
 		<h3>PKO President</h3>
-		<p>For club wide related requests contact Cece, our PKO President</p>
+		<p>For club wide related requests contact our PKO President</p>
 		<p><strong>Email:</strong> president@palekai.org</p>
-	</div>
-	<div class="6u$ 12u$(medium)">
-		<h3>Press</h3>
-		<p>For all media inquiries and general communication, contact Lauren, our Communications Director</p>
-		<p><strong>Email:</strong> communications@palekai.org</p>
 	</div>
 </div>
 
