@@ -15,9 +15,9 @@ redirect_from:
 	<a href="/members/registration/" target="_blank" class="button">Member Registration</a>
 </div>
 -->
-<p>Join us for FREE paddling session. All equipment and instruction is provided. Q&A with coach Don to follow!</p>
+<p>Join us for FREE paddling session. All equipment and instruction is provided. Q&A to follow!</p>
 
-<p>Email <a href="mailto:membership@palekai.org">membership@palekai.org</a> with your preferred date(s) and time.</p>
+<p></p>
 
 <!--<p>We also have a Facebook event <a href="https://www.facebook.com/events/1041638106015534/">here</a>.</p>-->
 
