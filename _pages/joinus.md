@@ -17,6 +17,7 @@ redirect_from:
 -->
 <p>Join us for FREE paddling session. All equipment and instruction is provided. Q&A to follow!</p>
 
+<p>Link to sign up genius form comming soon.</p>
 <p></p>
 
 <!--<p>We also have a Facebook event <a href="https://www.facebook.com/events/1041638106015534/">here</a>.</p>-->
