@@ -46,9 +46,6 @@ permalink: /members/waivers-policies/
 <a href="https://drive.google.com/open?id=1TU-6maFc8nWAmoxHMm0ht0I7LVBd_MtK" class="button small">Paddling Manual</a>
 </li>
 <li>
-<a href="https://drive.google.com/open?id=1vL2X6_f_Lzv6b13U7Y76GWo-UXhdeh20" disabled class="button small">PKO Alumni Program Policy</a>
-</li>
-<li>
 <a href="https://drive.google.com/open?id=1tbOQq6t5oZQgTHMAP4VdpQ4SeEXI7I3I" class="button small">PKO Alumni Program FAQs</a>
 </li>
 </ul>
