@@ -2,7 +2,7 @@
 layout: post
 title: Reserve an OC1
 description: Reserve a club OC1.
-permalink: /members/reserveCanoe/
+permalink: /members/reservecanoe/
 
 ---
 
