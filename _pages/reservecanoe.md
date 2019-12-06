@@ -12,6 +12,6 @@ permalink: /members/reservecanoe/
         width="100%"
         height="650"
         style="background: #FFFFFF"
-        src="https://www.supersaas.com/schedule/login/PKO_OC1_Reservations/Canoe?role=user">  
+        src="https://www.supersaas.com/schedule/PKO_OC1_Reservations/Canoe">  
     </iframe>
 </div>

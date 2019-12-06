@@ -15,10 +15,8 @@ redirect_from:
 	<a href="/members/registration/" target="_blank" class="button">Member Registration</a>
 </div>
 -->
-<p>Join us for FREE paddling session. All equipment and instruction is provided. Q&A to follow!</p>
+<p><a href="https://www.signupgenius.com/go/9040d4ea4a923a4f49-2020">Sign up here for your FREE paddling session.</a> All equipment and instruction is provided. Q&A to follow!</p>
 
-<p>Link to sign up genius form comming soon.</p>
-<p></p>
 
 <!--<p>We also have a Facebook event <a href="https://www.facebook.com/events/1041638106015534/">here</a>.</p>-->
 
@@ -27,20 +25,20 @@ redirect_from:
 				<tbody>
 					<tr>
 						<td>January 18, 2020</td>
-						<td>8am to 10am</td>
-						<td>10am to 12pm</td>
+						<td><a href="https://www.signupgenius.com/go/9040d4ea4a923a4f49-2020">8am to 10am</a></td>
+						<td><a href="https://www.signupgenius.com/go/9040d4ea4a923a4f49-2020">10am to 12pm</a></td>
 						<td>Coleman Beach, Morro Bay</td>
 					</tr>
 					<tr>
 						<td>February 1, 2020</td>
-						<td>8am to 10am</td>
-						<td>10am to 12pm</td>
+						<td><a href="https://www.signupgenius.com/go/9040d4ea4a923a4f49-2020">8am to 10am</a></td>
+						<td><a href="https://www.signupgenius.com/go/9040d4ea4a923a4f49-2020">10am to 12pm</a></td>
 						<td>Coleman Beach, Morro Bay</td>
 					</tr>
 					<tr>
 						<td>February 15, 2020</td>
-						<td>8am to 10am</td>
-						<td>10am to 12pm</td>
+						<td><a href="https://www.signupgenius.com/go/9040d4ea4a923a4f49-2020">8am to 10am</a></td>
+						<td><a href="https://www.signupgenius.com/go/9040d4ea4a923a4f49-2020">10am to 12pm</a></td>
 						<td>Coleman Beach, Morro Bay</td>
 					</tr>
 				</tbody>
