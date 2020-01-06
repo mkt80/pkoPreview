@@ -34,13 +34,41 @@ After graduation, Jean traveled to Hawaii to live and train with local outrigger
 <p>Bonnie came to paddling after an extensive competitive aquatic/water background which included lifeguarding, sailboat racing, swimming (age group and college &ndash; UCLA), and waterpolo.</p>
 <p>After trying her hand at various adult recreational league sports including tennis, soccer and beach volleyball while raising her 3 kids, Bonnie heard about a local outrigger team that was starting practices and decided to go and check it out.&nbsp; One practice and she was hooked.&nbsp; Bonnie has been paddling since 2008. She has had many opportunities to race since then including all of the SCORA races and the Catalina Crossing.&nbsp; She also has competed in many Northern California races including Monterey, Santa Cruz, Alcatrez, Angel Island, Tahoe (both north and south) and Monterey Crossing where she was part of a record breaking open coed team that included 3 other Pale Kai members. She has also had opportunities to race outside of California in Arizona (ADR), the Columbia River Gorge and Hawaii (Queen Liliuokalani, Pailolo Challenge, Na Wahine O Ke Kai and the Na Pali Challenge- where her team was 1<sup>st</sup> in the over 55 category).&nbsp;</p>
 <p>Bonnie shared her love of the sport with her husband Patrick ( a former Pale Kai coach) who joined the team after seeing how passionate she was about the sport.&nbsp; They have enjoyed training, traveling and racing together over the past 10 years. &nbsp;Bonnie feels that paddling is a sport that not only challenges you physically with an incredible workout but is also good for your soul- &ldquo;time on the water brings a renewal to your mind and body and I would like to encourage everyone to come and try it out&rdquo;.</p>
-<hr/>
-<div class="clear"></div>
-<p>&nbsp;</p>
-<h3>Don Tran</h3>
+
+
+<h3>Tamara Jones</h3>
 <h4>Novice Coach</h4>
-<img src="/assets/images/bio/don.jpg"  class="headshot" />
-<p>Don started paddling with Pale Kai in 2014 as a Novice at the age of 39. He volunteered as the Assistant to the Assistant Novice Coach (AANC) last year. Through hard work and the love of the sport, Don was elected as the new Novice Coach for 2019! Coach Don is excited to share his knowledge and passion for the sport. His coaching philosophy is having fun, working hard, and being safe!</p>
+<img src="/assets/images/bio/tamara.jpg"  class="headshot" />
+<p>
+Tamara has been a part of the Pale Kai family for over 10 years.
+She has previously coached both the women's and novice teams and
+she has served on the board in a variety of roles, including club
+president. Learning about, and paddling 
+in, every canoe position has offered her an opportunity to experience 
+personal growth, outrigger training techniques, and our team culture 
+during workouts, competitions, and community events.
+</p>
+<p>
+Tamara has found adventure and athletic endeavor on the water all her 
+life and believes her experience as a lifelong student of surfing has 
+had a tremendous impact on her development as a paddler. Outrigger 
+paddling has added texture and balance to her busy life as a wife, mom, 
+and business owner. Her career as a personal fitness trainer for the 
+last 15 years has been key to her drive to help people use their bodies 
+safely and successfully. Her current strategic coaching business helps 
+her find more effective tools to empower others towards emotional and 
+physical evolution.
+</p>
+<p>
+Tamara feels very excited each year when the paddling season arrives 
+and she is dedicated to helping the PKO family develop its outrigger 
+culture in a way that offers all of us intense athletic opportunities 
+as well as a deep connection with each other and with our ocean 
+environment. She believes that we can, through our commitment to our 
+experiences on the water, offer each other a unique and intimate 
+commune with our natural world and with our paddling family.
+</p>
+
 <div class="clear"></div>
 
 
