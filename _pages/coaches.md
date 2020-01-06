@@ -41,9 +41,8 @@ After graduation, Jean traveled to Hawaii to live and train with local outrigger
 <img src="/assets/images/bio/tamara.jpg"  class="headshot" />
 <p>
 Tamara has been a part of the Pale Kai family for over 10 years.
-She has previously coached both the women's and novice teams and
-she has served on the board in a variety of roles, including club
-president. Learning about, and paddling 
+She has served on the board in a variety of roles, including as a
+coach and as club president. Learning about, and paddling 
 in, every canoe position has offered her an opportunity to experience 
 personal growth, outrigger training techniques, and our team culture 
 during workouts, competitions, and community events.
