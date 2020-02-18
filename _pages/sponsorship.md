@@ -14,7 +14,17 @@ Pale Kai Outrigger Canoe Club is a 501(c)(3) non-profit organization (tax ID 77-
 
 As a non-profit organization, Pale Kai Outrigger Canoe Club relies on sponsorships and the tax-deductible donations of community friends, family, and supporters.
 
+<!--
+Uncomment the top button link if you want donations to go into our "general fund"
+(not that the Treasurer actually keeps separate accounts). Uncomment the bottom
+button link if you want donations to be applied to our canoe campaign.
+-->
+
+<!--
 <a id='gfm-charity-donate-link' style='background-color:#7851a9; color: white; border-radius: 4px; padding: 12px 24px; display: inline-block; text-decoration: none; vertical-align: middle; font-size: 16px; font-family: Open Sans,sans-serif; line-height: 24px' role='button' href='https://charity.gofundme.com/o/en/donate-widget/4973'>Donate Now</a>
+-->
+
+<a id='gfm-charity-donate-link' style='background-color:#7851a9; color: white; border-radius: 4px; padding: 12px 24px; display: inline-block; text-decoration: none; vertical-align: middle; font-size: 16px; font-family: Open Sans,sans-serif; line-height: 24px' role='button' href='https://charity.gofundme.com/donate/project/unlimited-canoes/palekaioutrigger'>Donate Now</a>
 
 # Sponsors
 
