@@ -20,14 +20,12 @@ redirect_from:
 	</div>
 	<div class="4u$ 12u$(medium)">
 		<h3>We Paddle</h3>
-		<p>Novice training starts in February. Vet practice starts March 23 in Avila. All member team practice starts April 4, 2020.</p>
+		<p>Practice starts March 9th in Avila.</p>
 	</div>
 </div>
 
 <h2>2020 Practice Schedule</h2>
 <p>For this season, Pale Kai Outrigger womens and men teams will practice 3 days a week with a fourth day of practice for those who wish to race on top teams. It's going to be great year with more blending amongst all our paddlers and lots more time on the water.</p>
-<p><strong>March 8th</strong>: 1st day of practice for novice team!</p>
-<p><strong>March 23th/24th</strong>: 1st day of practice for men and womens team.</p>
 <div class="table-wrapper">
 	<table>
 		<thead>
