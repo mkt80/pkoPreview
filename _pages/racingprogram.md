@@ -43,52 +43,56 @@ redirect_from:
 		<tbody>
 			<tr>
 				<td>Novice</td>
-				<td>OC 6 Practice<br/>
-					5:30pm to 8pm
-				</td>
 				<td>
 				</td>
 				<td>
+					OC 6 Practice<br/>
+					5:15pm to dusk
+				</td>
+				<td>
 				</td>
 				<td>OC 6 Practice<br/>
-					5:30pm to 8pm
+					5:15pm to dusk
 				</td>
-				<td>OC 6 Practice<br/>
-					8am to 11am
+				<td>
+					TBD
 				</td>			
 			</tr>
 			<tr>
 				<td>Women</td>
 				<td>OC 6 Practice<br/>
-					5:30pm to 8pm
+					5:00pm to dusk
+				</td>
+				<td>
+					OC 1 Practice<sup>*</sup><br/>
+					5pm to dusk
+				</td>
+				<td>OC 6 Practice<br/>
+					5:15pm to dusk
 				</td>
 				<td>
 				</td>
 				<td>OC 6 Practice<br/>
-					5:30pm to 8pm
-				</td>
-				<td>OC 1 Practice<sup>*</sup><br/>
-					5pm to 8pm
-				</td>
-				<td>OC 6 Practice<br/>
-					8am to 11am
+					8:30am to 11ish
 				</td>			
 			</tr>
 			<tr>
 				<td>Men</td>
 				<td>
+					OC 6 Practice<br/>
+					5pm to dusk
+				</td>
+				<td>
+					OC 1 Practice<sup>*</sup><br/>
+					5pm to dusk
+				</td>
+				<td>
+				</td>
+				<td>
+					5pm to dusk
 				</td>
 				<td>OC 6 Practice<br/>
-					5pm to 8pm
-				</td>
-				<td>OC 1 Practice<sup>*</sup><br/>
-					5pm to 8pm
-				</td>
-				<td>OC 6 Practice<br/>
-					5pm to 8pm
-				</td>
-				<td>OC 6 Practice<br/>
-					8am to 11am
+					8:30am to 11ish
 				</td>			
 			</tr>
 			<tr>
@@ -96,12 +100,12 @@ redirect_from:
 				<td>
 				</td>
 				<td>OC 6 Practice<br/>
-					5:30 pm to 8pm
+					5:30 pm to dusk
 				</td>
 				<td>
 				</td>
 				<td>OC 6 Practice<br/>
-					5:30 pm to 8pm
+					5:30 pm to dusk
 				</td>
 				<td>
 				</td>			
