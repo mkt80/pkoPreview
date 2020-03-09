@@ -10,6 +10,7 @@ GEM
       public_suffix (~> 2.0, >= 2.0.2)
     colorator (1.1.0)
     ffi (1.9.17)
+    ffi (1.9.17-x64-mingw32)
     forwardable-extended (2.6.0)
     jekyll (3.3.1)
       addressable (~> 2.4)
@@ -48,6 +49,7 @@ GEM
 
 PLATFORMS
   ruby
+  x64-mingw32
 
 DEPENDENCIES
   bundler (~> 1.12)
@@ -58,4 +60,4 @@ DEPENDENCIES
   rake (~> 10.0)
 
 BUNDLED WITH
-   1.13.6
+   1.16.1
