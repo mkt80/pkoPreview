@@ -14,7 +14,7 @@ permalink: /alumniprogram/
 <p>For further questions about our Alumni Program, reach out to our membership director, Jeff. To sign up for the 2020 Alumni Program head on over to our <a href="http://www.palekai.org/members/registration/">2020 Member Registration</a>.</p>
 
 <p>
-<strong>Alumni Director</strong>: Jeff Blauer<br/><strong>Email:</strong> canoedance@sbcglobal.net><br/><strong>Mobile:</strong> 805-440-2016></p>
+<strong>Alumni Director</strong>: Jeff B.<br/><strong>Email:</strong> canoedance@sbcglobal.net<br/><strong>Mobile:</strong> 805-440-2016</p>
 
 
 <h3>2018 Alumni Practice Schedule</h3>
