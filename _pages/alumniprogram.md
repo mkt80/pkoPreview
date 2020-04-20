@@ -11,11 +11,11 @@ permalink: /alumniprogram/
 
 <p>Alumni yearly dues are $200 and cover all your paddles from March 1st, 2020 thru February 28th, 2021.</p>
 
-<p>For further questions about our Alumni Program, reach out to our membership director, Tom. To sign up for the 2020 Alumni Program head on over to our <a href="http://www.palekai.org/members/registration/">2020 Member Registration</a>.</p>
+<p>For further questions about our Alumni Program, reach out to our membership director, Jeff. To sign up for the 2020 Alumni Program head on over to our <a href="http://www.palekai.org/members/registration/">2020 Member Registration</a>.</p>
 
 <p>
-<strong>Alumni Director</strong>: Tom<br/><strong>Email:</strong> tneedhamhome@gmail.com</p>
+<strong>Alumni Director</strong>: Jeff Blauer<br/><strong>Email:</strong> canoedance@sbcglobal.net><br/><strong>Mobile:</strong> 805-440-2016></p>
 
 
 <h3>2018 Alumni Practice Schedule</h3>
-<p>Tuesday and Thursday's from 5:30 till sunset. </p>
+<p>Tuesday and Thursday from 5:30 till sunset. </p>
