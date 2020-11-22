@@ -22,6 +22,7 @@ redirect_from:
 
 <div class="table-wrapper">
 			<table class="alt">
+				<tbody>
 					<tr>
 						<td>Jan 23rd (2021)</td>
 						<!--<td><a href="https://www.signupgenius.com/go/9040d4ea4a923a4f49-2020">8am to 10am</a></td>
@@ -35,7 +36,6 @@ redirect_from:
 						<!--<td><a href="https://www.signupgenius.com/go/9040d4ea4a923a4f49-2020">8am to 10am</a></td>
 						<td><a href="https://www.signupgenius.com/go/9040d4ea4a923a4f49-2020">10am to 12pm</a></td>
 						-->
-						<td>Sign up form comming soon!</td>
 						<td>Online Sign ups comming soon!</td>
 						<td>Coleman Beach, Morro Bay</td>
 					</tr>
