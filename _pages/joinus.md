@@ -28,7 +28,7 @@ redirect_from:
 						<!--<td><a href="https://www.signupgenius.com/go/9040d4ea4a923a4f49-2020">8am to 10am</a></td>
 						<td><a href="https://www.signupgenius.com/go/9040d4ea4a923a4f49-2020">10am to 12pm</a></td>
 						-->
-						<td>Online Sign ups comming soon!</td>
+						<td>Online Sign ups coming soon!</td>
 						<td>Coleman Beach, Morro Bay</td>
 					</tr>
 					<tr>
@@ -36,7 +36,7 @@ redirect_from:
 						<!--<td><a href="https://www.signupgenius.com/go/9040d4ea4a923a4f49-2020">8am to 10am</a></td>
 						<td><a href="https://www.signupgenius.com/go/9040d4ea4a923a4f49-2020">10am to 12pm</a></td>
 						-->
-						<td>Online Sign ups comming soon!</td>
+						<td>Online Sign ups coming soon!</td>
 						<td>Coleman Beach, Morro Bay</td>
 					</tr>
 					<tr>
@@ -44,7 +44,7 @@ redirect_from:
 						<!--<td><a href="https://www.signupgenius.com/go/9040d4ea4a923a4f49-2020">8am to 10am</a></td>
 						<td><a href="https://www.signupgenius.com/go/9040d4ea4a923a4f49-2020">10am to 12pm</a></td>
 						-->
-						<td>Online Sign ups comming soon!</td>
+						<td>Online Sign ups coming soon!</td>
 						<td>Coleman Beach, Morro Bay</td>
 					</tr>
 				</tbody>
