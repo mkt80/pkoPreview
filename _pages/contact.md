@@ -9,8 +9,8 @@ permalink: /contact/
 <div class="row">
 	<div class="12u 12u$(medium)">
 		<h2>General Inquiries</h2>
-		<p>For general inquires about joining Pale Kai Outrigger, or if you're a visiting paddler:<br>
-        <strong>Email: </strong><a href="mailto://membership@palekai.org">membership@palekai.org</a></p>
+		<p>For general inquires about joining Pale Kai Outrigger, or if you're a visiting paddler, reach out to our membership coordinator Derek Fromm.<br>
+        <strong>Email: </strong><a href="dfromm97@gmail.com">dfromm97@gmail.com</a></p>
 
 </div>
 <div class="row">
