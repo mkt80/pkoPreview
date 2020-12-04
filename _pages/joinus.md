@@ -7,7 +7,7 @@ permalink: /recruitment-program/
 redirect_from:
   - /joinus/
 ---
-<h2>2020 Recruitment Program</h2>
+<h2>2021 Recruitment Program</h2>
 <!--
 <div class="box">
 	<p>The 2020 Recruitment Program has concluded! <strong>The 1st day of Pre Season Novice Pracice is March 8th in Morro Bay</strong>.</p>
@@ -15,7 +15,7 @@ redirect_from:
 	<a href="/members/registration/" target="_blank" class="button">Member Registration</a>
 </div>
 -->
-<p><a href="https://www.signupgenius.com/go/9040d4ea4a923a4f49-2020">Sign up here for your FREE paddling session.</a> All equipment and instruction is provided. Q&A to follow!</p>
+<p>Sign up below for your FREE paddling session. All equipment and instruction is provided. Q&A to follow!</p>
 
 
 <!--<p>We also have a Facebook event <a href="https://www.facebook.com/events/1041638106015534/">here</a>.</p>-->
@@ -61,17 +61,17 @@ As a novice member, we want to get you participating in our other activities too
 <li>Safety and Risk Management</li>
 <li>Community outreach/relations/marketing</li>
 <li>Fundraising/Sponsorship</li>
-<li>Others as interest and need arrises</li>
+<li>Others as interest and need arises</li>
 <ul>
 
 <hr class="major" />
 <h2>Novice Year Overview</h2>
 <h4>February - March:  Recruitment </h4>
 
-<p>The Recruitment Program are Saturdays in Morro Bay between 8:00 a.m.and 12:00 p.m. Pale Kai’s “Three for Free” policy allows newcomers to experience outrigger paddling in the relatively calm waters of Morro Bay, without paying a fee or membership dues. This is a time to become acquainted with the sport and culture of outrigger canoe racing, while you make new friends!</p>
+<p>The Recruitment Program proceeds on Saturdays in Morro Bay between 8:00 a.m.and 12:00 p.m. Pale Kai’s “Three for Free” policy allows newcomers to experience outrigger paddling in the relatively calm waters of Morro Bay, without paying a fee or membership dues. This is a time to become acquainted with the sport and culture of outrigger canoe racing while making new friends!</p>
 
 <h4>April: Race Traning 3x a week</h4>
-<p>Race training begins on April 6th, 2020.</p>
+<p>Race training will begin in early April.</p>
 <p>
 Your novice coach will provide the skills training you will need for the upcoming race season. It is important to practice with your team consistently to develop your technique and timing. You will also form new friendships (for no additional fee!).</p>
 
