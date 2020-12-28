@@ -17,39 +17,35 @@ redirect_from:
 -->
 <p>Sign up below for your FREE paddling session. All equipment and instruction is provided. Q&A to follow!</p>
 
-
-<!--<p>We also have a Facebook event <a href="https://www.facebook.com/events/1041638106015534/">here</a>.</p>-->
-
 <div class="table-wrapper">
 			<table class="alt">
 				<tbody>
 					<tr>
 						<td>Jan 23rd (2021)</td>
-						<!--<td><a href="https://www.signupgenius.com/go/9040d4ea4a923a4f49-2020">8am to 10am</a></td>
-						<td><a href="https://www.signupgenius.com/go/9040d4ea4a923a4f49-2020">10am to 12pm</a></td>
-						-->
-						<td>Online Sign ups coming soon!</td>
+						<td><a href="https://www.signupgenius.com/go/409044BAFA82CA2F85-2020">8am to 10am</a></td>
+						<td><a href="https://www.signupgenius.com/go/409044BAFA82CA2F85-2020">10am to 12pm</a></td>
+						<!--<td>Online Sign ups coming soon!</td>-->
 						<td>Coleman Beach, Morro Bay</td>
 					</tr>
 					<tr>
 						<td>Feb 7th (2021)</td>
-						<!--<td><a href="https://www.signupgenius.com/go/9040d4ea4a923a4f49-2020">8am to 10am</a></td>
-						<td><a href="https://www.signupgenius.com/go/9040d4ea4a923a4f49-2020">10am to 12pm</a></td>
-						-->
-						<td>Online Sign ups coming soon!</td>
+						<td><a href="https://www.signupgenius.com/go/409044BAFA82CA2F85-2020">8am to 10am</a></td>
+						<td><a href="https://www.signupgenius.com/go/409044BAFA82CA2F85-2020">10am to 12pm</a></td>
+						<!--<td>Online Sign ups coming soon!</td>-->
 						<td>Coleman Beach, Morro Bay</td>
 					</tr>
 					<tr>
 						<td>Feb 27th (2021)</td>
-						<!--<td><a href="https://www.signupgenius.com/go/9040d4ea4a923a4f49-2020">8am to 10am</a></td>
-						<td><a href="https://www.signupgenius.com/go/9040d4ea4a923a4f49-2020">10am to 12pm</a></td>
-						-->
-						<td>Online Sign ups coming soon!</td>
+						<td><a href="https://www.signupgenius.com/go/409044BAFA82CA2F85-2020">8am to 10am</a></td>
+						<td><a href="https://www.signupgenius.com/go/409044BAFA82CA2F85-2020">10am to 12pm</a></td>
+						<!--<td>Online Sign ups coming soon!</td>-->
 						<td>Coleman Beach, Morro Bay</td>
 					</tr>
 				</tbody>
 			</table>
 </div>
+
+<!--<p>We also have a Facebook event <a href="https://www.facebook.com/events/1041638106015534/">here</a>.</p>-->
 
 <h2>Novice Year Participation</h2>
 <p>
@@ -62,9 +58,10 @@ As a novice member, we want to get you participating in our other activities too
 <li>Community outreach/relations/marketing</li>
 <li>Fundraising/Sponsorship</li>
 <li>Others as interest and need arises</li>
-<ul>
+</ul>
 
-<hr class="major" />
+<!--<hr class="major" />-->
+
 <h2>Novice Year Overview</h2>
 <h4>February - March:  Recruitment </h4>
 
