@@ -16,10 +16,10 @@ The following have been elected to the Board for 2021:
 - Events Coordinator:       Melissa Latimer
 - Membership:               Derek Fromm
 - Equipment Coordinator:    Chris Wertz
-- Transportation:           TBA
+- Transportation:           Bob Teaford
 - Sponsorship/Fundraising:  Kim Lillywhite
 - Communications:           Tracy Lukehart
-- SCORA Rep:                Dave Degroot & Sarah Donahue
+- SCORA Rep:                Dave Degroot & Sarah Donahue (alternate)
 - Head Coach:               John Savarese
 - Men's Coach:              Jon Hergert
 - Women's Coach:            Tamara Jones
