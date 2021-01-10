@@ -20,12 +20,12 @@ redirect_from:
 	</div>
 	<div class="4u$ 12u$(medium)">
 		<h3>We Paddle</h3>
-		<p>Practice starts March 9th in Avila.</p>
+		<p>Practice starts March 15th in Avila.</p>
 	</div>
 </div>
 
-<h2>2020 Practice Schedule</h2>
-<p>For this season, Pale Kai Outrigger womens and men teams will practice 3 days a week with a fourth day of practice for those who wish to race on top teams. It's going to be great year with more blending amongst all our paddlers and lots more time on the water.</p>
+<h2>Practice Schedule</h2>
+<p>For this season, Pale Kai Outrigger women's and men's teams will practice 3 days a week with a fourth day of practice for those who wish to race on top teams. It's going to be great year with more blending amongst all our paddlers and lots more time on the water.</p>
 <div class="table-wrapper">
 	<table>
 		<thead>
@@ -113,7 +113,7 @@ redirect_from:
 			<tr>
 				<td colspan="5">
 					<p><small><sup>*</sup> OC 1 practice for those wishing to race in top crews.</small><br/>
-					<small><sup>*</sup>Practice times subject to change due to conditions. This is mother nature...she can be unforgiving.</small></p>
+					<small><sup>*</sup>Practice times subject to change due to conditions. This is mother nature...she can be fickle.</small></p>
 				</td>
 			</tr>
 		</tfoot>
