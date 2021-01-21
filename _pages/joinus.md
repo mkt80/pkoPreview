@@ -15,6 +15,11 @@ redirect_from:
 	<a href="/members/registration/" target="_blank" class="button">Member Registration</a>
 </div>
 -->
+
+<p>Recruiting normally begins mid-to-late January and continues through February. However, due to state and county
+COVID-19 restrictions, recruiting is postponed indefinitely.</p>
+
+<!--
 <p>Sign up below for your FREE paddling session. All equipment and instruction is provided. Q&A to follow!</p>
 
 <div class="table-wrapper">
@@ -24,26 +29,24 @@ redirect_from:
 						<td>Jan 23rd (2021)</td>
 						<td><a href="https://www.signupgenius.com/go/409044BAFA82CA2F85-2020">8am to 10am</a></td>
 						<td><a href="https://www.signupgenius.com/go/409044BAFA82CA2F85-2020">10am to 12pm</a></td>
-						<!--<td>Online Sign ups coming soon!</td>-->
 						<td>Coleman Beach, Morro Bay</td>
 					</tr>
 					<tr>
 						<td>Feb 7th (2021)</td>
 						<td><a href="https://www.signupgenius.com/go/409044BAFA82CA2F85-2020">8am to 10am</a></td>
 						<td><a href="https://www.signupgenius.com/go/409044BAFA82CA2F85-2020">10am to 12pm</a></td>
-						<!--<td>Online Sign ups coming soon!</td>-->
 						<td>Coleman Beach, Morro Bay</td>
 					</tr>
 					<tr>
 						<td>Feb 27th (2021)</td>
 						<td><a href="https://www.signupgenius.com/go/409044BAFA82CA2F85-2020">8am to 10am</a></td>
 						<td><a href="https://www.signupgenius.com/go/409044BAFA82CA2F85-2020">10am to 12pm</a></td>
-						<!--<td>Online Sign ups coming soon!</td>-->
 						<td>Coleman Beach, Morro Bay</td>
 					</tr>
 				</tbody>
 			</table>
 </div>
+-->
 
 <!--<p>We also have a Facebook event <a href="https://www.facebook.com/events/1041638106015534/">here</a>.</p>-->
 
