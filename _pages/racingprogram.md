@@ -25,20 +25,45 @@ redirect_from:
 </div>
 
 <h2>Practice Schedule</h2>
+<P>Due to COVID-19 restrictions, 2021 practices are currently limited to OC-1 workouts. We anticipate beginning OC-6 workouts when
+San Luis Obispo County moves into the Orange Tier. Until then, workouts are as follows:
+<!--
 <p>For this season, Pale Kai Outrigger women's and men's teams will practice 3 days a week with a fourth day of practice for those who wish to race on top teams. It's going to be great year with more blending amongst all our paddlers and lots more time on the water.</p>
+-->
 <div class="table-wrapper">
 	<table>
 		<thead>
 			<tr>
 				<th></th>
-				<th>Monday</th>
 				<th>Tuesday</th>
-				<th>Wednesday</th>
 				<th>Thursday</th>
 				<th>Saturday</th>
 			</tr>
 		</thead>
 		<tbody>
+			<tr>
+				<td>All Veteran Racing Paddlers</td>
+				<td>
+					OC-1 Practice<br/>
+					5:30pm to dusk<br/>
+                    Coleman Park, Morro Bay
+				</td>
+				<td>
+					OC-1 Practice<br/>
+					5:30pm to dusk<br/>
+                    Coleman Park, Morro Bay
+				</td>
+				<td>
+					OC-1 Practice<br/>
+					8:30am to 11:30am<br/>
+                    Coleman Park, Morro Bay
+				</td>			
+			</tr>
+			<tr>
+				<td>All Others (Novices & Alumni)</td>
+				<td colspan="3">There are no organized workouts for Novice or Alumni paddlers at this time.</td>
+			</tr>
+<!--
 			<tr>
 				<td>Novice</td>
 				<td>
@@ -108,12 +133,16 @@ redirect_from:
 				<td>
 				</td>			
 			</tr>
+-->
 		</tbody>
 		<tfoot>
 			<tr>
 				<td colspan="5">
-					<p><small><sup>*</sup> OC 1 practice for those wishing to race in top crews.</small><br/>
-					<small><sup>*</sup>Practice times subject to change due to conditions. This is mother nature...she can be fickle.</small></p>
+                    <P>Please plan to be on the water at the appointed time.<BR/>
+					<small>
+                        <!--<sup>*</sup> OC 1 practice for those wishing to race in top crews.<br/>-->
+                        <sup>*</sup>Practice times subject to change due to conditions. This is mother nature... She can be fickle.
+                    </small></p>
 				</td>
 			</tr>
 		</tfoot>
