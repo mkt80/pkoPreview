@@ -1,13 +1,13 @@
 ---
 layout: post
-title: 2021 Board Members
-description: Here's the 2021 PKO Board
+title: Election Results for PKO Officers for 2021
+description: Election Results for 2021
 categories: Board-Meeting
 image: assets/images/board-meeting-2.jpg
 ---
  
 
-The following have been elected to the Board for 2021:
+The following have been elected as PKO Board and Officers for 2021:
 -----------------------------
 - President:                Paul Worthington
 - Vice President:           Jared Heinemann
@@ -24,4 +24,6 @@ The following have been elected to the Board for 2021:
 - Men's Coach:              Jon Hergert
 - Women's Coach:            Tamara Jones
 - Novice Coach:             Andrew Wilkening
+
+Note: These are the results of the election. However, change happens... The current list of Officers may be found at <A href="/board/">PKO Board</A>.
 
