@@ -20,13 +20,12 @@ redirect_from:
 	</div>
 	<div class="4u$ 12u$(medium)">
 		<h3>We Paddle</h3>
-		<p>Practice starts March 15th in Avila.</p>
+		<p>Practice starts March 15th in Avila Beach.</p>
 	</div>
 </div>
 
 <h2>Practice Schedule</h2>
-<P>Due to COVID-19 restrictions, 2021 practices are currently limited to OC-1 workouts. We anticipate beginning OC-6 workouts when
-San Luis Obispo County moves into the Orange Tier. Until then, workouts are as follows:
+<P>Due to COVID-19 restrictions, 2021 practices are currently limited to OC-1 workouts. We anticipate beginning OC-6 workouts soon. Until then, workouts are as follows:
 <!--
 <p>For this season, Pale Kai Outrigger women's and men's teams will practice 3 days a week with a fourth day of practice for those who wish to race on top teams. It's going to be great year with more blending amongst all our paddlers and lots more time on the water.</p>
 -->
@@ -46,17 +45,17 @@ San Luis Obispo County moves into the Orange Tier. Until then, workouts are as f
 				<td>
 					OC-1 Practice<br/>
 					5:30pm to dusk<br/>
-                    Coleman Park, Morro Bay
+                    Avila Beach
 				</td>
 				<td>
 					OC-1 Practice<br/>
 					5:30pm to dusk<br/>
-                    Coleman Park, Morro Bay
+                    Avila Beach
 				</td>
 				<td>
 					OC-1 Practice<br/>
 					8:30am to 11:30am<br/>
-                    Coleman Park, Morro Bay
+                    Avila Beach
 				</td>			
 			</tr>
 			<tr>
