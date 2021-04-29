@@ -10,16 +10,15 @@ A large round of applause to coaches, who selflessly volunteer their time and ta
 
 Coaches face the difficult decision each race day of determining which six paddlers will be selected to participate in the race. Understand that coaches struggle to find a balance of what will provide successful racing results for Pale Kai (as a competitive club) as well as give as many paddlers as possible a chance to compete in a race. In many cases, it takes years for paddlers to find themselves at a competitive level. We encourage paddlers to not be discouraged, but to continue the sport. Sometimes you’ll find that one extra season is a difference in making crew on race day.
 
-## Jean Spear
-### Head Coach
+## John Savarese
+### Head Coach & Men's Coach
 
-<img src="/assets/images/bio/jean.jpg" class="headshot" />
-
-Jean started paddling at age 11 in Newport Beach at the Newport Aquatic Center. It didn't take long for her to fall in love with paddling and being on the water. In junior high Jean received multiple awards at the Canoe and Kayak Nationals in K1, K2, and K4. In high school, Jean trained at the San Diego Olympic training center with top trainers from throughout the United States. During high school, she transitioned into rowing where she qualified for Nationals in Varsity 8+ and 2x.  In college, Jean rowed for UCLA but always returned home in the offseason to compete with the NAC Outrigger Team. 
-
-After graduation, Jean traveled to Hawaii to live and train with local outrigger teams and race Molokai and other local races like Na Pali Coast Challenge. After returning home Jean moved to Los Angeles and started paddling with Lanakila in Redondo Beach. Here she competed for 7 years with their top Women's crew. With this crew, Jean raced Catalina Crossing winning 4 championships, 5 Ironman Championships, Molokai - Na Wahine O Ke Kai, Pailolo both Iron and 10man taking 1st Place, Olamau taking 3rd Place, and The Gorge taking 1st Place. Jean moved to the Central Coast in 2016 and started her first year coaching with PKO in 2017. She enjoys taking all of her experiences in paddling and passing it along to the next generation of paddlers. 
+<img src="/assets/images/bio/johns.jpg"  class="headshot" />
+<p>John has lived in California his whole life. Born and raised in Southern California, John spent most of his free time growing up surfing, water skiing, sailing and jet sking. After a long career in public safety, John moved to the central coast where he discovered outrigger canoe and he has been hooked ever since. John has participated in a variety of OC1 and OC6 races including Iron, Nine Man, Catalina Crossing, Alcatraz, Columbia River Gorge, and Pailolo Challenge.</p>
+<p>John prides himself on providing a fun, safe, and challenging atmosphere where hard work is rewarded and achievement is celebrated.  He strives every day to inspire and motivate his team to excellence in Outrigger canoe. John Believes that individually we are merely one drop, but together, we are an ocean. John continues to foster the positive spirit of outrigger canoe that attracted him to the sport several years ago and feels honored to be coaching Pale Kai.</p>
 
 
+<!--
 <h3>Jon Hergert</h3>
 <h4>Mens Coach</h4>
 <img src="/assets/images/bio/jonh.jpg"  class="headshot" />
@@ -27,6 +26,7 @@ After graduation, Jean traveled to Hawaii to live and train with local outrigger
 <p>Making up for lost time, Jon was the Equipment Manager in 2015, Club President in 2016, and has been the Men's coach 2017, 2018, and will continue to be the Men's coach for 2019. </p>
 <p>Neon has raced in OC6 and OC1 all over the west coast and even in Hawaii.  His favorite races are the most helpful races and those are usually the ones that turned out to be the biggest train wrecks where life presents you the opportunity to learn an important lesson or lessons. Although we always strive for the perfect race, perfect performance, we learn best through our mistakes.  Paddling is only fun when you are learning something, when you stop learning, it's just a bunch of work. </p>
 <p>Neon still working hard for the perfect race, perfect performance for himself and others but secretly hopes never to find it.</p> 
+-->
 
 <!--
 <h3>Bonnie Lyons</h3>
@@ -37,14 +37,9 @@ After graduation, Jean traveled to Hawaii to live and train with local outrigger
 <p>Bonnie shared her love of the sport with her husband Patrick ( a former Pale Kai coach) who joined the team after seeing how passionate she was about the sport.&nbsp; They have enjoyed training, traveling and racing together over the past 10 years. &nbsp;Bonnie feels that paddling is a sport that not only challenges you physically with an incredible workout but is also good for your soul- &ldquo;time on the water brings a renewal to your mind and body and I would like to encourage everyone to come and try it out&rdquo;.</p>
 -->
 
-<h3>John Savarese</h3>
-<h4>Womens Coach</h4>
-<img src="/assets/images/bio/johns.jpg"  class="headshot" />
-<p>John has lived in California his whole life. Born and raised in Southern California, John spent most of his free time growing up surfing, water skiing, sailing and jet sking. After a long career in public safety, John moved to the central coast where he discovered outrigger canoe and he has been hooked ever since. John has participated in a variety of OC1 and OC6 races including Iron, Nine Man, Catalina Crossing, Alcatraz, Columbia River Gorge, and Pailolo Challenge.</p>
-<p>John prides himself on providing a fun, safe, and challenging atmosphere where hard work is rewarded and achievement is celebrated.  He strives every day to inspire and motivate his team to excellence in Outrigger canoe. John Believes that individually we are merely one drop, but together, we are an ocean. John continues to foster the positive spirit of outrigger canoe that attracted him to the sport several years ago and feels honored to be the Woman’s coach</p>
-
 <h3>Tamara Jones</h3>
-<h4>Novice Coach</h4>
+<h4>Women's Coach</h4>
+
 <img src="/assets/images/bio/tamara.jpg"  class="headshot" />
 <p>
 Tamara has been a part of the Pale Kai family for over 10 years.
@@ -74,6 +69,13 @@ environment. She believes that we can, through our commitment to our
 experiences on the water, offer each other a unique and intimate 
 commune with our natural world and with our paddling family.
 </p>
+
+<h3>Andrew Wilkening</h3>
+<h4>Novice Coach</h4>
+
+<img src="/assets/images/bio/andrewW1.jpg"  class="headshot" />
+
+
 
 <div class="clear"></div>
 
