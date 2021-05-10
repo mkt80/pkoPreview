@@ -25,7 +25,7 @@ redirect_from:
 </div>
 
 <h2>Practice Schedule</h2>
-<P>Due to COVID-19 restrictions, 2021 practices are currently limited to OC-1 workouts. We anticipate beginning OC-6 workouts soon. Until then, workouts are as follows:
+<P>Due to COVID-19 restrictions, 2021 practices are currently limited to veteran paddlers who sign up for the Racing Program. There are currently no club-sponsored workouts for Novice or Alumni paddlers. Workouts are as follows:
 <!--
 <p>For this season, Pale Kai Outrigger women's and men's teams will practice 3 days a week with a fourth day of practice for those who wish to race on top teams. It's going to be great year with more blending amongst all our paddlers and lots more time on the water.</p>
 -->
@@ -41,19 +41,19 @@ redirect_from:
 		</thead>
 		<tbody>
 			<tr>
-				<td>All Veteran Racing Paddlers</td>
+				<td>All Veteran Race Paddlers</td>
 				<td>
-					OC-1 Practice<br/>
+					OC-6 Practice<br/>
 					5:30pm to dusk<br/>
                     Avila Beach
 				</td>
 				<td>
-					OC-1 Practice<br/>
+					OC-6 Practice<br/>
 					5:30pm to dusk<br/>
                     Avila Beach
 				</td>
 				<td>
-					OC-1 Practice<br/>
+					OC-6 Practice<br/>
 					8:30am to 11:30am<br/>
                     Avila Beach
 				</td>			
