@@ -70,7 +70,7 @@ As a novice member, we want to get you participating in our other activities too
 
 <p>The Recruitment Program proceeds on Saturdays in Morro Bay between 8:00 a.m.and 12:00 p.m. Pale Kai’s “Three for Free” policy allows newcomers to experience outrigger paddling in the relatively calm waters of Morro Bay, without paying a fee or membership dues. This is a time to become acquainted with the sport and culture of outrigger canoe racing while making new friends!</p>
 
-<h4>April: Race Traning 3x a week</h4>
+<h4>April: Race Training 3x a week</h4>
 <p>Race training will begin in early April.</p>
 <p>
 Your novice coach will provide the skills training you will need for the upcoming race season. It is important to practice with your team consistently to develop your technique and timing. You will also form new friendships (for no additional fee!).</p>
