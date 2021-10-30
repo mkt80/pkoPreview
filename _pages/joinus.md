@@ -84,7 +84,7 @@ Your novice coach will provide the skills training you will need for the upcomin
 <p>
 The first official races begin in May.  Pale Kai is a member of the Southern California Outrigger Racing Association (SCORA).  We compete with other member clubs in SCORA, and our official events take place between San Diego and Santa Barbara. The first five races take place from early May through the end of June.  In the novice division, races are approximately 4 to 5 miles and occur in more protected waters than the veteran divisions.   Iron races consist of 6 person crews over a set distance, and novice teams may race under men’s, women’s, or co-ed divisions.
 </p>
-<a href="http://www.scora.org/race-schedule/" target="_blank" class="button">View SCORA Race Schedule</a>
+<a href="https://www.scora.org/races/" target="_blank" class="button">View SCORA Race Schedule</a>
 <p>The Iron Season concludes with the championships in San Diego. This highly attended event attracts entrants from all over the state and is a fitting tribute to the outrigger culture. For added fun, novice teams are encouraged to enter the Novice Dance Competition to display their grace and creativity, or just poke fun at themselves in a family friendly environment.
 </p>
 <h4>August-September: 9-Man Season</h4>
