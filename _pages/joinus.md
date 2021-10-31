@@ -7,7 +7,7 @@ permalink: /recruitment-program/
 redirect_from:
   - /joinus/
 ---
-<h2>2021 Recruitment Program</h2>
+<h2>2022 Recruitment Program</h2>
 <!--
 <div class="box">
 	<p>The 2020 Recruitment Program has concluded! <strong>The 1st day of Pre Season Novice Pracice is March 8th in Morro Bay</strong>.</p>
@@ -16,8 +16,15 @@ redirect_from:
 </div>
 -->
 
+<!--
 <p>Recruiting normally begins mid-to-late January and continues through February. However, due to state and county
 COVID-19 restrictions, recruiting is postponed indefinitely.</p>
+-->
+
+<h4>Demo Days in Morro Bay - January and February 2022</h4>
+
+<p>Pale Kai will be offering Saturday demonstration and recruitment sessions in Morro Bay to get you in a canoe and on the water. Join us for a fun intro to outrigger canoe paddling.</p>
+<p><i>Dates and signup information coming soon.</i></p>
 
 <!--
 <p>Sign up below for your FREE paddling session. All equipment and instruction is provided. Q&A to follow!</p>
@@ -66,7 +73,8 @@ As a novice member, we want to get you participating in our other activities too
 <!--<hr class="major" />-->
 
 <h2>Novice Year Overview</h2>
-<h4>February - March:  Recruitment </h4>
+<p><i>Note: Dates and times shown here are subject to change.</i></p>
+<h4>January - March:  Recruitment </h4>
 
 <p>The Recruitment Program proceeds on Saturdays in Morro Bay between 8:00 a.m.and 12:00 p.m. Pale Kai’s “Three for Free” policy allows newcomers to experience outrigger paddling in the relatively calm waters of Morro Bay, without paying a fee or membership dues. This is a time to become acquainted with the sport and culture of outrigger canoe racing while making new friends!</p>
 
