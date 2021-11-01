@@ -34,14 +34,17 @@ redirect_from:
 		<thead>
 			<tr>
 				<th></th>
+                <!--
 				<th>Tuesday</th>
 				<th>Thursday</th>
+                -->
 				<th>Saturday</th>
 			</tr>
 		</thead>
 		<tbody>
 			<tr>
-				<td>All Veteran Race Paddlers</td>
+				<td>All Veteran <!--Race --> Paddlers</td>
+                <!--
 				<td>
 					OC-6 Practice<br/>
 					5:30pm to dusk<br/>
@@ -52,11 +55,12 @@ redirect_from:
 					5:30pm to dusk<br/>
                     Avila Beach
 				</td>
+                -->
 				<td>
 					OC-6 Practice<br/>
 					8:30am to 11:30am<br/>
-                    Avila Beach
-				</td>			
+                    Coleman Beach, Morro Bay
+				</td>	
 			</tr>
 			<tr>
 				<td>All Others (Novices & Alumni)</td>
