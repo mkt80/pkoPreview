@@ -2,7 +2,7 @@
 layout: post
 title: Outrigger Resources
 description: Weather info, videos, and paddling tips
-feature: true
+feature: false
 permalink: /resources/
 
 ---
@@ -22,7 +22,7 @@ Please contact us for more information if required. -->
 <div style="width:400px;background:#fff"><script type="text/javascript" src="http://magicseaweed.com/syndicate/index.php?licenseKey=1490460048_69527"></script><p><div style="font-family:Arial, Helvetica, sans-serif;text-align:center;font-size:10px;color:#000;height:25px;"><a href="http://magicseaweed.com/Saint-Annes-Surf-Report/263/" style="color:#000;">Saint Annes Surf Report and Forecast</a></div></p></div>
 <a href="http://magicseaweed.com/Saint-Annes-Surf-Report/263/" class="button">Magic Seaweed</a>
 <hr/>
-<a href="17ft.com San Luis Obispo](http://17ft.com/slo" class="button">17ft.com San Luis Obispo</a>
+<a href="http://17ft.com/slo" class="button">17ft.com San Luis Obispo</a>
 
 		
 	</div>

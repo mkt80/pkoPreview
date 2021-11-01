@@ -36,24 +36,48 @@ Donate Now.</p>
 			{% endif %}
 	{% endfor %}
 
+    <!-- The following code doesn't work properly... The "limit" is 1, so only the first "page" (which is currently the
+         Alumni page) is inspected. Since that page does not the "feature: true" indication, it is not tiled. Essentially,
+         all pages should be inspected, but only "limit" would get tiled. 
+    
 	{% for page in site.pages limit:site.tiles-count %}
 		{% if site.tiles-source == 'pages'%}
-
-				{% if page.feature %}
-
+            {% if page.feature %}
 		        <article>
-		                <span class="image">
-		                        <img src="{{ page.image }}" alt="" />
-		                </span>
-		                <header class="major">
-		                        <h3><a href="{{ page.url  | relative_url }}" class="link">{{ page.title }}</a></h3>
-		                        <p>{{ page.description }}</p>
-		                </header>
-		        </article>		        {% endif %}
-
-			
+                    <span class="image">
+                        <img src="{{ page.image }}" alt="" />
+                    </span>
+                    <header class="major">
+                        <h3><a href="{{ page.url  | relative_url }}" class="link">{{ page.title }}</a></h3>
+                        <p>{{ page.description }}</p>
+                    </header>
+		        </article>		
+            {% endif %}
 		{% endif %}
-
 	{% endfor %}
+    -->
+    
+    <!-- Corrected code manually counts tiles as we generate them and breaks out of the loop when we're done -->
+    
+	{% if site.tiles-source == 'pages'%}
+        {% assign page_tiles = 0 %}
+        {% for page in site.pages %}
+            {% if page.feature %}
+                {% assign page_tiles = page_tiles | plus: 1 %}
+		        <article>
+                    <span class="image">
+                        <img src="{{ page.image }}" alt="" />
+                    </span>
+                    <header class="major">
+                        <h3><a href="{{ page.url  | relative_url }}" class="link">{{ page.title }}</a></h3>
+                        <p>{{ page.description }}</p>
+                    </header>
+		        </article>		
+            {% endif %}
+            {% if page_tiles >= site.tiles-count %}
+                {% break %}
+            {% endif %}
+        {% endfor %}
+    {% endif %}
 	
 </section>
