@@ -20,75 +20,101 @@ redirect_from:
 	</div>
 	<div class="4u$ 12u$(medium)">
 		<h3>We Paddle</h3>
-		<p>Novice training starts in February. Vet practice starts March 23 in Avila. All member team practice starts April 4, 2020.</p>
+		<p>Practice starts March 15th in Avila Beach.</p>
 	</div>
 </div>
 
-<h2>2020 Practice Schedule</h2>
-<p>For this season, Pale Kai Outrigger womens and men teams will practice 3 days a week with a fourth day of practice for those who wish to race on top teams. It's going to be great year with more blending amongst all our paddlers and lots more time on the water.</p>
-<p><strong>March 8th</strong>: 1st day of practice for novice team!</p>
-<p><strong>March 23th/24th</strong>: 1st day of practice for men and womens team.</p>
+<h2>Practice Schedule</h2>
+<P>Due to COVID-19 restrictions, 2021 practices are currently limited to veteran paddlers who sign up for the Racing Program. There are currently no club-sponsored workouts for Novice or Alumni paddlers. Workouts are as follows:
+<!--
+<p>For this season, Pale Kai Outrigger women's and men's teams will practice 3 days a week with a fourth day of practice for those who wish to race on top teams. It's going to be great year with more blending amongst all our paddlers and lots more time on the water.</p>
+-->
 <div class="table-wrapper">
 	<table>
 		<thead>
 			<tr>
 				<th></th>
-				<th>Monday</th>
 				<th>Tuesday</th>
-				<th>Wednesday</th>
 				<th>Thursday</th>
 				<th>Saturday</th>
 			</tr>
 		</thead>
 		<tbody>
 			<tr>
+				<td>All Veteran Race Paddlers</td>
+				<td>
+					OC-6 Practice<br/>
+					5:30pm to dusk<br/>
+                    Avila Beach
+				</td>
+				<td>
+					OC-6 Practice<br/>
+					5:30pm to dusk<br/>
+                    Avila Beach
+				</td>
+				<td>
+					OC-6 Practice<br/>
+					8:30am to 11:30am<br/>
+                    Avila Beach
+				</td>			
+			</tr>
+			<tr>
+				<td>All Others (Novices & Alumni)</td>
+				<td colspan="3">There are no organized workouts for Novice or Alumni paddlers at this time.</td>
+			</tr>
+<!--
+			<tr>
 				<td>Novice</td>
-				<td>OC 6 Practice<br/>
-					5:30pm to 8pm
-				</td>
 				<td>
 				</td>
 				<td>
+					OC 6 Practice<br/>
+					5:15pm to dusk
+				</td>
+				<td>
 				</td>
 				<td>OC 6 Practice<br/>
-					5:30pm to 8pm
+					5:15pm to dusk
 				</td>
-				<td>OC 6 Practice<br/>
-					8am to 11am
+				<td>
+					TBD
 				</td>			
 			</tr>
 			<tr>
 				<td>Women</td>
 				<td>OC 6 Practice<br/>
-					5:30pm to 8pm
+					5:00pm to dusk
+				</td>
+				<td>
+					OC 1 Practice<sup>*</sup><br/>
+					5pm to dusk
+				</td>
+				<td>OC 6 Practice<br/>
+					5:15pm to dusk
 				</td>
 				<td>
 				</td>
 				<td>OC 6 Practice<br/>
-					5:30pm to 8pm
-				</td>
-				<td>OC 1 Practice<sup>*</sup><br/>
-					5pm to 8pm
-				</td>
-				<td>OC 6 Practice<br/>
-					8am to 11am
+					8:30am to 11ish
 				</td>			
 			</tr>
 			<tr>
 				<td>Men</td>
 				<td>
+					OC 6 Practice<br/>
+					5pm to dusk
+				</td>
+				<td>
+					OC 1 Practice<sup>*</sup><br/>
+					5pm to dusk
+				</td>
+				<td>
+				</td>
+				<td>
+					5pm to dusk
 				</td>
 				<td>OC 6 Practice<br/>
-					5pm to 8pm
-				</td>
-				<td>OC 1 Practice<sup>*</sup><br/>
-					5pm to 8pm
-				</td>
-				<td>OC 6 Practice<br/>
-					5pm to 8pm
-				</td>
-				<td>OC 6 Practice<br/>
-					8am to 11am
+					8:30am to 11ish
 				</td>			
 			</tr>
 			<tr>
@@ -96,22 +122,26 @@ redirect_from:
 				<td>
 				</td>
 				<td>OC 6 Practice<br/>
-					5:30 pm to 8pm
+					5:30 pm to dusk
 				</td>
 				<td>
 				</td>
 				<td>OC 6 Practice<br/>
-					5:30 pm to 8pm
+					5:30 pm to dusk
 				</td>
 				<td>
 				</td>			
 			</tr>
+-->
 		</tbody>
 		<tfoot>
 			<tr>
 				<td colspan="5">
-					<p><small><sup>*</sup> OC 1 practice for those wishing to race in top crews.</small><br/>
-					<small><sup>*</sup>Practice times subject to change due to conditions. This is mother nature...she can be unforgiving.</small></p>
+                    <P>Please plan to be on the water at the appointed time.<BR/>
+					<small>
+                        <!--<sup>*</sup> OC 1 practice for those wishing to race in top crews.<br/>-->
+                        <sup>*</sup>Practice times subject to change due to conditions. This is mother nature... She can be fickle.
+                    </small></p>
 				</td>
 			</tr>
 		</tfoot>

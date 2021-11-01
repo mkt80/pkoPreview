@@ -18,7 +18,7 @@ The following are the 2020 Board election results:
 - Equipment Coordinator:   Chris Wertz
 - Transportation:   Warren Williams
 - Sponsorship/Fundraising:  Kim Lillywhite
-- Communications:   TBD
+- Communications:   Tracy Lukehart
 - SCORA Rep:   Denise Morales
 - Head Coach:   Jean Spear
 - Men's Coach:  Jon Hergert

@@ -24,7 +24,7 @@ permalink: /members/waivers-policies/
 
 
 <li>
-<a href="https://drive.google.com/open?id=1Rpcs1yIJt1xD7dfCT5fU-KfRzsJaf2dF" class=" button small">OC 1 Policy</a>
+<a href="https://drive.google.com/file/d/0BxDvVyv9_lDCamcyb2RnTXhWczQ/view?usp=sharing" class=" button small">OC 1 Policy</a>
 </li>
 
 </ul>
@@ -36,7 +36,7 @@ permalink: /members/waivers-policies/
 
 <ul class="actions">
 <li>
-<a href="http://www.scora.org/forms/" class="button small">SCORA 2018 Liability Waivers</a>
+<a href="http://www.scora.org/forms/" class="button small">SCORA Liability Waivers</a>
 </li>
 
 <li>

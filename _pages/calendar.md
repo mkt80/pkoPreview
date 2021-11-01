@@ -7,13 +7,15 @@ feature: true
 ---
 
 <h2>PKO Calendar</h2>
-<p>The calendar below lists known practice times, races, and PKO events. Check often as it's updated constently. Contact communications@palekai.org to submit an event.</p>
-<iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showPrint=0&amp;mode=AGENDA&amp;height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;src=e62itaanokp696fm8fo0h2topurrc6q6%40import.calendar.google.com&amp;color=%23AB8B00&amp;ctz=America%2FLos_Angeles" style="border:solid 1px #777" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+<p>The calendar below lists known practice times, races, and PKO events. Check often, as it's updated frequently. Contact <a href="mailto://communications@palekai.org">communications@palekai.org</a> to submit an event.</p>
+
+<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FLos_Angeles&amp;src=cGFsZWthaW91dHJpZ2dlckBnbWFpbC5jb20&amp;src=ZTYyaXRhYW5va3A2OTZmbThmbzBoMnRvcHVycmM2cTZAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%235600c8&amp;color=%23E4C441&amp;showTitle=0&amp;showPrint=0&amp;showTz=1&amp;mode=AGENDA" style="border:solid 1px #777" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
 
 <!-- integrate this one sometime
 	https://codepen.io/lonekorean/pen/doXjJG?depth=everything&order=popularity&page=3&q=Calendar+&show_forks=false
 -->
 <hr/>
+The current SCORA race schedule is available at: <a href="https://www.scora.org/race-schedule">www.scora.org/race-schedule</a>
 <h2>General Schedule</h2>
 <div class="row">
 	<div class="8u 12u$(small)">
