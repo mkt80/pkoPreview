@@ -43,14 +43,8 @@ Coaches face the difficult decision each race day of determining which six paddl
 <img src="/assets/images/bio/tamara.jpg"  class="headshot" />
 <p>
 Tamara has been a part of the Pale Kai family for over 10 years.
-<<<<<<< HEAD
-She has previously coached both the women's and novice teams and
-she has served on the board in a variety of roles, including club
-president. Learning about, and paddling 
-=======
 She has served on the board in a variety of roles, including as a
 coach and as club president. Learning about, and paddling 
->>>>>>> 7c5449cbe538a0585ce349363f6aeba89cf82f4b
 in, every canoe position has offered her an opportunity to experience 
 personal growth, outrigger training techniques, and our team culture 
 during workouts, competitions, and community events.
