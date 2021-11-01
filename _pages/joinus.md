@@ -2,6 +2,7 @@
 layout: post
 title: Recruitment Program
 description: Information about our recruitment program and joining Pale Kai Outrigger
+feature: true
 image: assets/images/2019-recruitment-background.jpg
 permalink: /recruitment-program/
 redirect_from:
