@@ -2,7 +2,7 @@
 layout: post
 title: Pale Kai Outrigger Canoe Club Board Members
 description: PKO Board and Elected Officials
-feature: true
+feature: false
 permalink: /board/
 
 ---
