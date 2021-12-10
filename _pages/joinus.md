@@ -2,7 +2,6 @@
 layout: post
 title: Recruitment Program
 description: Information about our recruitment program and joining Pale Kai Outrigger
-feature: true
 image: assets/images/2019-recruitment-background.jpg
 permalink: /recruitment-program/
 redirect_from:
@@ -25,36 +24,44 @@ COVID-19 restrictions, recruiting is postponed indefinitely.</p>
 <h4>Demo Days in Morro Bay - January and February 2022</h4>
 
 <p>Pale Kai will be offering Saturday demonstration and recruitment sessions in Morro Bay to get you in a canoe and on the water. Join us for a fun intro to outrigger canoe paddling.</p>
-<p><i>Dates and signup information coming soon.</i></p>
 
-<!--
 <p>Sign up below for your FREE paddling session. All equipment and instruction is provided. Q&A to follow!</p>
 
 <div class="table-wrapper">
 			<table class="alt">
 				<tbody>
 					<tr>
-						<td>Jan 23rd (2021)</td>
-						<td><a href="https://www.signupgenius.com/go/409044BAFA82CA2F85-2020">8am to 10am</a></td>
-						<td><a href="https://www.signupgenius.com/go/409044BAFA82CA2F85-2020">10am to 12pm</a></td>
-						<td>Coleman Beach, Morro Bay</td>
+						<td>Jan 8, 2022</td>
+						<td><a href="https://www.signupgenius.com/go/409044bafa82ca2f85-pale">8am to 10am</a></td>
+						<td><a href="https://www.signupgenius.com/go/409044bafa82ca2f85-pale">10am to 12pm</a></td>
+						<td><a href="https://goo.gl/maps/bcRNk7TNnyKY69u87">Coleman Park, Morro Bay</a></td>
 					</tr>
 					<tr>
-						<td>Feb 7th (2021)</td>
-						<td><a href="https://www.signupgenius.com/go/409044BAFA82CA2F85-2020">8am to 10am</a></td>
-						<td><a href="https://www.signupgenius.com/go/409044BAFA82CA2F85-2020">10am to 12pm</a></td>
-						<td>Coleman Beach, Morro Bay</td>
+						<td>Jan 22, 2022</td>
+						<td><a href="https://www.signupgenius.com/go/409044bafa82ca2f85-pale">8am to 10am</a></td>
+						<td><a href="https://www.signupgenius.com/go/409044bafa82ca2f85-pale">10am to 12pm</a></td>
+						<td><a href="https://goo.gl/maps/bcRNk7TNnyKY69u87">Coleman Park, Morro Bay</a></td>
 					</tr>
 					<tr>
-						<td>Feb 27th (2021)</td>
-						<td><a href="https://www.signupgenius.com/go/409044BAFA82CA2F85-2020">8am to 10am</a></td>
-						<td><a href="https://www.signupgenius.com/go/409044BAFA82CA2F85-2020">10am to 12pm</a></td>
-						<td>Coleman Beach, Morro Bay</td>
+						<td>Feb 12, 2022</td>
+						<td><a href="https://www.signupgenius.com/go/409044bafa82ca2f85-pale">8am to 10am</a></td>
+						<td><a href="https://www.signupgenius.com/go/409044bafa82ca2f85-pale">10am to 12pm</a></td>
+						<td><a href="https://goo.gl/maps/bcRNk7TNnyKY69u87">Coleman Park, Morro Bay</a></td>
+					</tr>
+					<tr>
+						<td>Feb 26, 2022</td>
+						<td><a href="https://www.signupgenius.com/go/409044bafa82ca2f85-pale">8am to 10am</a></td>
+						<td><a href="https://www.signupgenius.com/go/409044bafa82ca2f85-pale">10am to 12pm</a></td>
+						<td><a href="https://goo.gl/maps/bcRNk7TNnyKY69u87">Coleman Park, Morro Bay</a></td>
 					</tr>
 				</tbody>
 			</table>
 </div>
--->
+
+
+<iframe width="1110" height="624" src="https://www.youtube.com/embed/zrnwIQfU3R4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+For more information about paddling with Pale Kai, contact: <a href="mailto:join@palekai.org">join@palekai.org</a>.
 
 <!--<p>We also have a Facebook event <a href="https://www.facebook.com/events/1041638106015534/">here</a>.</p>-->
 

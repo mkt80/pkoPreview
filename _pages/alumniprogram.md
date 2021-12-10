@@ -7,7 +7,11 @@ permalink: /alumniprogram/
 ---
 
 
-<p>Even if your racing days are over, we would like to encourage our long lost ohana to return to the ocean sport they love. Alumni are invited to participate in regular Monday and Saturday practices throughout the season, and in offseason paddling. </p>
+<p>Even if your racing days are over, we would like to encourage our long lost ohana to return to the ocean sport they love. Alumni are invited to participate in regular Saturday practices throughout the offseason. Go to the <a href="/open-program/">Racing Program Page</a> for more the schedule.</p>
+
+<p>Stay tuned for 2022 Alumni Program information.</p>
+
+<!--
 
 <p>Alumni yearly dues are $200 and cover all your workouts from March 1st thru the following February.</p>
 
@@ -19,3 +23,4 @@ permalink: /alumniprogram/
 
 <h3>Alumni Practice Schedule</h3>
 <p>Tuesday and Thursday from 5:30 till sunset. </p>
+-->

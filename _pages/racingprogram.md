@@ -20,12 +20,12 @@ redirect_from:
 	</div>
 	<div class="4u$ 12u$(medium)">
 		<h3>We Paddle</h3>
-		<p>Practice starts March 15th in Avila Beach.</p>
+		<p>2022 practice dates will be announced soon.</p>
 	</div>
 </div>
 
 <h2>Practice Schedule</h2>
-<P>Due to COVID-19 restrictions, 2021 practices are currently limited to veteran paddlers who sign up for the Racing Program. There are currently no club-sponsored workouts for Novice or Alumni paddlers. Workouts are as follows:
+<P>Due to COVID-19 restrictions, 2021 practices are currently limited to veteran and alumni paddlers. Workouts are as follows:
 <!--
 <p>For this season, Pale Kai Outrigger women's and men's teams will practice 3 days a week with a fourth day of practice for those who wish to race on top teams. It's going to be great year with more blending amongst all our paddlers and lots more time on the water.</p>
 -->
@@ -43,7 +43,7 @@ redirect_from:
 		</thead>
 		<tbody>
 			<tr>
-				<td>All Veteran <!--Race --> Paddlers</td>
+				<td>All Veteran and Alumni<!--Race --> Paddlers</td>
                 <!--
 				<td>
 					OC-6 Practice<br/>
@@ -63,8 +63,8 @@ redirect_from:
 				</td>	
 			</tr>
 			<tr>
-				<td>All Others (Novices & Alumni)</td>
-				<td colspan="3">There are no organized workouts for Novice or Alumni paddlers at this time.</td>
+				<td>For those interested in paddling with Pale Kai</td>
+				<td colspan="3">Demo Days start January 8, 2022! Go to <a href="/joinus/">Recruiting</a> for more information.</td>
 			</tr>
 <!--
 			<tr>

@@ -36,7 +36,7 @@ permalink: /members/waivers-policies/
 
 <ul class="actions">
 <li>
-<a href="http://www.scora.org/forms/" class="button small">SCORA Liability Waivers</a>
+<a href="http://www.scora.org/wp-content/uploads/2021/02/2021-SCORA-Liability-Waiver.pdf" class="button small">SCORA Liability Waivers</a>
 </li>
 
 <li>

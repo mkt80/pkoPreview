@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Friends and Family Paddle Day and BBQ
-description: Come on out for PKO's Friends & Family Paddle Day & BBQ on July 31st. Click here for details.
+description: Come on out for PKO's Friends & Family Paddle Day & BBQ on July 31st, 2021. Click here for details.
 categories: Event
 image: 
 ---
@@ -12,7 +12,7 @@ Cash Raffle! Winners splits 50/50 with the club! Raffle tickets $1 each, 6 for $
 
 Lunch plates will be available for purchase for $10 starting at 12:30 PM.
 
-When: Saturday, July 31, 10:30 AM to 3:00 PM PDT<BR>
+When: Saturday, July 31, 2021, 10:30 AM to 3:00 PM PDT<BR>
 Where: Avila Park, 50 San Juan St., Avila Beach, CA (look for the Pale Kai flutter flag)
 
 Please RSVP at <A HREF="http://evite.me/PJKVdpbhJM">evite.me/PJKVdpbhJM</A>.
