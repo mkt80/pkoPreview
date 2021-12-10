@@ -58,8 +58,7 @@ COVID-19 restrictions, recruiting is postponed indefinitely.</p>
 			</table>
 </div>
 
-
-<iframe width="1110" height="624" src="https://www.youtube.com/embed/zrnwIQfU3R4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="624" src="https://www.youtube.com/embed/zrnwIQfU3R4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 For more information about paddling with Pale Kai, contact: <a href="mailto:join@palekai.org">join@palekai.org</a>.
 
