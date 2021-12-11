@@ -60,6 +60,9 @@ COVID-19 restrictions, recruiting is postponed indefinitely.</p>
 
 <iframe width="100%" height="624" src="https://www.youtube.com/embed/zrnwIQfU3R4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/zrnwIQfU3R4" frameborder="0" allowfullscreen></iframe>
+
+
 For more information about paddling with Pale Kai, contact: <a href="mailto:join@palekai.org">join@palekai.org</a>.
 
 <!--<p>We also have a Facebook event <a href="https://www.facebook.com/events/1041638106015534/">here</a>.</p>-->
@@ -118,6 +121,7 @@ Those Novice who develop proficiency may also be invited to compete in the 9-Man
 <h4>Next Level: The World Stage</h4>
 
 <p>Outrigger canoe racing takes place all over the world! The Olamau Race sees the best outrigger canoe teams compete off the coast of Hawaii’s Big Island. Ocean knowledge, skill, and perseverance aren’t always enough to succeed, but they can keep you above water. Watch the short below about a Californian team competing in The Olamau Race.</p>
+
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/u-lGBRTvQzU" frameborder="0" allowfullscreen></iframe>
 
 
