@@ -58,10 +58,49 @@ COVID-19 restrictions, recruiting is postponed indefinitely.</p>
 			</table>
 </div>
 
+<!--
+Commenting out YouTube's embed block in favor of the one I found at the bottom of this page;
+Renders better on my phone.
+
 <iframe width="100%" height="624" src="https://www.youtube.com/embed/zrnwIQfU3R4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+-->
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/zrnwIQfU3R4" frameborder="0" allowfullscreen></iframe>
 
+<!-- New copy added 1/3/2022 per Flo's request -->
+<h2>What to Bring</h2>
+<p>
+    <b>Outrigger paddling is a water sport and the water on the central coast is cold year round!</b>
+    The air may be chilly but you will warm up once we start paddling.
+    We recommend dressing in warm, water-wicking layers. Synthetic and wool fabrics are preferred while on the water 
+    as these will keep you warm
+    even if they get wet. Cotton is fine before and after paddling, but should be avoided while paddling.
+</p>
+
+<h3>Suggested Attire</h3>
+<ul>
+<li>A synthetic water-wicking shirt or rashguard topped by a light- or mid-weight windbreaker.</li>
+<li>Neoprene pants, board shorts, or synthetic leggings.</li>
+<li>Water socks or surf booties.</li>
+<li>A hat for warmth and/or sun protection.</li>
+<li>Sunglasses</li>
+<li>Dry clothes for after your paddle.</li>
+<li>A sweatshirt or jacket to keep warm before and after your paddle.</li>
+<li>Also bring sunscreen and water to keep hydrated before, during, and after your paddle.</li>
+</ul>
+
+<p><i>
+    Note that all paddlers will be provided with a PFD (life preserver) which must be worn at all times until they have
+    completed a brief swim test.
+</i></p>
+
+<h2>What to Expect</h2>
+<p>
+A Pale Kai coach will provide brief instructions on paddling technique, roles and responsibilities of the various positions in the
+canoe, and basic safety information. We will then go for a paddle around beautiful Morro Bay followed by a Q&A with
+Pale Kai members.
+</p>
+<!-- End 1/3/2022 copy -->
 
 For more information about paddling with Pale Kai, contact: <a href="mailto:join@palekai.org">join@palekai.org</a>.
 
@@ -69,14 +108,15 @@ For more information about paddling with Pale Kai, contact: <a href="mailto:join
 
 <h2>Novice Year Participation</h2>
 <p>
-As a novice member, we want to get you participating in our other activities too! Please start thinking about how you can contribute by being a part of a subcommittee in one of the following areas:</p>
+Novice members are encouraged to participate in our other activities too! Throughout the year club members are invited to
+participate in:
 <ul>
-<li>Trash clean-up/Beach beautification</li>
-<li>Event planning/coordination</li>
+<li>Roadside Cleanup (PKO is responsible for a mile stretch of Avila Beach Drive)</li>
+<li>Beach Cleanup and Beautification</li>
+<li>Any and All PKO Events</li>
 <li>Equipment Maintenance</li>
-<li>Safety and Risk Management</li>
-<li>Community outreach/relations/marketing</li>
-<li>Fundraising/Sponsorship</li>
+<li>Community Outreach</li>
+<li>Volunteering</li>
 <li>Others as interest and need arises</li>
 </ul>
 
@@ -86,15 +126,17 @@ As a novice member, we want to get you participating in our other activities too
 <p><i>Note: Dates and times shown here are subject to change.</i></p>
 <h4>January - March:  Recruitment </h4>
 
-<p>The Recruitment Program proceeds on Saturdays in Morro Bay between 8:00 a.m.and 12:00 p.m. Pale Kai’s “Three for Free” policy allows newcomers to experience outrigger paddling in the relatively calm waters of Morro Bay, without paying a fee or membership dues. This is a time to become acquainted with the sport and culture of outrigger canoe racing while making new friends!</p>
+<p>The Recruitment Program proceeds on Saturdays in Morro Bay between 8:00 a.m.and 12:00 p.m. Pale Kai’s “Three for Free” policy
+allows newcomers to experience outrigger paddling in the relatively calm waters of Morro Bay without paying a fee or membership
+dues. This is a time to become acquainted with the sport and culture of outrigger canoe racing while making new friends!</p>
 
 <h4>April: Race Training 3x a week</h4>
 <p>Race training will begin in early April.</p>
 <p>
 Your novice coach will provide the skills training you will need for the upcoming race season. It is important to practice with your team consistently to develop your technique and timing. You will also form new friendships (for no additional fee!).</p>
 
-
-<p>All paddlers must be proficient swimmers. Before our competitive season begins, you must pass a water safety test that includes huli drills (recovering from an overturned canoe), treading water, as well as a swim test.</p>
+<p>All paddlers must be proficient swimmers. Before our competitive season begins, you must pass a water safety test that includes
+huli drills (recovering from an overturned canoe), treading water, as well as a 100 meter swim test administered by a PKO coach.</p>
 
 <img src="/assets/images/outrigger-race-1.jpg" class="image right">
 
