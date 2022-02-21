@@ -28,7 +28,6 @@ Coaches face the difficult decision each race day of determining which six paddl
 <p>Neon still working hard for the perfect race, perfect performance for himself and others but secretly hopes never to find it.</p> 
 -->
 
-
 <h3>Bonnie Lyons</h3>
 <h4>Womens Coach</h4>
 <img src="/assets/images/bio/bonni.jpg"  class="headshot" />
@@ -76,6 +75,9 @@ commune with our natural world and with our paddling family.
 <h4>Novice Coach</h4>
 <img src="/assets/images/bio/don.jpg"  class="headshot" />
 <p>Don started paddling with Pale Kai in 2014 as a Novice at the age of 39. Through hard work and the love of the sport, Don was elected as the new Novice Coach for 2019 and again for 2022! Coach Don is excited to share his knowledge and passion for the sport. His coaching philosophy is having fun, working hard, and being safe!</p>
+
+<!-- Put some space between Don's short bio and the next bio. -->
+<div class="clear"></div><br>
 
 <h3>Andrew Wilkening</h3>
 <h4>Assistant Novice Coach</h4>
