@@ -18,7 +18,6 @@ Coaches face the difficult decision each race day of determining which six paddl
 <p>John has lived in California his whole life. Born and raised in Southern California, John spent most of his free time growing up surfing, water skiing, sailing and jet sking. After a long career in public safety, John moved to the central coast where he discovered outrigger canoe and he has been hooked ever since. John has participated in a variety of OC1 and OC6 races including Iron, Nine Man, Catalina Crossing, Alcatraz, Columbia River Gorge, and Pailolo Challenge.</p>
 <p>John prides himself on providing a fun, safe, and challenging atmosphere where hard work is rewarded and achievement is celebrated.  He strives every day to inspire and motivate his team to excellence in Outrigger canoe. John Believes that individually we are merely one drop, but together, we are an ocean. John continues to foster the positive spirit of outrigger canoe that attracted him to the sport several years ago and feels honored to be coaching Pale Kai.</p>
 
-
 <!--
 <h3>Jon Hergert</h3>
 <h4>Mens Coach</h4>
@@ -73,12 +72,15 @@ commune with our natural world and with our paddling family.
 </p>
 -->
 
+<h3>Don Tran</h3>
+<h4>Novice Coach</h4>
+<img src="/assets/images/bio/don.jpg"  class="headshot" />
+<p>Don started paddling with Pale Kai in 2014 as a Novice at the age of 39. Through hard work and the love of the sport, Don was elected as the new Novice Coach for 2019 and again for 2022! Coach Don is excited to share his knowledge and passion for the sport. His coaching philosophy is having fun, working hard, and being safe!</p>
+
 <h3>Andrew Wilkening</h3>
 <h4>Assistant Novice Coach</h4>
 
 <img src="/assets/images/bio/andrewW1.jpg"  class="headshot" />
-
-
 
 <div class="clear"></div>
 
