@@ -73,7 +73,7 @@ redirect_from:
 </i></p>
 
 <p><i>
-    Note: There will be no weekday practices during the first week of March.
+    Note: There will be no weekday practices prior to the start of Daylight Savings Time (March 13).
 </i></p>
 
 <div class="table-wrapper">
