@@ -2,25 +2,19 @@
 layout: post
 title: Recruitment Program
 description: Information about our recruitment program and joining Pale Kai Outrigger
+date: today
 image: assets/images/2019-recruitment-background.jpg
 permalink: /recruitment-program/
 redirect_from:
   - /joinus/
 ---
 <h2>2022 Recruitment Program</h2>
-<!--
-<div class="box">
-	<p>The 2020 Recruitment Program has concluded! <strong>The 1st day of Pre Season Novice Pracice is March 8th in Morro Bay</strong>.</p>
-	<p>If you didn't make it out to the Recruitment Program this year but still plan on join PKO for 2020 - then register now and make sure to be at our Pre Season Novice Practice!</p>
-	<a href="/members/registration/" target="_blank" class="button">Member Registration</a>
-</div>
--->
+
+<p>The 2022 Recruitment Program has concluded! <strong>The 1st day of novice pracice is March 5th in Morro Bay</strong>.</p>
+<p>If you didn't make it to the Recruitment Program this year but still plan on join PKO for 2022, then register now!</p>
+<a href="/members/registration/" target="_blank" class="button">Member Registration</a>
 
 <!--
-<p>Recruiting normally begins mid-to-late January and continues through February. However, due to state and county
-COVID-19 restrictions, recruiting is postponed indefinitely.</p>
--->
-
 <h4>Demo Days in Morro Bay - January and February 2022</h4>
 
 <p>Pale Kai will be offering Saturday demonstration and recruitment sessions in Morro Bay to get you in a canoe and on the water. Join us for a fun intro to outrigger canoe paddling.</p>
@@ -31,43 +25,31 @@ COVID-19 restrictions, recruiting is postponed indefinitely.</p>
 			<table class="alt">
 				<tbody>
 					<tr>
-						<td>Jan 8, 2022</td>
-						<td><a href="https://www.signupgenius.com/go/409044bafa82ca2f85-pale">8am to 10am</a></td>
-						<td><a href="https://www.signupgenius.com/go/409044bafa82ca2f85-pale">10am to 12pm</a></td>
-						<td><a href="https://goo.gl/maps/bcRNk7TNnyKY69u87">Coleman Park, Morro Bay</a></td>
-					</tr>
-					<tr>
 						<td>Jan 22, 2022</td>
-						<td><a href="https://www.signupgenius.com/go/409044bafa82ca2f85-pale">8am to 10am</a></td>
-						<td><a href="https://www.signupgenius.com/go/409044bafa82ca2f85-pale">10am to 12pm</a></td>
+						<td><a href="https://www.signupgenius.com/go/409044bafa82ca2f85-pale" target="_blank">8am to 10am</a></td>
+						<td><a href="https://www.signupgenius.com/go/409044bafa82ca2f85-pale" target="_blank">10am to 12pm</a></td>
 						<td><a href="https://goo.gl/maps/bcRNk7TNnyKY69u87">Coleman Park, Morro Bay</a></td>
 					</tr>
 					<tr>
 						<td>Feb 12, 2022</td>
-						<td><a href="https://www.signupgenius.com/go/409044bafa82ca2f85-pale">8am to 10am</a></td>
-						<td><a href="https://www.signupgenius.com/go/409044bafa82ca2f85-pale">10am to 12pm</a></td>
-						<td><a href="https://goo.gl/maps/bcRNk7TNnyKY69u87">Coleman Park, Morro Bay</a></td>
+						<td><a href="https://www.signupgenius.com/go/409044bafa82ca2f85-pale" target="_blank">8am to 10am</a></td>
+						<td><a href="https://www.signupgenius.com/go/409044bafa82ca2f85-pale" target="_blank">10am to 12pm</a></td>
+						<td><a href="https://goo.gl/maps/bcRNk7TNnyKY69u87" target="_blank">Coleman Park, Morro Bay</a></td>
 					</tr>
 					<tr>
 						<td>Feb 26, 2022</td>
-						<td><a href="https://www.signupgenius.com/go/409044bafa82ca2f85-pale">8am to 10am</a></td>
-						<td><a href="https://www.signupgenius.com/go/409044bafa82ca2f85-pale">10am to 12pm</a></td>
-						<td><a href="https://goo.gl/maps/bcRNk7TNnyKY69u87">Coleman Park, Morro Bay</a></td>
+						<td><a href="https://www.signupgenius.com/go/409044bafa82ca2f85-pale" target="_blank">8am to 10am</a></td>
+						<td><a href="https://www.signupgenius.com/go/409044bafa82ca2f85-pale" target="_blank">10am to 12pm</a></td>
+						<td><a href="https://goo.gl/maps/bcRNk7TNnyKY69u87" target="_blank">Coleman Park, Morro Bay</a></td>
 					</tr>
 				</tbody>
 			</table>
 </div>
 
-<!--
-Commenting out YouTube's embed block in favor of the one I found at the bottom of this page;
-Renders better on my phone.
-
-<iframe width="100%" height="624" src="https://www.youtube.com/embed/zrnwIQfU3R4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
--->
+<p>Reach out to <a href="mailto:join@palekai.org">join@palekai.org</a> if you have questions.</p>
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/zrnwIQfU3R4" frameborder="0" allowfullscreen></iframe>
 
-<!-- New copy added 1/3/2022 per Flo's request -->
 <h2>What to Bring</h2>
 <p>
     <b>Outrigger paddling is a water sport and the water on the central coast is cold year round!</b>
@@ -83,7 +65,7 @@ Renders better on my phone.
 <li>Neoprene pants, board shorts, or synthetic leggings.</li>
 <li>Water socks or surf booties.</li>
 <li>A hat for warmth and/or sun protection.</li>
-<li>Sunglasses</li>
+<li>Sunglasses.</li>
 <li>Dry clothes for after your paddle.</li>
 <li>A sweatshirt or jacket to keep warm before and after your paddle.</li>
 <li>Also bring sunscreen and water to keep hydrated before, during, and after your paddle.</li>
@@ -100,11 +82,9 @@ A Pale Kai coach will provide brief instructions on paddling technique, roles an
 canoe, and basic safety information. We will then go for a paddle around beautiful Morro Bay followed by a Q&A with
 Pale Kai members.
 </p>
-<!-- End 1/3/2022 copy -->
 
 For more information about paddling with Pale Kai, contact: <a href="mailto:join@palekai.org">join@palekai.org</a>.
-
-<!--<p>We also have a Facebook event <a href="https://www.facebook.com/events/1041638106015534/">here</a>.</p>-->
+-->
 
 <h2>Novice Year Participation</h2>
 <p>
@@ -122,16 +102,18 @@ participate in:
 
 <!--<hr class="major" />-->
 
+<p><a href="/members/registration/" class="button">Sign Me Up For the Year!</a></p>
+
 <h2>Novice Year Overview</h2>
-<p><i>Note: Dates and times shown here are subject to change.</i></p>
-<h4>January - March:  Recruitment </h4>
 
-<p>The Recruitment Program proceeds on Saturdays in Morro Bay between 8:00 a.m.and 12:00 p.m. Pale Kai’s “Three for Free” policy
+<h4>January - February:  Recruitment </h4>
+
+<p>Pale Kai’s “Three for Free” policy
 allows newcomers to experience outrigger paddling in the relatively calm waters of Morro Bay without paying a fee or membership
-dues. This is a time to become acquainted with the sport and culture of outrigger canoe racing while making new friends!</p>
+dues. The recruitment season is the time to become acquainted with the sport and culture of outrigger canoe racing while making new friends!</p>
 
-<h4>April: Race Training 3x a week</h4>
-<p>Race training will begin in early April.</p>
+<h4>March - April:  Race Training 3 times a week</h4>
+<p>Race training will begin in early March.</p>
 <p>
 Your novice coach will provide the skills training you will need for the upcoming race season. It is important to practice with your team consistently to develop your technique and timing. You will also form new friendships (for no additional fee!).</p>
 
@@ -144,17 +126,28 @@ huli drills (recovering from an overturned canoe), treading water, as well as a 
 <p>
 The first official races begin in May.  Pale Kai is a member of the Southern California Outrigger Racing Association (SCORA).  We compete with other member clubs in SCORA, and our official events take place between San Diego and Santa Barbara. The first five races take place from early May through the end of June.  In the novice division, races are approximately 4 to 5 miles and occur in more protected waters than the veteran divisions.   Iron races consist of 6 person crews over a set distance, and novice teams may race under men’s, women’s, or co-ed divisions.
 </p>
-<a href="https://www.scora.org/races/" target="_blank" class="button">View SCORA Race Schedule</a>
+
+<p><a href="https://www.scora.org/races/" target="_blank" class="button">View SCORA Race Schedule</a></p>
+
 <p>The Iron Season concludes with the championships in San Diego. This highly attended event attracts entrants from all over the state and is a fitting tribute to the outrigger culture. For added fun, novice teams are encouraged to enter the Novice Dance Competition to display their grace and creativity, or just poke fun at themselves in a family friendly environment.
 </p>
 <h4>August-September: 9-Man Season</h4>
 <p>
 Those Novice who develop proficiency may also be invited to compete in the 9-Man Season.  There is no guarantee that as a novice you will participate in nine person crews, due to the increased physical demands and technical skill required to safely perform open water crew changes.  The 9-man races are much longer distances than the iron season, from 20 miles to over 30 miles. Paddlers must demonstrate the endurance and proficiency during practice to be considered for a 9-man crew.
 </p>
-<p>The race season finishes with the US Outrigger Championships Catalina Crossing where 9 man crews race from Newport to Catalina. Here's the drone footage of the women and coed crews leaving Newport.</p>
+
+<p>
+    The race season finishes with the US Outrigger Championships Catalina Crossing where women's and co-ed teams race from Newport to Catalina
+    on Saturday and the men race back on Sunday. 
+    <!--Here's the drone footage of the women and coed crews leaving Newport.-->
+</p>
+
+<!-- Video no longer available
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a3YqqHw4mbY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<p>&nbsp;</p>
-<h4>September-January:  Winter Paddling</h4>
+-->
+
+<h4>September-March:  Winter Paddling</h4>
 <p>Winter practices will be subject to daylight and weather restrictions and continue at Avila Beach, until the time changes. A few boats will  then be re-located to Morro Bay for more protected paddling.  
 </p>
 <p>By the time your novice season is over, you will have gained some new skills, increased your fitness levels and made a number of new friends.
@@ -165,6 +158,3 @@ Those Novice who develop proficiency may also be invited to compete in the 9-Man
 <p>Outrigger canoe racing takes place all over the world! The Olamau Race sees the best outrigger canoe teams compete off the coast of Hawaii’s Big Island. Ocean knowledge, skill, and perseverance aren’t always enough to succeed, but they can keep you above water. Watch the short below about a Californian team competing in The Olamau Race.</p>
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/u-lGBRTvQzU" frameborder="0" allowfullscreen></iframe>
-
-
-
