@@ -81,10 +81,10 @@ redirect_from:
 		<thead>
 			<tr>
 				<th></th>
-				<th>Monday</th>
-				<th>Wednesday</th>
-				<th>Thursday</th>
-				<th>Saturday</th>
+				<th style="text-align:center">Monday<br/>(Beginning March 14th)</th>
+				<th style="text-align:center">Wednesday<br/>(Beginning March 16th)</th>
+				<th style="text-align:center">Thursday<br/>(Beginning March 17th)</th>
+				<th style="text-align:center">Saturday</th>
 			</tr>
 		</thead>
 		<tbody>
@@ -110,12 +110,10 @@ redirect_from:
 			<tr>
 				<td>Vet<br>Women</td>
 				<td>
-                    Beginning March 14th<br/>
 					5:30pm to dusk<br/>
                     Avila Beach
 				</td>
 				<td>
-                    Beginning March 16th<br>
 					5:30pm to dusk<br/>
                     Avila Beach
 				</td>
@@ -128,14 +126,12 @@ redirect_from:
 			<tr>
 				<td>Vet<br>Men</td>
 				<td>
-                    Beginning March 14th<br>
 					5:30pm to dusk<br/>
                     Avila Beach
 				</td>
                 <td>
                 </td>
 				<td>
-                    Beginning March 17th<br/>
 					5:30pm to dusk<br/>
                     Avila Beach
 				</td>
@@ -146,6 +142,8 @@ redirect_from:
 			</tr>
 			<tr>
 				<td>Alumni</td>
+                <td colspan=4>The Alumni practice schedule has not yet been finalized.</td>
+                <!--
 				<td>
 				</td>
                 <td>
@@ -156,6 +154,7 @@ redirect_from:
 					8:30am to 11:30am<br/>
                     Avila Beach
                 </td>
+                -->
 			</tr>
 		</tbody>
 		<tfoot>
