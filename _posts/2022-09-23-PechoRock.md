@@ -96,3 +96,5 @@ We especially want to thank our sponsors who so generously donated to our raffle
         </div>
     </div>
 </div>
+
+Click <a href="https://drive.google.com/open?id=1-8sjvgJfysUyGBj6zw2HJTKiVvxSYX_t&authuser=palekaioutrigger%40gmail.com&usp=drive_fs">here</a> for more photos from the event.
