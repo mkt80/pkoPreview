@@ -6,7 +6,7 @@ categories: Event
 image: 
 ---
  
-<iframe width="1109" height="624" src="https://www.youtube.com/embed/RZgSrb9B2Ec?loop=1&autoplay=1" title="2022 Pale Kai Pecho Fun Run" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+<iframe width="100%" height="624" src="https://www.youtube.com/embed/RZgSrb9B2Ec?loop=1&autoplay=1" title="2022 Pale Kai Pecho Funday" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
  
 On Saturday, September 23rd, Pale Kai Outrigger celebrated the end of our race season with our Second Annual Pale Kai Fun Paddle - An
 opportunity for Pale Kai, select guest clubs and paddlers, and their families to join us for an informal paddle, raffle, silent auction, and
