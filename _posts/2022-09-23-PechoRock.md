@@ -3,8 +3,10 @@ layout: post
 title: 2022 Pecho Rock Fun Paddle
 description: Pale Kai wraps up the race season with paddle-out, raffle, silent auction, and luau. A shoutout to our many sponsors. Click here for more.
 categories: Event
-image: assets/images/2022 Pecho Fun Day/ShortStart.jpg
+image: 
 ---
+ 
+<iframe width="1109" height="624" src="https://www.youtube.com/embed/RZgSrb9B2Ec?loop=1&autoplay=1" title="2022 Pale Kai Pecho Fun Run" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
  
 On Saturday, September 23rd, Pale Kai Outrigger celebrated the end of our race season with our Second Annual Pale Kai Fun Paddle - An
 opportunity for Pale Kai, select guest clubs and paddlers, and their families to join us for an informal paddle, raffle, silent auction, and
@@ -97,4 +99,5 @@ We especially want to thank our sponsors who so generously donated to our raffle
     </div>
 </div>
 
-Click <a href="https://drive.google.com/open?id=1-8sjvgJfysUyGBj6zw2HJTKiVvxSYX_t&authuser=palekaioutrigger%40gmail.com&usp=drive_fs">here</a> for more photos from the event.
+
+Click <a href="https://photos.google.com/album/AF1QipPkcHIyQoZXZUrlKLfxNEJtAWy3Qyx1K1CKWIkR">here</a> for more photos from the event (Google Photos).
