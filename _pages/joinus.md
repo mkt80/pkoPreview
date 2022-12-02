@@ -8,19 +8,23 @@ permalink: /recruitment-program/
 redirect_from:
   - /joinus/
 ---
-<h2>2022 Recruitment Program</h2>
-
-<p>The 2022 Recruitment Program has concluded! <strong>The 1st day of novice pracice is March 5th in Morro Bay</strong>.</p>
-<p>If you didn't make it to the Recruitment Program this year but still plan on join PKO for 2022, then register now!</p>
-<a href="/members/registration/" target="_blank" class="button">Member Registration</a>
+<h2>2023 Recruitment Program</h2>
 
 <!--
-<h4>Demo Days in Morro Bay - January and February 2022</h4>
+<p>The 2023 Recruitment Program has concluded! <strong>The 1st day of novice pracice is March 5th in Morro Bay</strong>.</p>
+<p>If you didn't make it to the Recruitment Program this year but still plan on join PKO for 2022, then register now!</p>
+<a href="/members/registration/" target="_blank" class="button">Member Registration</a>
+-->
 
-<p>Pale Kai will be offering Saturday demonstration and recruitment sessions in Morro Bay to get you in a canoe and on the water. Join us for a fun intro to outrigger canoe paddling.</p>
+<h4>Demo Days in Morro Bay - January and February 2023</h4>
 
-<p>Sign up below for your FREE paddling session. All equipment and instruction is provided. Q&A to follow!</p>
+<p>Pale Kai will be offering Saturday morning demonstration and recruitment sessions at Coleman Beach in Morro Bay to get you in a
+canoe and on the water. Join us for a fun intro to outrigger canoe paddling.</p>
 
+<p>Visit our <a href="https://www.signupgenius.com/go/409044bafa82ca2f85-pale1" target="_blank">SignUpGenius Page</a> to check the
+schedule and to register for your FREE paddling session. All equipment and instruction is provided. Q&A to follow!</p>
+
+<!-- Rather than repeating the schedule here, just link visit SignUpGenius
 <div class="table-wrapper">
 			<table class="alt">
 				<tbody>
@@ -45,6 +49,7 @@ redirect_from:
 				</tbody>
 			</table>
 </div>
+-->
 
 <p>Reach out to <a href="mailto:join@palekai.org">join@palekai.org</a> if you have questions.</p>
 
@@ -84,7 +89,6 @@ Pale Kai members.
 </p>
 
 For more information about paddling with Pale Kai, contact: <a href="mailto:join@palekai.org">join@palekai.org</a>.
--->
 
 <h2>Novice Year Participation</h2>
 <p>
@@ -101,16 +105,24 @@ participate in:
 </ul>
 
 <!--<hr class="major" />-->
-
+<!-- Commenting out Registration link until Registration opens up
 <p><a href="/members/registration/" class="button">Sign Me Up For the Year!</a></p>
+-->
 
 <h2>Novice Year Overview</h2>
 
 <h4>January - February:  Recruitment </h4>
 
-<p>Pale Kai’s “Three for Free” policy
-allows newcomers to experience outrigger paddling in the relatively calm waters of Morro Bay without paying a fee or membership
-dues. The recruitment season is the time to become acquainted with the sport and culture of outrigger canoe racing while making new friends!</p>
+
+<p>
+    <!-- Temporarilty this copy to avoid confusion AFTER recruiting season
+    Pale Kai’s “Three for Free” policy
+    allows newcomers to experience outrigger paddling in the relatively calm waters of Morro Bay without paying a fee or membership
+    dues.
+    -->
+    The recruitment season is the time to become acquainted with the sport and culture of outrigger canoe racing while making new
+    friends!
+</p>
 
 <h4>March - April:  Race Training 3 times a week</h4>
 <p>Race training will begin in early March.</p>

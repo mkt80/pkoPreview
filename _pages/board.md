@@ -11,16 +11,16 @@ Thank you to the board members who selflessly volunteer their time and talent be
 
 - President:                Paul Worthington
 - Vice President:           Mike Traynor
-- Secretary:                Jill O'Connor
+- Secretary:                Brenda Breslin
 - Treasurer:                Nancy Needham & Stephanie Currier
 - Events Coordinator:       Carrie De Ruyter
 - Membership:               Flo Bee
 - Equipment Coordinator:    Chris Wertz
 - Transportation:           Bob Teaford
 - Sponsorship/Fundraising:  Kim Lillywhite
-- Communications:           Tracy Lukehart
+- Communications:           Flo Bee
 - SCORA Rep:                Dave Degroot & Sarah Donahue
 - Head Coach:               Scott Bixler
-- Men's Coach:              TBD
-- Women's Coach:            TBD
-- Novice Coach:             Andrew Wilkening
+- Men's Coach:              Tom Needham & Patrick Lyons
+- Women's Coach:            Bonnie Lyons
+- Novice Coach:             Don Tran

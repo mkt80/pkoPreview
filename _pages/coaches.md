@@ -44,12 +44,7 @@ BIO TBD
 
 ## Tom Needham
 ### Men's (Co-)Coach
-<!--
 <img src="/assets/images/bio/TomN_2022.jpg"  class="headshot" />
-<p>
-BIO TBD
-</p>
--->
 
 <!-- Put some space between bios. -->
 <div class="clear"></div><br>
@@ -75,7 +70,17 @@ fun, working hard, and being safe!
 
 <h3>Andrew Wilkening</h3>
 <h4>Assistant Novice Coach</h4>
-<img src="/assets/images/bio/andrewW1.jpg"  class="headshot" />
+<img src="/assets/images/bio/AndrewW_2022.jpg"  class="headshot" />
+<p>
+Andrew discovered outrigger paddling in Maui when he joined his high school's varsity crew.  In this first year of paddling, and
+under the incredible coaching of Paul Lu'uvai, Andrew quickly became a leader in both fitness and technique.  His team won
+the MIL Championship and earned 3rd in the State finals.
+</p>
+<p>
+A decade later, Andrew found a second family - Pale Kai. Although his first year was filled with bumps and trials, just like the
+waters of the Central Coast, his dedication and love for the canoe kept Andrew on this path that continues to impact his body, mind
+and life for the better.  Andrew continues to paddle all over California with the support of Pale Kai's aloha spirit.
+</p>
 
 <div class="clear"></div>
 

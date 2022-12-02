@@ -6,7 +6,7 @@ categories: Event
 image: 
 ---
  
-<iframe width="100%" height="624" src="https://www.youtube.com/embed/RZgSrb9B2Ec?loop=1&autoplay=1" title="2022 Pale Kai Pecho Funday" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+<iframe width="100%" height="624" src="https://www.youtube.com/embed/RZgSrb9B2Ec?autoplay=1&mute=1&playlist=RZgSrb9B2Ec&loop=1" title="2022 Pale Kai Pecho Funday" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
  
 On Saturday, September 23rd, Pale Kai Outrigger celebrated the end of our race season with our Second Annual Pale Kai Fun Paddle - An
 opportunity for Pale Kai, select guest clubs and paddlers, and their families to join us for an informal paddle, raffle, silent auction, and
@@ -81,23 +81,6 @@ We especially want to thank our sponsors who so generously donated to our raffle
     </table>
 </div>
 
-<div class="row gtr-200">
-    <div class="col-6 col-12-medium">
-        <span class="image fit"><img src="/assets/images/2022 Pecho Fun Day/raffleWide.jpg" alt=""></span>
-        <div class="box alt">
-            <div class="row gtr-50 gtr-uniform">
-                <div class="col-4"><span class="image fit"><img src="/assets/images/2022 Pecho Fun Day/raffle1.jpg" alt=""></span></div>
-                <div class="col-4"><span class="image fit"><img src="/assets/images/2022 Pecho Fun Day/raffle2.jpg" alt=""></span></div>
-                <div class="col-4"><span class="image fit"><img src="/assets/images/2022 Pecho Fun Day/raffle3.jpg" alt=""></span></div>
-                <div class="col-4"><span class="image fit"><img src="/assets/images/2022 Pecho Fun Day/raffle4.jpg" alt=""></span></div>
-                <div class="col-4"><span class="image fit"><img src="/assets/images/2022 Pecho Fun Day/raffle5.jpg" alt=""></span></div>
-                <div class="col-4"><span class="image fit"><img src="/assets/images/2022 Pecho Fun Day/raffle6.jpg" alt=""></span></div>
-                <div class="col-4"><span class="image fit"><img src="/assets/images/2022 Pecho Fun Day/raffle7.jpg" alt=""></span></div>
-                <div class="col-4"><span class="image fit"><img src="/assets/images/2022 Pecho Fun Day/raffle8.jpg" alt=""></span></div>
-            </div>
-        </div>
-    </div>
-</div>
+<span class="image main"><a href="https://photos.app.goo.gl/jrjycPUWrx63oVmD6" target="_blank"><img src="/assets/images/2022 Pecho Fun Day/2022 PechoCollage.jpg" alt="" /></a></span>
 
-
-Click <a href="https://photos.google.com/album/AF1QipPkcHIyQoZXZUrlKLfxNEJtAWy3Qyx1K1CKWIkR">here</a> for more photos from the event (Google Photos).
+Click on the collage to see additional photos from the event.
