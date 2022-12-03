@@ -9,7 +9,7 @@ permalink: /alumniprogram/
 
 <p>Even if your racing days are over, we would like to encourage our long lost ohana to return to the ocean sport they love. Alumni are invited to participate in regular Saturday practices throughout the offseason. Go to the <a href="/open-program/">Racing Program Page</a> for more the schedule.</p>
 
-<p>Stay tuned for 2022 Alumni Program information.</p>
+<p>Stay tuned for 2023 Alumni Program information.</p>
 
 <!--
 

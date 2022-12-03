@@ -21,35 +21,38 @@ redirect_from:
 <p>Pale Kai will be offering Saturday morning demonstration and recruitment sessions at Coleman Beach in Morro Bay to get you in a
 canoe and on the water. Join us for a fun intro to outrigger canoe paddling.</p>
 
-<p>Visit our <a href="https://www.signupgenius.com/go/409044bafa82ca2f85-pale1" target="_blank">SignUpGenius Page</a> to check the
-schedule and to register for your FREE paddling session. All equipment and instruction is provided. Q&A to follow!</p>
+<p>Click below to register for your FREE paddling session. All equipment and instruction is provided. Q&A to follow!</p>
 
-<!-- Rather than repeating the schedule here, just link visit SignUpGenius
 <div class="table-wrapper">
 			<table class="alt">
 				<tbody>
 					<tr>
-						<td>Jan 22, 2022</td>
-						<td><a href="https://www.signupgenius.com/go/409044bafa82ca2f85-pale" target="_blank">8am to 10am</a></td>
-						<td><a href="https://www.signupgenius.com/go/409044bafa82ca2f85-pale" target="_blank">10am to 12pm</a></td>
+						<td>Jan 14, 2023</td>
+						<td><a href="https://www.signupgenius.com/index.cfm?go=s.signup&urlid=409044bafa82ca2f85-pale1&view=standard" target="_blank">8am to 10am</a></td>
+						<td><a href="https://www.signupgenius.com/index.cfm?go=s.signup&urlid=409044bafa82ca2f85-pale1&view=standard" target="_blank">10am to 12pm</a></td>
 						<td><a href="https://goo.gl/maps/bcRNk7TNnyKY69u87">Coleman Park, Morro Bay</a></td>
 					</tr>
 					<tr>
-						<td>Feb 12, 2022</td>
-						<td><a href="https://www.signupgenius.com/go/409044bafa82ca2f85-pale" target="_blank">8am to 10am</a></td>
-						<td><a href="https://www.signupgenius.com/go/409044bafa82ca2f85-pale" target="_blank">10am to 12pm</a></td>
+						<td>Jan 28, 2023</td>
+						<td><a href="https://www.signupgenius.com/index.cfm?go=s.signup&urlid=409044bafa82ca2f85-pale1&view=standard" target="_blank">8am to 10am</a></td>
+						<td><a href="https://www.signupgenius.com/index.cfm?go=s.signup&urlid=409044bafa82ca2f85-pale1&view=standard" target="_blank">10am to 12pm</a></td>
 						<td><a href="https://goo.gl/maps/bcRNk7TNnyKY69u87" target="_blank">Coleman Park, Morro Bay</a></td>
 					</tr>
 					<tr>
-						<td>Feb 26, 2022</td>
-						<td><a href="https://www.signupgenius.com/go/409044bafa82ca2f85-pale" target="_blank">8am to 10am</a></td>
-						<td><a href="https://www.signupgenius.com/go/409044bafa82ca2f85-pale" target="_blank">10am to 12pm</a></td>
+						<td>Feb 11, 2023</td>
+						<td><a href="https://www.signupgenius.com/index.cfm?go=s.signup&urlid=409044bafa82ca2f85-pale1&view=standard" target="_blank">8am to 10am</a></td>
+						<td><a href="https://www.signupgenius.com/index.cfm?go=s.signup&urlid=409044bafa82ca2f85-pale1&view=standard" target="_blank">10am to 12pm</a></td>
+						<td><a href="https://goo.gl/maps/bcRNk7TNnyKY69u87" target="_blank">Coleman Park, Morro Bay</a></td>
+					</tr>
+					<tr>
+						<td>Feb 25, 2023</td>
+						<td><a href="https://www.signupgenius.com/index.cfm?go=s.signup&urlid=409044bafa82ca2f85-pale1&view=standard" target="_blank">8am to 10am</a></td>
+						<td><a href="https://www.signupgenius.com/index.cfm?go=s.signup&urlid=409044bafa82ca2f85-pale1&view=standard" target="_blank">10am to 12pm</a></td>
 						<td><a href="https://goo.gl/maps/bcRNk7TNnyKY69u87" target="_blank">Coleman Park, Morro Bay</a></td>
 					</tr>
 				</tbody>
 			</table>
 </div>
--->
 
 <p>Reach out to <a href="mailto:join@palekai.org">join@palekai.org</a> if you have questions.</p>
 
