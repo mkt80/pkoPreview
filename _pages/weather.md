@@ -31,3 +31,12 @@ height=420&color=870100&name=Port San Luis&activity=Windsurf&app=windalert"
 
 <iframe src="https://www.ndbc.noaa.gov/widgets/station_page.php?station=PSLC1" style="border: solid thin #3366ff; width:300px; height:350px"></iframe>
 <iframe src="https://www.ndbc.noaa.gov/widgets/station_page.php?station=46215" style="border: solid thin #3366ff; width:300px; height:350px"></iframe>
+
+<br>
+
+<h3>Webcam</h3>
+
+<iframe width="923" height="544"    src="https://www.youtube.com/embed/FbkafRW52h4" title="Avila Beach Live Webcam" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="923" height="544"    src="https://www.youtube.com/embed/sGBT5AeZ2fs" title="Avila Beach Live Webcam" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
