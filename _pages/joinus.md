@@ -8,15 +8,15 @@ permalink: /recruitment-program/
 redirect_from:
   - /joinus/
 ---
-<h2>2023 Recruitment Program</h2>
+<h2>Annual Recruitment Program</h2>
 
 <!--
-<p>The 2023 Recruitment Program has concluded! <strong>The 1st day of novice pracice is March 5th in Morro Bay</strong>.</p>
-<p>If you didn't make it to the Recruitment Program this year but still plan on join PKO for 2022, then register now!</p>
+<p>The 2023 Recruitment Program has concluded! <strong>The 1st day of novice pracice is March 4th in Morro Bay</strong>.</p>
+<p>If you didn't make it to a Demo Day this year but still plan on join PKO for 2022, then register now!</p>
 <a href="/members/registration/" target="_blank" class="button">Member Registration</a>
 -->
 
-<h4>Demo Days in Morro Bay - January and February 2023</h4>
+<h4>Demo Days in Morro Bay - January and February</h4>
 
 <p>Pale Kai will be offering Saturday morning demonstration and recruitment sessions at Coleman Beach in Morro Bay to get you in a
 canoe and on the water. Join us for a fun intro to outrigger canoe paddling.</p>
@@ -53,6 +53,8 @@ canoe and on the water. Join us for a fun intro to outrigger canoe paddling.</p>
 				</tbody>
 			</table>
 </div>
+
+<P><I>Note that this schedule is subject to change. Please register via the links above to be notified of last-minute changes.</I></p>
 
 <p>Reach out to <a href="mailto:join@palekai.org">join@palekai.org</a> if you have questions.</p>
 
@@ -107,10 +109,8 @@ participate in:
 <li>Others as interest and need arises</li>
 </ul>
 
-<!--<hr class="major" />-->
-<!-- Commenting out Registration link until Registration opens up
+<!-- <hr class="major" /> -->
 <p><a href="/members/registration/" class="button">Sign Me Up For the Year!</a></p>
--->
 
 <h2>Novice Year Overview</h2>
 
@@ -139,7 +139,7 @@ huli drills (recovering from an overturned canoe), treading water, as well as a 
 
 <h4>May-June: Iron Race Season (6 person crews)</h4>
 <p>
-The first official races begin in May.  Pale Kai is a member of the Southern California Outrigger Racing Association (SCORA).  We compete with other member clubs in SCORA, and our official events take place between San Diego and Santa Barbara. The first five races take place from early May through the end of June.  In the novice division, races are approximately 4 to 5 miles and occur in more protected waters than the veteran divisions.   Iron races consist of 6 person crews over a set distance, and novice teams may race under men’s, women’s, or co-ed divisions.
+The first official races begin in May.  Pale Kai is a member of the Southern California Outrigger Racing Association (SCORA).  We compete with other member clubs in SCORA, and our official events take place between San Diego and Santa Barbara. The first five races take place from early May through the end of June or early-July.  In the novice division, races are approximately 4 to 5 miles and occur in more protected waters than the veteran divisions.   Iron races consist of 6 person crews over a set distance, and novice teams may race under men’s, women’s, or co-ed divisions.
 </p>
 
 <p><a href="https://www.scora.org/races/" target="_blank" class="button">View SCORA Race Schedule</a></p>
@@ -148,7 +148,15 @@ The first official races begin in May.  Pale Kai is a member of the Southern Cal
 </p>
 <h4>August-September: 9-Man Season</h4>
 <p>
-Those Novice who develop proficiency may also be invited to compete in the 9-Man Season.  There is no guarantee that as a novice you will participate in nine person crews, due to the increased physical demands and technical skill required to safely perform open water crew changes.  The 9-man races are much longer distances than the iron season, from 20 miles to over 30 miles. Paddlers must demonstrate the endurance and proficiency during practice to be considered for a 9-man crew.
+9-person races involve crews of up to 9 paddlers. While 6 paddlers paddle the canoe, the remaining paddlers take a break on a 
+chase boat and periodically relieve the paddlers. 9-person races are generally much longer than iron races, ranging from
+about 18 miles to over 30 miles.
+</p>
+<p>
+Due to the increased physical demands and skills required to paddle 9-person distances and to perform open water
+crew changes, there is no guarantee that a first-year paddler will be invited to participate in a 9-person race crew. That
+said, first-year paddlers who demonstrate sufficient conditioning and proficiency <b>may</b> invited to compete in the 9-person
+season. And, of course, all members are welcome to practice year round.
 </p>
 
 <p>
@@ -163,7 +171,8 @@ Those Novice who develop proficiency may also be invited to compete in the 9-Man
 -->
 
 <h4>September-March:  Winter Paddling</h4>
-<p>Winter practices will be subject to daylight and weather restrictions and continue at Avila Beach, until the time changes. A few boats will  then be re-located to Morro Bay for more protected paddling.  
+<p>Winter practices will be subject to daylight and weather restrictions and continue at Avila Beach, until the time changes.
+A few canoes will  then be re-located to Morro Bay for more protected paddling.  
 </p>
 <p>By the time your novice season is over, you will have gained some new skills, increased your fitness levels and made a number of new friends.
 </p>

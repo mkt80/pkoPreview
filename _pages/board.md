@@ -9,18 +9,18 @@ permalink: /board/
 
 Thank you to the board members who selflessly volunteer their time and talent behind the scenes to keep this club operating smoothly:
 
-- President:                Paul Worthington
-- Vice President:           Mike Traynor
+- President:                Mike Traynor
+- Vice President:           Marianne Zawadzki
 - Secretary:                Brenda Breslin
-- Treasurer:                Nancy Needham & Stephanie Currier
-- Events Coordinator:       Carrie De Ruyter
-- Membership:               Flo Bee
+- Treasurer:                Stephanie Currier
+- Events Coordinator:       Aggie Arvizu & Jenny Beck
+- Membership:               Katherine Nilbrink & Cindy Vormbaum
 - Equipment Coordinator:    Chris Wertz
 - Transportation:           Bob Teaford
-- Sponsorship/Fundraising:  Kim Lillywhite
+- Sponsorship/Fundraising:  Geof Findley
 - Communications:           Flo Bee
-- SCORA Rep:                Dave Degroot & Sarah Donahue
+- SCORA Rep:                Melissa Traynor
 - Head Coach:               Scott Bixler
-- Men's Coach:              Tom Needham & Patrick Lyons
-- Women's Coach:            Bonnie Lyons
-- Novice Coach:             Don Tran
+- Men's Coach:              Austin Bixler
+- Women's Coach:            Patrick Lyons
+- Novice Coach:             Andrew Wilkening & Bob Teaford
