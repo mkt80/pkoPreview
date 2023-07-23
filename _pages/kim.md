@@ -2,11 +2,10 @@
 layout: post
 title: Memorial Paddle-Out for Kim Lillywhite
 description: 
+image: assets/images/Kim-Lillywhite-Paddleout.png
 permalink: /kim/
 feature: true
 ---
-
-<img src="/assets/images/Kim-Lillywhite-Paddleout.png">
 
 <b>Aloha O'hana.</b> On July 16th, 2023, Pale Kai, and the entire paddling community, lost a beloved member of our ohana. Pale Kai Outrigger Canoe Club
 and Kai Wai Northbay Paddling Club will host a Memorial Paddle-Out, Celebration of Life, and Beach BBQ lunch in loving memory of Kim on August 5th, 2023.
@@ -16,6 +15,8 @@ have a blessing, and spread Kim's ashes in the sea, a place she truly loved to b
 
 <p>The paddle-out will be followed by a casual Hawaiian-style lunch right on the beach in Avila. Plan to stay after the paddle-out and
 lunch as we continue to celebrate her life.</p>
+
+<p>If you plan to attend, please RSVP (link below).</p>
 
 <h3>Event Details</h3>
 
@@ -56,7 +57,7 @@ Schedule of Events:<br>
 <li>Dogs are not allowed on the beach; please leave your furry friends at home.</li>
 </ul>
 
-<p>If you have questions, please contact <a href="mailto:palekaioutrigger@gmail.com">palekaioutrigger@gmail.com</a>
+<p>If you have questions, contact <a href="mailto:palekaioutrigger@gmail.com">palekaioutrigger@gmail.com</a>
 or <a href="tel:+1-603-306-7458">603-306-7458</a>.
 
 <h3>RSVP</h3>
