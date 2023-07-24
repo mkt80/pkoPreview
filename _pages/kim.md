@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Memorial Paddle-Out for Kim Lillywhite
+title: [Force Rebuild] Memorial Paddle-Out for Kim Lillywhite
 description: 
 image: assets/images/Kim-Lillywhite-Paddleout.png
 permalink: /kim/
