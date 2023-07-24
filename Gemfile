@@ -3,3 +3,4 @@ gemspec
 gem 'jekyll-redirect-from'
 gem 'jekyll-paginate'
 gem 'kramdown-parser-gfm'
+gem 'jekyll-seo-tag'
