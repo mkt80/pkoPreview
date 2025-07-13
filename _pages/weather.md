@@ -36,7 +36,8 @@ height=420&color=870100&name=Port San Luis&activity=Windsurf&app=windalert"
 
 <h3>Webcam</h3>
 
-<iframe width="923" height="544"    src="https://www.youtube.com/embed/FbkafRW52h4" title="Avila Beach Live Webcam" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1161" height="678" src="https://www.youtube.com/embed/rY3VkqAHvps" title="Avila Beach Live Webcam - California - 805 Webcams" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="923" height="544"    src="https://www.youtube.com/embed/sGBT5AeZ2fs" title="Avila Beach Live Webcam" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1161" height="678" src="https://www.youtube.com/embed/W_xQAzv6Wxc" title="Avila Beach Overlook Webcam - 805 Webcams and PG&amp;E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<iframe width="1167" height="681" src="https://www.youtube.com/embed/5XaPE8C5aQU" title="Flying Flags Avila Beach Webcam - 805 Webcams" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

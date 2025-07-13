@@ -21,20 +21,18 @@
            frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 		</div>
         -->
-        
+        <!--
         <iframe
             width="100%" height="624" src="https://www.youtube.com/embed/RZgSrb9B2Ec?autoplay=1&mute=1&playlist=RZgSrb9B2Ec&loop=1"
             title="" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope;
             picture-in-picture" allowfullscreen>
         </iframe> 
-        
-        <!--
+        -->
         <div class="video-background">
             <div class="video-foreground">
                 <div id="muteYouTubeVideoPlayer"></div>
             </div>
         </div>
-        -->
 
         <div class="inner">
             <!--
@@ -102,7 +100,15 @@
 
      // Written by @labnol 
     </script>
-   
+    <style>
+      .video-background .video-foreground iframe {
+        left: 0;
+        top: 20%;
+        height: 80%;
+        width: 100%;
+        position: absolute;
+      } 
+    </style> 
 </body>
 
 </html>
