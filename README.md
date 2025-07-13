@@ -1,6 +1,6 @@
 # Pale Kai Outrigger Website
 
-This repository contains the files used for generating the Pale Kai Outrigger website.
+This repository contains the files used for generating the Pale Kai Outrigger website. ᕙ(⇀‸↼‶) ᕗ https://www.palekai.org/ 
 
 The site uses [Jekyll](https://jekyllrb.com/), a static site generator. [GitHub Pages](https://pages.github.com/), where the site is hosted, natively supports Jekyll so every time someone pushes to this repository, the website will be built and updated. For hosting it yourself, see Setting up a local copy of the website.
 
