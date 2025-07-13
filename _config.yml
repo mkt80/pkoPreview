@@ -56,6 +56,7 @@ collections:
   products:
     output: true
 
-gems:
+plugins:
     - jekyll-seo-tag
+    - jekyll-paginate
  
