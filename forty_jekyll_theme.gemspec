@@ -1,5 +1,10 @@
 # coding: utf-8
 
+# Notes: Mike Traynor updated the jekyll and bundler dependencies in this file
+#		 to make them compatible with newer versions of Ruby. I did NOT 
+#		 update any of the other theme files for fear that they might have
+#		 modified.
+
 Gem::Specification.new do |spec|
   spec.name          = "forty_jekyll_theme"
   spec.version       = "0.2.2"
@@ -12,7 +17,7 @@ Gem::Specification.new do |spec|
 
   spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r{^(assets|_layouts|_includes|_sass|LICENSE|README)}i) }
 
-  spec.add_development_dependency "jekyll", "~> 3.3"
-  spec.add_development_dependency "bundler", "~> 1.12"
+  spec.add_development_dependency "jekyll", "~> 4.0"
+  spec.add_development_dependency "bundler", "~> 2.2"
   spec.add_development_dependency "rake", "~> 10.0"
 end
