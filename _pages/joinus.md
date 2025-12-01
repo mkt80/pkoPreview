@@ -25,11 +25,21 @@ redirect_from:
 
 <h4>Demo Days in Morro Bay - January and February</h4>
 
-<p>Pale Kai will be offering FREE* Sunday morning demonstration sessions at Coleman Beach in Morro Bay to get you in a
-canoe and on the water. Join us for a fun intro to outrigger canoe paddling.</p>
+<p>
+Pale Kai will be offering FREE* Saturday morning demonstration sessions at Coleman Beach in Morro Bay to get you in a
+canoe and on the water. Demonstration sessions will be held at 9:30am and at 11:00am every Saturday, beginning January 17th
+and continuing through February 7th. Demo sessions will last about 75 minutes. 
+We hope you'll join us for a fun intro to outrigger canoe paddling!
+</p>
 
-<p>Subject to weather conditions, demonstration sessions will be held from 9am to 11am every Sunday, beginning January 12 and continuing
-through the end of February. No need to make a reservation - just drop by Coleman Beach between 9am and 10am and we'll find you a seat.</p>
+<!-- No need to make a reservation - just drop by Coleman Beach between 9am and 10am and we'll find you a seat. -->
+
+<a href="https://www.signupgenius.com/go/409044BAFA82CA2F85-60818577-pale#/" target="_blank" class="button special">RESERVE MY SEAT!</a>
+
+<p><i>
+    Note that all demonstration and practice sessions are subject to weather
+	conditions and availability of seats.
+</i></p>
 
 <p><i>
     * Pale Kai offers a "Three for Free" policy to allow newcomers to experience outrigger paddling without paying a fee or 
@@ -156,11 +166,17 @@ participate in:
 </p>
 
 <h4>March - April:  Race Training 3 times a week</h4>
-<p>Race training will begin in early March.</p>
 <p>
-Your novice coach will provide the skills training you will need for the upcoming race season. It is important to practice with your team consistently to develop your technique and timing. You will also form new friendships (for no additional fee!).</p>
+Race training will begin in early March. We generally practice three times a
+week: Saturday or Sunday mornings at 8:30am and two weeknights at 5:30pm.
+</p>
 
-<p>All paddlers must be proficient swimmers. Before our competitive season begins, you must pass a water safety test that includes
+<p>Your novice coach will provide the skills training you will need for the upcoming race season.</p>
+
+<p>It is important to practice with your
+team consistently to develop your technique and timing. You will also form new friendships (for no additional fee!).</p>
+
+<p>All paddlers must be proficient swimmers. Before our competitive season begins, paddlers must pass a water safety test that includes
 huli drills (recovering from an overturned canoe), treading water, as well as a 100 meter swim test administered by a PKO coach.</p>
 
 <img src="/assets/images/outrigger-race-1.jpg" class="image right">
@@ -173,14 +189,14 @@ The first official races begin in May.  Pale Kai is a member of the Southern Cal
 <p>The Iron Season concludes with the championships in San Diego. This highly attended event attracts entrants from all over the state and is a fitting tribute to the outrigger culture. For added fun, novice teams are encouraged to enter the Novice Dance Competition to display their grace and creativity, or just poke fun at themselves in a family friendly environment.
 </p>
 
-<p>6-Person Iron Race Schedule for 2025:
+<p>6-Person Iron Race Schedule for 2026:
 <ul>
-    <li>Crystal Pier (San Diego): May 3</li>
-    <li>Battle of the Breakwater (Long Beach): May 10</li>
-    <li>Rig Run (Santa Barbara): May 17</li>
-    <li>Kamanahoku Klassic (Marina Del Rey) : June 7</li>
-    <li>Ventura Challenge (Ventura): June 14</li>
-    <li>Iron Champs (San Diego) : June 28</li>
+    <li>Crystal Pier (San Diego): May 2</li>
+    <li>Battle of the Breakwater (Long Beach): May 9</li>
+    <li>Rig Run (Santa Barbara): May 16</li>
+    <li>Kamanahoku Klassic (Marina Del Rey) : June 6</li>
+    <li>Ventura Challenge (Ventura): June 13</li>
+    <li>Iron Champs (San Diego) : June 27</li>
 </ul>
 
 <h4>August-September: 9-Man Season</h4>
@@ -206,11 +222,11 @@ season. And, of course, all members are welcome to practice year round.
 <p><a href="https://www.scora.org/races/" target="_blank" class="button">View SCORA Race Schedule</a></p>
 -->
 
-<p>9-Person Race Schedule:
+<p>9-Person Race Schedule for 2026:
 <ul>
-    <li>Whitey Harrison 9-Man (Dana Point) : Aug. 9, 2024</li>
-    <li>Paopao 9-Man (Oceanside): Aug. 23, 2024</li>
-    <li>Catalina Crossing 9-Man (Newport Beach / Avalon) : Sept. 6 & 7, 2024</li>
+    <li>Whitey Harrison 9-Man (Dana Point) : August 8</li>
+    <li>Paopao 9-Man (Oceanside): August 22</li>
+    <li>Catalina Crossing 9-Man (Newport Beach / Avalon) : September 13 & 14</li>
 </ul>
 
 <!-- Video no longer available
