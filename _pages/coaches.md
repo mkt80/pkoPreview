@@ -52,6 +52,7 @@ Sarah S. began her paddling journey with a passion for standup paddleboard racin
 Fast forward to today, Sarah is excited to step in and help Pale Kai build upon the recent 2023 season women’s crew racing successes.  As a 2024 women’s co-coach, Sarah looks forward to applying her experience in endurance paddle training to help the team become even stronger and faster, while still supporting fun and positive experience.
 </P>
 
+<!--
 ## Sarah Donahue
 ### Women's Coach
 <img src="/assets/images/bio/SarahD_2024.jpg"  class="headshot" />
@@ -60,10 +61,30 @@ Sarah D. began her pursuit of water sports in college as a four year member of t
 </p><p>
 Sarah moved to the Central Coast and joined Pale Kai in 2014. Sarah has a deep passion for training, sports psychology and brings a competitive edge. She enjoys the escapism paddling provides after a long day at her full time gig as a middle school counselor. Sarah is excited to co-coach with Sarah S and continue to build the athleticism of our strong women paddlers that Pale Kai is fortunate to have. 
 </p>
+-->
 
 <!-- Put some space between bios. -->
 <div class="clear"></div><br>
 
+## Josh Tickenoff
+### Novice Coach
+<img src="/assets/images/bio/JoshT_2025b.JPG"  class="headshot" />
+<p>
+2026 will mark Josh's fourth year paddling with Pale Kai...
+</p>
+<p>
+Josh is easy to find... Just look for the guy smiling for a selfie!
+</p>
+
+<!-- Put some space between bios. -->
+<div class="clear"></div><br>
+
+<!--
+I archive old bios here so they can be easily re-used. I know I can find old bios in GIT, but it's a lot easier if they're
+right here.
+-->
+
+<!--
 ## Tommy Perez
 ### Novice Coach
 <img src="/assets/images/bio/TommyP_2024.jpg"  class="headshot" />
@@ -76,11 +97,6 @@ Tommy's love for paddling began "in the womb" and was realized in 2012 after joi
 <p>
 Wherever Tommy is, he is easy to find...just lookout for the guy on the water with the biggest smile!  
 </p>
-
-
-<!--
-I archive old bios here so they can be easily re-used. I know I can find old bios in GIT, but it's a lot easier if they're
-right here.
 -->
 
 <!--
@@ -183,15 +199,12 @@ A decade later, Andrew found a second family - Pale Kai. Although his first year
 ### Novice Coach
 <img src="/assets/images/bio/BobT_2023.jpg"  class="headshot" />
 <p>
-Bob joined Pale Kai in 2019 as a Novice, paddled through the 'COVID years,' and raced as a veteran in 2022. His background in sport includes road bike racing, mountain bike racing, car racing, as well as lots of sailboat racing and cruising, more than 10,000 miles all around the world. He joined Pale Kai in pretty poor health and, after four years of paddling, claims his fitness is as good or better than in his 20's. Bob's hope as a Novice coach is to provide a safe, supportive, and encouraging environment for everyone to reach that elusive combination of great fitness, deep sense of well being, and development of new friendships, all the while working together as a team toward the common goal of paddling faster than all the other novice teams!
-</p>
--->
-
-<!--
-## Bob Teaford
-### Novice Coach
-<img src="/assets/images/bio/BobT_2023.jpg"  class="headshot" />
-<p>
-Bob joined Pale Kai in 2019 as a Novice, paddled through the 'COVID years,' and raced as a veteran in 2022. His background in sport includes road bike racing, mountain bike racing, car racing, as well as lots of sailboat racing and cruising, more than 10,000 miles all around the world. He joined Pale Kai in pretty poor health and, after four years of paddling, claims his fitness is as good or better than in his 20's. Bob's hope as a Novice coach is to provide a safe, supportive, and encouraging environment for everyone to reach that elusive combination of great fitness, deep sense of well being, and development of new friendships, all the while working together as a team toward the common goal of paddling faster than all the other novice teams!
+Bob joined Pale Kai in 2019 as a Novice, paddled through the 'COVID years,' and raced as a veteran in 2022.
+His background in sport includes road bike racing, mountain bike racing, car racing, as well as lots of sailboat
+racing and cruising, more than 10,000 miles all around the world. He joined Pale Kai in pretty poor health and,
+after four years of paddling, claims his fitness is as good or better than in his 20's. Bob's hope as a Novice 
+oach is to provide a safe, supportive, and encouraging environment for everyone to reach that elusive combination
+of great fitness, deep sense of well being, and development of new friendships, all the while working together as
+a team toward the common goal of paddling faster than all the other novice teams!
 </p>
 -->
