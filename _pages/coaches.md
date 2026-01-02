@@ -70,7 +70,7 @@ Sarah moved to the Central Coast and joined Pale Kai in 2014. Sarah has a deep p
 ### Novice Coach
 <img src="/assets/images/bio/JoshT_2025b.JPG"  class="headshot" />
 <p>
-Josh came to the Central Coast from Orange County four years ago. After a year of "all work and no play", he
+Josh came to the Central Coast <!--from Orange County--> four years ago. After a year of "all work and no play", he
 resolved to get a life. Fortuitously, he met a paddler who shared her passion of paddling with PKO. <!-- Despite
 growing up near the Newport Aquatic Center, Josh had never realized Hawaiian‑style outrigger paddling existed in
 California — let alone in Avila Beach.-->One Demo Day was all it took; he was hooked.
@@ -91,8 +91,8 @@ In addition to paddling, Josh enjoys hiking, camping, light trail jogs ("no mara
 and the many other activities available on the central coast. Josh is a huge fan of trying new things.
 </p>
 <p>
-Josh considers San Luis Obispo his “Goldilocks Land.” As a kid, he spent summers in Cambria, but it wasn’t until
-later in life that he fell in love with SLO proper and the surrounding areas. Moving here, he says, was one of the best
+Josh considers San Luis Obispo his “Goldilocks Land.” <!--As a kid, he spent summers in Cambria, but it wasn’t until
+later in life that he fell in love with SLO proper and the surrounding areas.--> Moving here, he says, was one of the best
 decisions he’s made in years: “Every day feels like a mini vacation.”
 </p>
 
