@@ -15,7 +15,6 @@
 		data-item-name="{{ product.name }}"
 		data-item-id="{{ product.sku }}"
 		data-item-image="{{ product.image }}"
-		data-item-url="http://www.palekai.org/dues"
 		data-item-price="{{ product.price }}">
      	Add to Cart
     </button>
@@ -23,3 +22,16 @@
 	${{ product.price }}
 	</span>
 </div>
+
+<!--
+
+<div class="product">
+ <div class="product__information">
+    <h2 class="product__title">{{ product.name }}</h2>
+    <p class="product__description">{{ product.content }}</p>
+    {% include product-definition.html %}
+ </div>
+ <img src="{{ product.image }}" alt="{{ product.name }} product image" class="product__image">
+</div>
+
+-->

@@ -1,0 +1,35 @@
+---
+layout: products
+title: PKO Shop	
+description: BLANK
+permalink: /shop/
+head:
+  snipcart.html
+---
+
+
+<h2>PKO Shop</h2>
+
+<h3>Paddling Clinics</h3>
+
+<div class="row">
+	
+	<div class="12u$ 12u$(small)">
+		
+    <div class="dues-portal">
+	  	<div class="content">
+
+	    	<div class="list">
+      		
+					{% for product in site.products %}
+					  {% if product.type == "clinic" %}
+					  	{% include product.html %}
+					  {% endif %}
+					{% endfor %}
+
+	      	</div>
+	      </div>
+	    </div>
+	</div>
+</div>
+
